@@ -1,0 +1,290 @@
+[
+    {
+        "ID": 1,
+        "English Pronunciation": "watashi",
+        "Japanese": "わたし",
+        "Nepali Meaning": "मैले",
+        "English": "I",
+        "Lesson": "L-2"
+    },
+    {
+        "ID": 2,
+        "English Pronunciation": "watashitachi",
+        "Japanese": "わたしたち",
+        "Nepali Meaning": "हामी",
+        "English": "We",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 3,
+        "English Pronunciation": "anata",
+        "Japanese": "あなた",
+        "Nepali Meaning": "तपाईं",
+        "English": "You",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 4,
+        "English Pronunciation": "ano hito",
+        "Japanese": "あのひと",
+        "Nepali Meaning": "त्यो मान्छे",
+        "English": "That person",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 5,
+        "English Pronunciation": "ano kata",
+        "Japanese": "あのかた",
+        "Nepali Meaning": "त्यो व्यक्ति",
+        "English": "That man/woman",
+        "Lesson": "L-5"
+    },
+    {
+        "ID": 6,
+        "English Pronunciation": "minnasan",
+        "Japanese": "みなさん",
+        "Nepali Meaning": "सबैलाई",
+        "English": "Everyone",
+        "Lesson": "L-6"
+    },
+    {
+        "ID": 7,
+        "English Pronunciation": "san",
+        "Japanese": "～さん",
+        "Nepali Meaning": "～ज्यू",
+        "English": "Mr./Ms.",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 8,
+        "English Pronunciation": "chan",
+        "Japanese": "～ちゃん",
+        "Nepali Meaning": "～क",
+        "English": "Little girl/boy",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 9,
+        "English Pronunciation": "kun",
+        "Japanese": "～くん",
+        "Nepali Meaning": "～छ",
+        "English": "Little boy/young man",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 10,
+        "English Pronunciation": "jin",
+        "Japanese": "～じん",
+        "Nepali Meaning": "～ नागरिक",
+        "English": "Citizen",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 11,
+        "English Pronunciation": "sensei",
+        "Japanese": "せんせい",
+        "Nepali Meaning": "शिक्षक",
+        "English": "Teacher",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 12,
+        "English Pronunciation": "kyoushi",
+        "Japanese": "きょうし",
+        "Nepali Meaning": "शिक्षक",
+        "English": "Teacher",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 13,
+        "English Pronunciation": "gakusei",
+        "Japanese": "がくせい",
+        "Nepali Meaning": "विद्यार्थी",
+        "English": "Student",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 14,
+        "English Pronunciation": "kaishain",
+        "Japanese": "かいしゃいん",
+        "Nepali Meaning": "कर्मचारी",
+        "English": "Employee",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 15,
+        "English Pronunciation": "shain",
+        "Japanese": "しゃいん",
+        "Nepali Meaning": "कर्मचारी",
+        "English": "Employee",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 16,
+        "English Pronunciation": "ginkouin",
+        "Japanese": "ぎんこういん",
+        "Nepali Meaning": "बैंककर्मचारी",
+        "English": "Banker",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 17,
+        "English Pronunciation": "isha",
+        "Japanese": "いしゃ",
+        "Nepali Meaning": "डाक्टर",
+        "English": "Doctor",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 18,
+        "English Pronunciation": "kenkyuusha",
+        "Japanese": "けんきゅうしゃ",
+        "Nepali Meaning": "अनुसन्धानकर्ता",
+        "English": "Researcher",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 19,
+        "English Pronunciation": "enjinia",
+        "Japanese": "エンジニア",
+        "Nepali Meaning": "इन्जिनियर",
+        "English": "Engineer",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 20,
+        "English Pronunciation": "daigaku",
+        "Japanese": "だいがく",
+        "Nepali Meaning": "विश्वविद्यालय",
+        "English": "University",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 21,
+        "English Pronunciation": "byouin",
+        "Japanese": "びょういん",
+        "Nepali Meaning": "अस्पताल",
+        "English": "Hospital",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 22,
+        "English Pronunciation": "denki",
+        "Japanese": "でんき",
+        "Nepali Meaning": "बिजुली",
+        "English": "Electricity",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 23,
+        "English Pronunciation": "dare",
+        "Japanese": "だれ",
+        "Nepali Meaning": "को",
+        "English": "Who",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 24,
+        "English Pronunciation": "donata",
+        "Japanese": "どなた",
+        "Nepali Meaning": "को",
+        "English": "Who",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 25,
+        "English Pronunciation": "sai",
+        "Japanese": "～さい",
+        "Nepali Meaning": "～ वर्ष",
+        "English": "Years old",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 26,
+        "English Pronunciation": "nansai",
+        "Japanese": "なんさい",
+        "Nepali Meaning": "कति वर्ष",
+        "English": "How old",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 27,
+        "English Pronunciation": "oikutsu",
+        "Japanese": "おいくつ",
+        "Nepali Meaning": "कति वर्ष",
+        "English": "How old",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 28,
+        "English Pronunciation": "hai",
+        "Japanese": "はい",
+        "Nepali Meaning": "はい",
+        "English": "Yes",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 29,
+        "English Pronunciation": "iie",
+        "Japanese": "いいえ",
+        "Nepali Meaning": "न",
+        "English": "No",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 30,
+        "English Pronunciation": "shitsurei desu ga",
+        "Japanese": "しつれいですが",
+        "Nepali Meaning": "म अनुरोध गर्छु",
+        "English": "Excuse me, but",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 31,
+        "English Pronunciation": "onamae wa?",
+        "Japanese": "おなまえは？",
+        "Nepali Meaning": "तपाईंको नाम के हो?",
+        "English": "What is your name?",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 32,
+        "English Pronunciation": "hajimemashite.",
+        "Japanese": "はじめまして。",
+        "Nepali Meaning": "नमस्ते",
+        "English": "Hello",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 33,
+        "English Pronunciation": "douzo yoroshiku.",
+        "Japanese": "どうぞよろしく",
+        "Nepali Meaning": "कृपया मलाई याद राख्नुहोस्",
+        "English": "Please take care of me",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 34,
+        "English Pronunciation": "domo yoroshiku onegai shimasu.",
+        "Japanese": "どうも宜しくお願い",
+        "Nepali Meaning": "मलाई धेरै सहयोग गर्नुहोस्",
+        "English": "Thank you very much",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 35,
+        "English Pronunciation": "kochira wa san desu.",
+        "Japanese": "こちらは～さんです。",
+        "Nepali Meaning": "यो ～ ज्यू हो",
+        "English": "This is Mr./Ms. ～",
+        "Lesson": "L-1"
+    },
+    {
+        "ID": 36,
+        "English Pronunciation": "kara kimashita.",
+        "Japanese": "～からきました",
+        "Nepali Meaning": "म ～ बाट आएको छु",
+        "English": "I came from ～",
+        "Lesson": "L-1"
+    }
+]

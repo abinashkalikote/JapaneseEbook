@@ -1,0 +1,93 @@
+		<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown</title>
+    <link rel="stylesheet" href="./chosen_v1.8.7/chosen.min.css">
+</head>
+<style>
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #content {
+        margin-top: 20px;
+        width: 250px;
+        min-height: 100px;
+        border: 1px solid gray;
+        border-radius: 8px;
+    }
+    #content>div {
+        padding: 5px 10px;
+        border-bottom: 1px solid lightgray;
+    }
+    input[type="button"] {
+        padding: 2px 10px;
+        cursor: pointer;
+    }
+</style>
+<body>
+    <select name="clients Name" id="clientName">
+        <option value="">All Member</option>
+        <option value="5">Gopal Rajbanshi</option>
+        <option value="3">Jenisha Pokhrel</option>
+        <option value="4">Biraj Mainali</option>
+        <option value="11">Aakash Adhikari</option>
+        <option value="6">Suman Sapkota</option>
+        <option value="15">Susma Pathak</option>
+        <option value="9">Sanam Pakuwal</option>
+        <option value="16">Karan Sitaula</option>
+        <option value="18">Anish Shrestha </option>
+        <option value="10">Raju Shrestha</option>
+        <option value="31">Radha Chettri</option>
+        <option value="44">Nupendra Khanal</option>
+        <option value="35">Sujan Sapkota</option>
+        <option value="36">Kushal Niroula</option>
+        <option value="40">Chhunnu Bhattarai</option>
+        <option value="19">Lok Nath Khanal</option>
+        <option value="43">Sagar Bhandari</option>
+        <option value="45">Khagendra Katuwal</option>
+        <option value="51">Laxman Bishwokarma</option>
+        <option value="53">Sandip Chaudhari</option>
+        <option value="49">Shikha Bista</option>
+        <option value="55">Alson Karki</option>
+        <option value="56">Biju Tamang</option>
+    </select>
+    <input type="button" value="Add Member" id="AddMember">
+    <div id="content">
+    </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+<script src="./chosen_v1.8.7/chosen.jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        const clientNameElm = document.querySelector("#clientName");
+        $("#clientName").chosen({
+            width: "20%",
+            no_results_text: "Oops Member Not Found !",
+            placeholder_text_single: "All Member",
+            max_shown_results: 5,
+            display_disabled_option: true
+        });
+        $("#clientName").keyup((e) => {
+            if (e.keyCode == 13) {
+                addmember();
+            }
+        });
+        $("#AddMember").click(() => {
+            addmember();
+        });
+        function addmember() {
+            const selectedOption = clientNameElm.selectedOptions[0];
+            selectedOption.disabled = true;
+            let dom = `<div>${selectedOption.textContent} ${selectedOption.value}</div>`;
+            $("#content").append(dom);
+            // $(`option[value=${$("#clientName").val()}]`).remove();
+            // $('#clientName').trigger('chosen:close');
+            $('#clientName').trigger('chosen:updated');
+            $('#clientName').focus();
+        }
+    });
+</script>
+</html>

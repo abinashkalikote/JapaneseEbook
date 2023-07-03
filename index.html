@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Data Table Example</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body class="container mt-2">
+
+    
+                    Lesson 1
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                <div class="accordion-body" id="L1_Container">
+                    <!-- Lesson 1 data will be here -->
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Accordion Item #2
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the
+                    collapse plugin adds the appropriate classes that we use to style each element. These classes
+                    control the overall appearance, as well as the showing and hiding via CSS transitions. You can
+                    modify any of this with custom CSS or overriding our default variables. It's also worth noting that
+                    just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit
+                    overflow.
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Accordion Item #3
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the
+                    collapse plugin adds the appropriate classes that we use to style each element. These classes
+                    control the overall appearance, as well as the showing and hiding via CSS transitions. You can
+                    modify any of this with custom CSS or overriding our default variables. It's also worth noting that
+                    just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit
+                    overflow.
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', getData);
+
+        function getData() {
+            let L1_Container = document.getElementById("L1_Container");
+            let Lesson = [];
+            fetch('./db.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Get the table body element
+                    let tableBody = '';
+
+                    // Clear existing table rows
+                    tableBody = `<table id="data-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>English Pronounce</th>
+                                                        <th>Japanese</th>
+                                                        <th>Nepali</th>
+                                                        <th>English</th>
+                                                        <th>Lesson</th>
+                                                    </tr>
+                                                </thead><tbody>`;
+
+                    // Loop through the data and create table rows
+                    removeAttributeSpaces(data).forEach(item => {
+                        
+                        Lesson.push(item.Lesson);
+                        tableBody += `
+                                <tr>
+                                    <td>${item.EnglishPronunciation}</td>
+                                    <td>${item.Japanese}</td>
+                                    <td>${item.NepaliMeaning}</td>
+                                    <td>${item.English}</td>
+                                    <td>${item.Lesson}</td>
+                                </tr>                         
+                         `;
+                    });
+
+                    tableBody += `</tbody></table>`;
+                    L1_Container.innerHTML = tableBody; 
+                    console.log(Array.from(new Set(Lesson)));
+                })
+                .catch(error => {
+                    console.log('An error occurred:', error);
+                });
+        }
+
+
+
+        function removeAttributeSpaces(obj) {
+            if (typeof obj !== 'object' || obj === null) {
+                // Base case: If the current value is not an object, return it as is
+                return obj;
+            }
+
+            // Create a new object to store the updated attribute names and values
+            const updatedObj = Array.isArray(obj) ? [] : {};
+
+            // Iterate through each attribute in the object
+            for (let key in obj) {
+                if (obj.hasOwnProperty(key)) {
+                    // Remove spaces from the attribute name
+                    const updatedKey = key.replace(/\s/g, '');
+
+                    // Recursively process nested objects or arrays
+                    updatedObj[updatedKey] = removeAttributeSpaces(obj[key]);
+                }
+            }
+
+            return updatedObj;
+        }
+
+    </script>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+    crossorigin="anonymous"></script>
+
+</html>
