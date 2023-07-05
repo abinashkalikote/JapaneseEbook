@@ -3,6 +3,8 @@
 
 <head>
     <title>Data Table Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./assets/css/style.css" rel="stylesheet">
     <style>
         table {
@@ -16,12 +18,17 @@
             padding: 8px;
             text-align: left;
         }
+        @media screen and (max-width: 500px) {
+            *{
+                font-size: 0.9rem;
+            }
+        }
     </style>
 </head>
 
 <body class="container mt-2">
 
-    <div class="container p-1">
+    <div class="container  p-1">
         <input type="search" name="search" id="search" placeholder="search..." class="form-control" />
     </div>
 
@@ -35,8 +42,8 @@
         <table class="table table-striped " id="dataForSearch">
             <thead>
                 <tr>
-                    <th>Japanese</th>
                     <th>English Pronounce</th>
+                    <th>Japanese</th>
                     <th>Nepali</th>
                     <th>English</th>
                 </tr>
@@ -93,8 +100,8 @@
                                     <table class="table table-striped table-hover" id="data-table">
                                         <thead>
                                         <tr>
-                                                <th>English Pronounce</th>
-                                                <th>Japanese</th>
+                                            <th>English Pronounce</th>
+                                            <th>Japanese</th>
                                                 <th>Nepali</th>
                                                 <th>English</th>
                                             </tr>
@@ -106,10 +113,10 @@
                             if (group == item.Lesson) {
                                 tableBody += `
                                                         <tr>
-                                                            <td>${item.English_Pronunciation}</td>
+                                                            <td>${item.Pronunciation}</td>
                                                             <td>${item.Japanese}</td>
                                                             <td>${item.Nepali}</td>
-                                                            <td>${item.English_Meaning}</td>
+                                                            <td>${item.English}</td>
                                                         </tr>                         
                                                     `;
                             }
@@ -143,10 +150,10 @@
                 data.forEach(item => {
                     tableBdy += `
                         <tr>
+                            <td>${item.Pronunciation}</td>
                             <td>${item.Japanese}</td>
-                            <td>${item.English_Pronunciation}</td>
                             <td>${item.Nepali}</td>
-                            <td>${item.English_Meaning}</td>
+                            <td>${item.English}</td>
                         </tr>
                     `;
                 });
@@ -218,5 +225,48 @@
 
 </body>
 <script src="./assets/js/Script.js"></script>
+<script>
+    /** 
+     * Disable right-click of mouse, F12 key, and save key combinations on page 
+     */
+    document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+    }, false);
+    document.addEventListener("keydown", function (e) {
+        //document.onkeydown = function(e) { 
+        // "I" key 
+        if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+            disabledEvent(e);
+        }
+        // "J" key 
+        if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+            disabledEvent(e);
+        }
+        // "S" key + macOS 
+        if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+            disabledEvent(e);
+        }
+        // "U" key 
+        if (e.ctrlKey && e.keyCode == 85) {
+            disabledEvent(e);
+        }
+        // "F12" key 
+        if (event.keyCode == 123) {
+            disabledEvent(e);
+        }
+        // "C" key 
+        if (e.ctrlKey && event.keyCode == 67) {
+            disabledEvent(e);
+        }
+    }, false);
+    function disabledEvent(e) {
+        if (e.stopPropagation) {
+            e.stopPropagation();
+        } else if (window.event) {
+            window.event.cancelBubble = true;
+        }
+        e.preventDefault();
+        return false;
+    }</script>
 
 </html>
