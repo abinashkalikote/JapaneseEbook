@@ -1,1402 +1,7807 @@
 [
-    {
-        "ID": 1,
-        "English_Pronunciation": "watashi",
-        "Japanese": "わたし",
-        "Nepali": "मैले",
-        "English_Meaning": "I",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 2,
-        "English_Pronunciation": "watashitachi",
-        "Japanese": "わたしたち",
-        "Nepali": "हामी",
-        "English_Meaning": "We",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 3,
-        "English_Pronunciation": "anata",
-        "Japanese": "あなた",
-        "Nepali": "तपाईं",
-        "English_Meaning": "You",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 4,
-        "English_Pronunciation": "ano hito",
-        "Japanese": "あのひと",
-        "Nepali": "त्यो मान्छे",
-        "English_Meaning": "That person",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 5,
-        "English_Pronunciation": "ano kata",
-        "Japanese": "あのかた",
-        "Nepali": "त्यो व्यक्ति",
-        "English_Meaning": "That man/woman",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 6,
-        "English_Pronunciation": "minnasan",
-        "Japanese": "みなさん",
-        "Nepali": "सबैलाई",
-        "English_Meaning": "Everyone",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 7,
-        "English_Pronunciation": "san",
-        "Japanese": "～さん",
-        "Nepali": "～ज्यू",
-        "English_Meaning": "Mr./Ms.",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 8,
-        "English_Pronunciation": "chan",
-        "Japanese": "～ちゃん",
-        "Nepali": "～क",
-        "English_Meaning": "Little girl/boy",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 9,
-        "English_Pronunciation": "kun",
-        "Japanese": "～くん",
-        "Nepali": "～छ",
-        "English_Meaning": "Little boy/young man",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 10,
-        "English_Pronunciation": "jin",
-        "Japanese": "～じん",
-        "Nepali": "～ नागरिक",
-        "English_Meaning": "Citizen",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 11,
-        "English_Pronunciation": "sensei",
-        "Japanese": "せんせい",
-        "Nepali": "शिक्षक",
-        "English_Meaning": "Teacher",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 12,
-        "English_Pronunciation": "kyoushi",
-        "Japanese": "きょうし",
-        "Nepali": "शिक्षक",
-        "English_Meaning": "Teacher",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 13,
-        "English_Pronunciation": "gakusei",
-        "Japanese": "がくせい",
-        "Nepali": "विद्यार्थी",
-        "English_Meaning": "Student",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 14,
-        "English_Pronunciation": "kaishain",
-        "Japanese": "かいしゃいん",
-        "Nepali": "कर्मचारी",
-        "English_Meaning": "Employee",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 15,
-        "English_Pronunciation": "shain",
-        "Japanese": "しゃいん",
-        "Nepali": "कर्मचारी",
-        "English_Meaning": "Employee",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 16,
-        "English_Pronunciation": "ginkouin",
-        "Japanese": "ぎんこういん",
-        "Nepali": "बैंककर्मचारी",
-        "English_Meaning": "Banker",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 17,
-        "English_Pronunciation": "isha",
-        "Japanese": "いしゃ",
-        "Nepali": "डाक्टर",
-        "English_Meaning": "Doctor",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 18,
-        "English_Pronunciation": "kenkyuusha",
-        "Japanese": "けんきゅうしゃ",
-        "Nepali": "अनुसन्धानकर्ता",
-        "English_Meaning": "Researcher",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 19,
-        "English_Pronunciation": "enjinia",
-        "Japanese": "エンジニア",
-        "Nepali": "इन्जिनियर",
-        "English_Meaning": "Engineer",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 20,
-        "English_Pronunciation": "daigaku",
-        "Japanese": "だいがく",
-        "Nepali": "विश्वविद्यालय",
-        "English_Meaning": "University",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 21,
-        "English_Pronunciation": "byouin",
-        "Japanese": "びょういん",
-        "Nepali": "अस्पताल",
-        "English_Meaning": "Hospital",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 22,
-        "English_Pronunciation": "denki",
-        "Japanese": "でんき",
-        "Nepali": "बिजुली",
-        "English_Meaning": "Electricity",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 23,
-        "English_Pronunciation": "dare",
-        "Japanese": "だれ",
-        "Nepali": "को",
-        "English_Meaning": "Who",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 24,
-        "English_Pronunciation": "donata",
-        "Japanese": "どなた",
-        "Nepali": "को",
-        "English_Meaning": "Who",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 25,
-        "English_Pronunciation": "sai",
-        "Japanese": "～さい",
-        "Nepali": "～ वर्ष",
-        "English_Meaning": "Years old",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 26,
-        "English_Pronunciation": "nansai",
-        "Japanese": "なんさい",
-        "Nepali": "कति वर्ष",
-        "English_Meaning": "How old",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 27,
-        "English_Pronunciation": "oikutsu",
-        "Japanese": "おいくつ",
-        "Nepali": "कति वर्ष",
-        "English_Meaning": "How old",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 28,
-        "English_Pronunciation": "hai",
-        "Japanese": "はい",
-        "Nepali": "はい",
-        "English_Meaning": "Yes",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 29,
-        "English_Pronunciation": "iie",
-        "Japanese": "いいえ",
-        "Nepali": "न",
-        "English_Meaning": "No",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 30,
-        "English_Pronunciation": "shitsurei desu ga",
-        "Japanese": "しつれいですが",
-        "Nepali": "म अनुरोध गर्छु",
-        "English_Meaning": "Excuse me, but",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 31,
-        "English_Pronunciation": "onamae wa?",
-        "Japanese": "おなまえは？",
-        "Nepali": "तपाईंको नाम के हो?",
-        "English_Meaning": "What is your name?",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 32,
-        "English_Pronunciation": "hajimemashite.",
-        "Japanese": "はじめまして。",
-        "Nepali": "नमस्ते",
-        "English_Meaning": "Hello",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 33,
-        "English_Pronunciation": "douzo yoroshiku.",
-        "Japanese": "どうぞよろしく",
-        "Nepali": "कृपया मलाई याद राख्नुहोस्",
-        "English_Meaning": "Please take care of me",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 34,
-        "English_Pronunciation": "domo yoroshiku onegai shimasu.",
-        "Japanese": "どうも宜しくお願い",
-        "Nepali": "मलाई धेरै सहयोग गर्नुहोस्",
-        "English_Meaning": "Thank you very much",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 35,
-        "English_Pronunciation": "kochira wa san desu.",
-        "Japanese": "こちらは～さんです。",
-        "Nepali": "यो ～ ज्यू हो",
-        "English_Meaning": "This is Mr./Ms. ～",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 36,
-        "English_Pronunciation": "kara kimashita.",
-        "Japanese": "～からきました",
-        "Nepali": "म ～ बाट आएको छु",
-        "English_Meaning": "I came from ～",
-        "Lesson": "L-1"
-    },
-    {
-        "ID": 37,
-        "English_Pronunciation": "kore",
-        "Japanese": "これ",
-        "Nepali": "यो",
-        "English_Meaning": "this",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 38,
-        "English_Pronunciation": "sore",
-        "Japanese": "それ",
-        "Nepali": "त्यो",
-        "English_Meaning": "that",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 39,
-        "English_Pronunciation": "are",
-        "Japanese": "あれ",
-        "Nepali": "त्यो",
-        "English_Meaning": "that",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 40,
-        "English_Pronunciation": "kono～",
-        "Japanese": "この～",
-        "Nepali": "यो ~",
-        "English_Meaning": "this ~",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 41,
-        "English_Pronunciation": "sono～",
-        "Japanese": "その～",
-        "Nepali": "त्यो ~",
-        "English_Meaning": "that ~",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 42,
-        "English_Pronunciation": "ano～",
-        "Japanese": "あの～",
-        "Nepali": "त्यो ~",
-        "English_Meaning": "that ~",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 43,
-        "English_Pronunciation": "hon",
-        "Japanese": "ほん",
-        "Nepali": "पुस्तक",
-        "English_Meaning": "book",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 44,
-        "English_Pronunciation": "jisho",
-        "Japanese": "じしょ",
-        "Nepali": "शब्दकोश",
-        "English_Meaning": "dictionary",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 45,
-        "English_Pronunciation": "zasshi",
-        "Japanese": "ざっし",
-        "Nepali": "पत्रिका",
-        "English_Meaning": "magazine",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 46,
-        "English_Pronunciation": "shinbun",
-        "Japanese": "しんぶん",
-        "Nepali": "समाचार पत्र",
-        "English_Meaning": "newspaper",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 47,
-        "English_Pronunciation": "nēto",
-        "Japanese": "ンート",
-        "Nepali": "नोटबुक",
-        "English_Meaning": "notebook",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 48,
-        "English_Pronunciation": "techō",
-        "Japanese": "てちょう",
-        "Nepali": "नोटबुक",
-        "English_Meaning": "notebook",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 49,
-        "English_Pronunciation": "meishi",
-        "Japanese": "めいし",
-        "Nepali": "व्यापार कार्ड",
-        "English_Meaning": "business card",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 50,
-        "English_Pronunciation": "kādo",
-        "Japanese": "カード",
-        "Nepali": "कार्ड",
-        "English_Meaning": "card",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 51,
-        "English_Pronunciation": "terehone kādo",
-        "Japanese": "テレホンカード",
-        "Nepali": "टेलीफोन कार्ड",
-        "English_Meaning": "telephone card",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 52,
-        "English_Pronunciation": "enpitsu",
-        "Japanese": "えんぴつ",
-        "Nepali": "पेंसिल",
-        "English_Meaning": "pencil",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 53,
-        "English_Pronunciation": "bōrupen",
-        "Japanese": "ボールペン",
-        "Nepali": "पेन",
-        "English_Meaning": "pen",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 54,
-        "English_Pronunciation": "shāpu penshiru",
-        "Japanese": "シャープペンシル",
-        "Nepali": "पेंसिल",
-        "English_Meaning": "mechanical pencil",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 55,
-        "English_Pronunciation": "kagi",
-        "Japanese": "かぎ",
-        "Nepali": "चाबी",
-        "English_Meaning": "key",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 56,
-        "English_Pronunciation": "tokei",
-        "Japanese": "とけい",
-        "Nepali": "घड़ी",
-        "English_Meaning": "watch",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 57,
-        "English_Pronunciation": "kasa",
-        "Japanese": "かさ",
-        "Nepali": "छाता",
-        "English_Meaning": "umbrella",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 58,
-        "English_Pronunciation": "kaban",
-        "Japanese": "かばん",
-        "Nepali": "बैग",
-        "English_Meaning": "bag",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 59,
-        "English_Pronunciation": "kasetto teipu",
-        "Japanese": "カセットテープ",
-        "Nepali": "कैसेट टेप",
-        "English_Meaning": "cassette tape",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 60,
-        "English_Pronunciation": "tepurekooda",
-        "Japanese": "テープレコーダー",
-        "Nepali": "टेप रिकॉर्डर",
-        "English_Meaning": "tape recorder",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 61,
-        "English_Pronunciation": "terebi",
-        "Japanese": "テレビ",
-        "Nepali": "टीवी",
-        "English_Meaning": "television",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 62,
-        "English_Pronunciation": "rajio",
-        "Japanese": "ラジオ",
-        "Nepali": "रेडियो",
-        "English_Meaning": "radio",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 63,
-        "English_Pronunciation": "kamera",
-        "Japanese": "カメラ",
-        "Nepali": "कैमरा",
-        "English_Meaning": "camera",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 64,
-        "English_Pronunciation": "konpyūtā",
-        "Japanese": "コンピューター",
-        "Nepali": "कंप्यूटर",
-        "English_Meaning": "computer",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 65,
-        "English_Pronunciation": "jidousha",
-        "Japanese": "じどうしゃ",
-        "Nepali": "कार",
-        "English_Meaning": "car",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 66,
-        "English_Pronunciation": "tsukue",
-        "Japanese": "つくえ",
-        "Nepali": "मेज",
-        "English_Meaning": "table",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 67,
-        "English_Pronunciation": "isu",
-        "Japanese": "いす",
-        "Nepali": "कुर्सी",
-        "English_Meaning": "chair",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 68,
-        "English_Pronunciation": "chokorēto",
-        "Japanese": "チョコレート",
-        "Nepali": "चॉकलेट",
-        "English_Meaning": "chocolate",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 69,
-        "English_Pronunciation": "kōhī",
-        "Japanese": "コーヒー",
-        "Nepali": "कॉफी",
-        "English_Meaning": "coffee",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 70,
-        "English_Pronunciation": "eigo",
-        "Japanese": "えいご",
-        "Nepali": "अंग्रेजी",
-        "English_Meaning": "English",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 71,
-        "English_Pronunciation": "nihongo",
-        "Japanese": "にほんご",
-        "Nepali": "जापानी",
-        "English_Meaning": "Japanese",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 72,
-        "English_Pronunciation": "~go",
-        "Japanese": "～ご",
-        "Nepali": "~ भाषा",
-        "English_Meaning": "~ language",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 73,
-        "English_Pronunciation": "nan",
-        "Japanese": "なん",
-        "Nepali": "क्या",
-        "English_Meaning": "what",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 74,
-        "English_Pronunciation": "so",
-        "Japanese": "そう",
-        "Nepali": "इसलिए",
-        "English_Meaning": "therefore",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 75,
-        "English_Pronunciation": "chigaimasu",
-        "Japanese": "ちがいます",
-        "Nepali": "नहीं है",
-        "English_Meaning": "not",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 76,
-        "English_Pronunciation": "so desu ka",
-        "Japanese": "そうですか",
-        "Nepali": "मुझे समझ आया",
-        "English_Meaning": "I see",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 77,
-        "English_Pronunciation": "anoo",
-        "Japanese": "あのう",
-        "Nepali": "अच्छा",
-        "English_Meaning": "well",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 78,
-        "English_Pronunciation": "hon no kimochi desu",
-        "Japanese": "ほんの気持ちです",
-        "Nepali": "यह कुछ भी नहीं है",
-        "English_Meaning": "it's nothing",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 79,
-        "English_Pronunciation": "douzo",
-        "Japanese": "どうぞ",
-        "Nepali": "कृपया",
-        "English_Meaning": "please",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 80,
-        "English_Pronunciation": "doumo",
-        "Japanese": "どうも",
-        "Nepali": "धन्यवाद",
-        "English_Meaning": "thank you",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 81,
-        "English_Pronunciation": "doumo arigatou",
-        "Japanese": "どうもありがとう",
-        "Nepali": "धन्यवाद",
-        "English_Meaning": "thank you very much",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 82,
-        "English_Pronunciation": "gozaimasu",
-        "Japanese": "ございます",
-        "Nepali": "बहुत",
-        "English_Meaning": "you're welcome",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 83,
-        "English_Pronunciation": "kore kara asewa ni narimasu",
-        "Japanese": "これからあせわに",
-        "Nepali": "भविष्य में तुम्हारी मदद की उम्मीद है",
-        "English_Meaning": "I hope to have your help in the future",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 84,
-        "English_Pronunciation": "kochira koso yoroshiku",
-        "Japanese": "こちらこそよろしく",
-        "Nepali": "मैं भी तुम्हारी मदद करना चाहता हूं",
-        "English_Meaning": "I also want to help you",
-        "Lesson": "L-2"
-    },
-    {
-        "ID": 85,
-        "English_Pronunciation": "koko",
-        "Japanese": "ここ",
-        "Nepali": "यहाँ, यो स्थान",
-        "English_Meaning": "here, this place",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 86,
-        "English_Pronunciation": "soko",
-        "Japanese": "そこ",
-        "Nepali": "त्यहाँ, तपाईँको नजिकको स्थान",
-        "English_Meaning": "there, this place near you",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 87,
-        "English_Pronunciation": "asoko",
-        "Japanese": "あそこ",
-        "Nepali": "त्यहाँ, टाढाको स्थान",
-        "English_Meaning": "there, that place far away",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 88,
-        "English_Pronunciation": "doko",
-        "Japanese": "どこ",
-        "Nepali": "कहाँ, कुन ठाउँ?",
-        "English_Meaning": "where, which place?",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 89,
-        "English_Pronunciation": "kochira",
-        "Japanese": "こちら",
-        "Nepali": "यो बाटो, यो स्थान (पोलीत को)",
-        "English_Meaning": "this way, this place (polite form of \"koko\")",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 90,
-        "English_Pronunciation": "sochira",
-        "Japanese": "そちら",
-        "Nepali": "त्यो बाटो, तपाईँको नजिकको स्थान (पोलीत सो)",
-        "English_Meaning": "that way, this place near you (polite form of \"soko\")",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 91,
-        "English_Pronunciation": "achira",
-        "Japanese": "あちら",
-        "Nepali": "त्यो बाटो, टाढाको स्थान (पोलीत अ)",
-        "English_Meaning": "that way, that place far away (polite form of \"asoko\")",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 92,
-        "English_Pronunciation": "dochira",
-        "Japanese": "どちら",
-        "Nepali": "कुन बाटो, कहाँ? (पोलीत डो)",
-        "English_Meaning": "which way, which place? (polite form of \"doko\")",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 93,
-        "English_Pronunciation": "kyoshitsu",
-        "Japanese": "きょうしつ",
-        "Nepali": "कक्षा",
-        "English_Meaning": "classroom",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 94,
-        "English_Pronunciation": "shokudo",
-        "Japanese": "しょくどう",
-        "Nepali": "भोजन कक्ष, क्यान्टीन",
-        "English_Meaning": "dining room, canteen",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 95,
-        "English_Pronunciation": "jimusho",
-        "Japanese": "じむしょ",
-        "Nepali": "कार्यालय",
-        "English_Meaning": "office",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 96,
-        "English_Pronunciation": "kaigishitsu",
-        "Japanese": "かいぎしつ",
-        "Nepali": "सम्मेलन कक्ष, सभा हल",
-        "English_Meaning": "conference room, meeting hall",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 97,
-        "English_Pronunciation": "uketsuke",
-        "Japanese": "うけつけ",
-        "Nepali": "स्वागत डेस्क",
-        "English_Meaning": "reception desk",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 98,
-        "English_Pronunciation": "lobi",
-        "Japanese": "ロビー",
-        "Nepali": "लोबी",
-        "English_Meaning": "lobby",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 99,
-        "English_Pronunciation": "heya",
-        "Japanese": "へや",
-        "Nepali": "कोठा",
-        "English_Meaning": "room",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 100,
-        "English_Pronunciation": "toire (otearai)",
-        "Japanese": "トイレ（おてあらい）",
-        "Nepali": "शौचालय",
-        "English_Meaning": "toilet, restroom",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 101,
-        "English_Pronunciation": "kaidan",
-        "Japanese": "かいだん",
-        "Nepali": "सीढिँ",
-        "English_Meaning": "stairs",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 102,
-        "English_Pronunciation": "elevator",
-        "Japanese": "エレベーター",
-        "Nepali": "लिफ्ट",
-        "English_Meaning": "elevator",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 103,
-        "English_Pronunciation": "escalator",
-        "Japanese": "エスカレーター",
-        "Nepali": "एस्केलेटर",
-        "English_Meaning": "escalator",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 104,
-        "English_Pronunciation": "kuni",
-        "Japanese": "くに",
-        "Nepali": "देश",
-        "English_Meaning": "country",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 105,
-        "English_Pronunciation": "kaisha",
-        "Japanese": "かいしゃ",
-        "Nepali": "काम",
-        "English_Meaning": "work, company",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 106,
-        "English_Pronunciation": "uchi",
-        "Japanese": "うち",
-        "Nepali": "घर, बास",
-        "English_Meaning": "home, house",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 107,
-        "English_Pronunciation": "denwa",
-        "Japanese": "でんわ",
-        "Nepali": "टेलिफोन, टेलिफोन कल",
-        "English_Meaning": "telephone, phone call",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 108,
-        "English_Pronunciation": "kutsu",
-        "Japanese": "くつ",
-        "Nepali": "जूता",
-        "English_Meaning": "shoes",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 109,
-        "English_Pronunciation": "nekutai",
-        "Japanese": "ネクタイ",
-        "Nepali": "नेक टाइस",
-        "English_Meaning": "necktie",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 110,
-        "English_Pronunciation": "wain",
-        "Japanese": "ワイン",
-        "Nepali": "वाइन",
-        "English_Meaning": "wine",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 111,
-        "English_Pronunciation": "tabako",
-        "Japanese": "たばこ",
-        "Nepali": "तमाको, चुरोट",
-        "English_Meaning": "tobacco, cigarette",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 112,
-        "English_Pronunciation": "uriba",
-        "Japanese": "うりば",
-        "Nepali": "विभाग, बिक्री काउण्टर (महलको पसलमा)",
-        "English_Meaning": "department, sales counter (in a department store)",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 113,
-        "English_Pronunciation": "chika",
-        "Japanese": "ちか",
-        "Nepali": "तलतल",
-        "English_Meaning": "floor",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 114,
-        "English_Pronunciation": "kai (gai)",
-        "Japanese": "かい（がい）",
-        "Nepali": "~औं तल",
-        "English_Meaning": "~th floor",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 115,
-        "English_Pronunciation": "nagai",
-        "Japanese": "なんがい",
-        "Nepali": "कुन तल?",
-        "English_Meaning": "which floor?",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 116,
-        "English_Pronunciation": "en",
-        "Japanese": "えん",
-        "Nepali": "~ येन",
-        "English_Meaning": "~ yen",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 117,
-        "English_Pronunciation": "ikura",
-        "Japanese": "いくら",
-        "Nepali": "कति?",
-        "English_Meaning": "how much?",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 118,
-        "English_Pronunciation": "hyaku",
-        "Japanese": "ひゃく",
-        "Nepali": "सय",
-        "English_Meaning": "one hundred",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 119,
-        "English_Pronunciation": "sen",
-        "Japanese": "せん",
-        "Nepali": "हजार",
-        "English_Meaning": "one thousand",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 120,
-        "English_Pronunciation": "man",
-        "Japanese": "まん",
-        "Nepali": "दस हजार",
-        "English_Meaning": "ten thousand",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 121,
-        "English_Pronunciation": "sumimasen.",
-        "Japanese": "すみません।",
-        "Nepali": "माफ गर्नुहोस्।",
-        "English_Meaning": "excuse me, sorry",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 122,
-        "English_Pronunciation": "~desu.",
-        "Japanese": "～でございます。 (polite equivalent of です)",
-        "English_Meaning": "is",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 123,
-        "English_Pronunciation": "~ o misete kudasai.",
-        "Japanese": "～を みせてください。 ～を 見せて ください।",
-        "Nepali": "कृपया ~ देखाउनुहोस्।",
-        "English_Meaning": "please show me ~",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 124,
-        "English_Pronunciation": "ja",
-        "Japanese": "じゃ",
-        "Nepali": "त्यसो भए, त्यस अवस्थामा",
-        "English_Meaning": "okay, so",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 125,
-        "English_Pronunciation": "~ o kudasai.",
-        "Japanese": "～を くだざい。",
-        "Nepali": "कृपया ~ दिनुहोस्।",
-        "English_Meaning": "please give me ~",
-        "Lesson": "L-3"
-    },
-    {
-        "ID": 126,
-        "English_Pronunciation": "終わります",
-        "Japanese": "owarimasu",
-        "Nepali": "समाप्त हुन्छ",
-        "English_Meaning": "finish",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 127,
-        "English_Pronunciation": "デパート",
-        "Japanese": "depaato",
-        "Nepali": "डिपार्टमेन्ट स्टोर",
-        "English_Meaning": "department store",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 128,
-        "English_Pronunciation": "ぎんこう",
-        "Japanese": "ginkō",
-        "Nepali": "बैंक",
-        "English_Meaning": "bank",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 129,
-        "English_Pronunciation": "ゆうびんきょく",
-        "Japanese": "yūbinkyoku",
-        "Nepali": "डाकघर",
-        "English_Meaning": "post office",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 130,
-        "English_Pronunciation": "としょかん",
-        "Japanese": "toshokan",
-        "Nepali": "पुस्तकालय",
-        "English_Meaning": "library",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 131,
-        "English_Pronunciation": "びじゅつかん",
-        "Japanese": "bijutsukan",
-        "Nepali": "कला संग्रहालय",
-        "English_Meaning": "art museum",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 132,
-        "English_Pronunciation": "いま",
-        "Japanese": "ima",
-        "Nepali": "अहिले",
-        "English_Meaning": "now",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 133,
-        "English_Pronunciation": "～じ",
-        "Japanese": "~ji",
-        "Nepali": "~ बजे",
-        "English_Meaning": "~o'clock",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 134,
-        "English_Pronunciation": "～ふん",
-        "Japanese": "~fun",
-        "Nepali": "~ मिनेट",
-        "English_Meaning": "~minute",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 135,
-        "English_Pronunciation": "はん",
-        "Japanese": "han",
-        "Nepali": "आधा",
-        "English_Meaning": "half",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 136,
-        "English_Pronunciation": "なんじ",
-        "Japanese": "nanji",
-        "Nepali": "केही बजे",
-        "English_Meaning": "what time",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 137,
-        "English_Pronunciation": "なんぷん",
-        "Japanese": "nanpun",
-        "Nepali": "केही मिनेट",
-        "English_Meaning": "what minute",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 138,
-        "English_Pronunciation": "ごぜん",
-        "Japanese": "gozen",
-        "Nepali": "बिहान",
-        "English_Meaning": "a.m., morning",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 139,
-        "English_Pronunciation": "ごご",
-        "Japanese": "gogo",
-        "Nepali": "दोपहर",
-        "English_Meaning": "p.m., afternoon",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 140,
-        "English_Pronunciation": "あさ",
-        "Japanese": "asa",
-        "Nepali": "बिहान",
-        "English_Meaning": "morning",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 141,
-        "English_Pronunciation": "ひる",
-        "Japanese": "hiru",
-        "Nepali": "दिन",
-        "English_Meaning": "daytime, noon",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 142,
-        "English_Pronunciation": "ばん（よる）",
-        "Japanese": "ban (yoru)",
-        "Nepali": "रात",
-        "English_Meaning": "night, evening",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 143,
-        "English_Pronunciation": "おととい",
-        "Japanese": "ototoi",
-        "Nepali": "हिजोको अघिल्लो दिन",
-        "English_Meaning": "the day before yesterday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 144,
-        "English_Pronunciation": "きのう",
-        "Japanese": "kinou",
-        "Nepali": "हिजो",
-        "English_Meaning": "yesterday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 145,
-        "English_Pronunciation": "きょう",
-        "Japanese": "kyou",
-        "Nepali": "आज",
-        "English_Meaning": "today",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 146,
-        "English_Pronunciation": "あした",
-        "Japanese": "ashita",
-        "Nepali": "भोलि",
-        "English_Meaning": "tomorrow",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 147,
-        "English_Pronunciation": "あさって",
-        "Japanese": "asatte",
-        "Nepali": "भोलिपल्ट",
-        "English_Meaning": "the day after tomorrow",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 148,
-        "English_Pronunciation": "けさ",
-        "Japanese": "kesa",
-        "Nepali": "आज बिहान",
-        "English_Meaning": "this morning",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 149,
-        "English_Pronunciation": "こんばん",
-        "Japanese": "konban",
-        "Nepali": "आज साँझ",
-        "English_Meaning": "this evening, tonight",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 150,
-        "English_Pronunciation": "やすみ",
-        "Japanese": "yasumi",
-        "Nepali": "छुट्टी",
-        "English_Meaning": "rest, a holiday, a day off",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 151,
-        "English_Pronunciation": "ひるやすみ",
-        "Japanese": "hiruyasumi",
-        "Nepali": "दोपहरको छुट्टी",
-        "English_Meaning": "lunchtime",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 152,
-        "English_Pronunciation": "まいあさ",
-        "Japanese": "maiasa",
-        "Nepali": "हरेक बिहान",
-        "English_Meaning": "every morning",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 153,
-        "English_Pronunciation": "まいばん",
-        "Japanese": "maiban",
-        "Nepali": "हरेक साँझ",
-        "English_Meaning": "every evening",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 154,
-        "English_Pronunciation": "まいにち",
-        "Japanese": "mainichi",
-        "Nepali": "हरेक दिन",
-        "English_Meaning": "every day",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 155,
-        "English_Pronunciation": "げつようび",
-        "Japanese": "getsuyoubi",
-        "Nepali": "सोमबार",
-        "English_Meaning": "Monday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 156,
-        "English_Pronunciation": "かようび",
-        "Japanese": "kayobi",
-        "Nepali": "मंगलबार",
-        "English_Meaning": "Tuesday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 157,
-        "English_Pronunciation": "すいようび",
-        "Japanese": "suiyoubi",
-        "Nepali": "बुधबार",
-        "English_Meaning": "Wednesday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 158,
-        "English_Pronunciation": "もくようび",
-        "Japanese": "mokuyoubi",
-        "Nepali": "बिहीबार",
-        "English_Meaning": "Thursday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 159,
-        "English_Pronunciation": "きんようび",
-        "Japanese": "kinyoubi",
-        "Nepali": "शुक्रबार",
-        "English_Meaning": "Friday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 160,
-        "English_Pronunciation": "どようび",
-        "Japanese": "doyoubi",
-        "Nepali": "शनिबार",
-        "English_Meaning": "Saturday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 161,
-        "English_Pronunciation": "にちようび",
-        "Japanese": "nichiyoubi",
-        "Nepali": "आइतबार",
-        "English_Meaning": "Sunday",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 162,
-        "English_Pronunciation": "なんようび",
-        "Japanese": "nanjoubi",
-        "Nepali": "कसरि दिन",
-        "English_Meaning": "what day of the week",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 163,
-        "English_Pronunciation": "ばんごう",
-        "Japanese": "bangou",
-        "Nepali": "नम्बर",
-        "English_Meaning": "number",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 164,
-        "English_Pronunciation": "なんばん",
-        "Japanese": "nanban",
-        "Nepali": "कुन नम्बर",
-        "English_Meaning": "what number",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 165,
-        "English_Pronunciation": "～から",
-        "Japanese": "kara",
-        "Nepali": "देखि",
-        "English_Meaning": "from ~",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 166,
-        "English_Pronunciation": "～まで",
-        "Japanese": "made",
-        "Nepali": "सम्म",
-        "English_Meaning": "up to ~, until ~",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 167,
-        "English_Pronunciation": "～と～",
-        "Japanese": "to ~",
-        "Nepali": "र",
-        "English_Meaning": "and (used to connect nouns)",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 168,
-        "English_Pronunciation": "そちら",
-        "Japanese": "sochira",
-        "Nepali": "त्यहाँ",
-        "English_Meaning": "your place",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 169,
-        "English_Pronunciation": "たいへんですね。",
-        "Japanese": "taihen desu ne.",
-        "Nepali": "यो कठिन छ, होइन?",
-        "English_Meaning": "That's tough, isn't it? (used when expressing sympathy)",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 170,
-        "English_Pronunciation": "えーと",
-        "Japanese": "eto",
-        "Nepali": "कता होला",
-        "English_Meaning": "well, let me see",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 171,
-        "English_Pronunciation": 104,
-        "Japanese": 104,
-        "Nepali": "सूचना",
-        "English_Meaning": "information, directory assistance",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 172,
-        "English_Pronunciation": "おねがいします。",
-        "Japanese": "onegai shimasu.",
-        "Nepali": "कृपया",
-        "English_Meaning": "Please. (lit. ask for a favor)",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 173,
-        "English_Pronunciation": "かしこまりました。",
-        "Japanese": "kashikomarimashita.",
-        "Nepali": "मलाई थाहा छ",
-        "English_Meaning": "Certainly (sir, madam).",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 174,
-        "English_Pronunciation": "おといあわせのばんごう",
-        "Japanese": "otoiawase no bangou",
-        "Nepali": "सोध्नको नम्बर",
-        "English_Meaning": "the number being inquired about",
-        "Lesson": "L-4"
-    },
-    {
-        "ID": 175,
-        "English_Pronunciation": "［どうも］ありがとうごさい",
-        "Japanese": "doumo arigatou gozaimasu.",
-        "Nepali": "धन्यवाद",
-        "English_Meaning": "Thank you very much.",
-        "Lesson": "L-4"
-    }
-
+{
+"ID": 1,
+"Pronunciation": "watashi",
+"Japanese": "わたし",
+"Nepali": "म",
+"English": "I",
+"Lesson": "L-1"
+},
+{
+"ID": 2,
+"Pronunciation": "watashitachi",
+"Japanese": "わたしたち",
+"Nepali": "हामी",
+"English": "We",
+"Lesson": "L-1"
+},
+{
+"ID": 3,
+"Pronunciation": "anata",
+"Japanese": "あなた",
+"Nepali": "तपाईं",
+"English": "You",
+"Lesson": "L-1"
+},
+{
+"ID": 4,
+"Pronunciation": "ano hito",
+"Japanese": "あのひと",
+"Nepali": "त्यो मान्छे",
+"English": "That person",
+"Lesson": "L-1"
+},
+{
+"ID": 5,
+"Pronunciation": "ano kata",
+"Japanese": "あのかた",
+"Nepali": "त्यो व्यक्ति",
+"English": "That man/woman",
+"Lesson": "L-1"
+},
+{
+"ID": 6,
+"Pronunciation": "minnasan",
+"Japanese": "みなさん",
+"Nepali": "सबैलाई",
+"English": "Everyone",
+"Lesson": "L-1"
+},
+{
+"ID": 7,
+"Pronunciation": "san",
+"Japanese": "～さん",
+"Nepali": "～ज्यू",
+"English": "Mr./Ms.",
+"Lesson": "L-1"
+},
+{
+"ID": 8,
+"Pronunciation": "chan",
+"Japanese": "～ちゃん",
+"Nepali": "～क",
+"English": "Little girl/boy",
+"Lesson": "L-1"
+},
+{
+"ID": 9,
+"Pronunciation": "kun",
+"Japanese": "～くん",
+"Nepali": "～छ",
+"English": "Little boy/young man",
+"Lesson": "L-1"
+},
+{
+"ID": 10,
+"Pronunciation": "jin",
+"Japanese": "～じん",
+"Nepali": "～ नागरिक",
+"English": "Citizen",
+"Lesson": "L-1"
+},
+{
+"ID": 11,
+"Pronunciation": "sensei",
+"Japanese": "せんせい",
+"Nepali": "शिक्षक",
+"English": "Teacher",
+"Lesson": "L-1"
+},
+{
+"ID": 12,
+"Pronunciation": "kyoushi",
+"Japanese": "きょうし",
+"Nepali": "शिक्षक",
+"English": "Teacher",
+"Lesson": "L-1"
+},
+{
+"ID": 13,
+"Pronunciation": "gakusei",
+"Japanese": "がくせい",
+"Nepali": "विद्यार्थी",
+"English": "Student",
+"Lesson": "L-1"
+},
+{
+"ID": 14,
+"Pronunciation": "kaishain",
+"Japanese": "かいしゃいん",
+"Nepali": "कर्मचारी",
+"English": "Employee",
+"Lesson": "L-1"
+},
+{
+"ID": 15,
+"Pronunciation": "shain",
+"Japanese": "しゃいん",
+"Nepali": "कर्मचारी",
+"English": "Employee",
+"Lesson": "L-1"
+},
+{
+"ID": 16,
+"Pronunciation": "ginkouin",
+"Japanese": "ぎんこういん",
+"Nepali": "बैंककर्मचारी",
+"English": "Banker",
+"Lesson": "L-1"
+},
+{
+"ID": 17,
+"Pronunciation": "isha",
+"Japanese": "いしゃ",
+"Nepali": "डाक्टर",
+"English": "Doctor",
+"Lesson": "L-1"
+},
+{
+"ID": 18,
+"Pronunciation": "kenkyuusha",
+"Japanese": "けんきゅうしゃ",
+"Nepali": "अनुसन्धानकर्ता",
+"English": "Researcher",
+"Lesson": "L-1"
+},
+{
+"ID": 19,
+"Pronunciation": "enjinia",
+"Japanese": "エンジニア",
+"Nepali": "इन्जिनियर",
+"English": "Engineer",
+"Lesson": "L-1"
+},
+{
+"ID": 20,
+"Pronunciation": "daigaku",
+"Japanese": "だいがく",
+"Nepali": "विश्वविद्यालय",
+"English": "University",
+"Lesson": "L-1"
+},
+{
+"ID": 21,
+"Pronunciation": "byouin",
+"Japanese": "びょういん",
+"Nepali": "अस्पताल",
+"English": "Hospital",
+"Lesson": "L-1"
+},
+{
+"ID": 22,
+"Pronunciation": "denki",
+"Japanese": "でんき",
+"Nepali": "बिजुली",
+"English": "Electricity",
+"Lesson": "L-1"
+},
+{
+"ID": 23,
+"Pronunciation": "dare",
+"Japanese": "だれ",
+"Nepali": "को",
+"English": "Who",
+"Lesson": "L-1"
+},
+{
+"ID": 24,
+"Pronunciation": "donata",
+"Japanese": "どなた",
+"Nepali": "को",
+"English": "Who",
+"Lesson": "L-1"
+},
+{
+"ID": 25,
+"Pronunciation": "sai",
+"Japanese": "～さい",
+"Nepali": "～ वर्ष",
+"English": "Years old",
+"Lesson": "L-1"
+},
+{
+"ID": 26,
+"Pronunciation": "nansai",
+"Japanese": "なんさい",
+"Nepali": "कति वर्ष",
+"English": "How old",
+"Lesson": "L-1"
+},
+{
+"ID": 27,
+"Pronunciation": "oikutsu",
+"Japanese": "おいくつ",
+"Nepali": "कति वर्ष",
+"English": "How old",
+"Lesson": "L-1"
+},
+{
+"ID": 28,
+"Pronunciation": "hai",
+"Japanese": "はい",
+"Nepali": "はい",
+"English": "Yes",
+"Lesson": "L-1"
+},
+{
+"ID": 29,
+"Pronunciation": "iie",
+"Japanese": "いいえ",
+"Nepali": "न",
+"English": "No",
+"Lesson": "L-1"
+},
+{
+"ID": 30,
+"Pronunciation": "shitsurei desu ga",
+"Japanese": "しつれいですが",
+"Nepali": "म अनुरोध गर्छु",
+"English": "Excuse me, but",
+"Lesson": "L-1"
+},
+{
+"ID": 31,
+"Pronunciation": "onamae wa?",
+"Japanese": "おなまえは？",
+"Nepali": "तपाईंको नाम के हो?",
+"English": "What is your name?",
+"Lesson": "L-1"
+},
+{
+"ID": 32,
+"Pronunciation": "hajimemashite.",
+"Japanese": "はじめまして。",
+"Nepali": "नमस्ते",
+"English": "Hello",
+"Lesson": "L-1"
+},
+{
+"ID": 33,
+"Pronunciation": "douzo yoroshiku.",
+"Japanese": "どうぞよろしく",
+"Nepali": "कृपया मलाई याद राख्नुहोस्",
+"English": "Please take care of me",
+"Lesson": "L-1"
+},
+{
+"ID": 34,
+"Pronunciation": "domo yoroshiku onegai shimasu.",
+"Japanese": "どうも宜しくお願い",
+"Nepali": "मलाई धेरै सहयोग गर्नुहोस्",
+"English": "Thank you very much",
+"Lesson": "L-1"
+},
+{
+"ID": 35,
+"Pronunciation": "kochira wa san desu.",
+"Japanese": "こちらは～さんです。",
+"Nepali": "यो ～ ज्यू हो",
+"English": "This is Mr./Ms. ～",
+"Lesson": "L-1"
+},
+{
+"ID": 36,
+"Pronunciation": "kara kimashita.",
+"Japanese": "～からきました",
+"Nepali": "म ～ बाट आएको छु",
+"English": "I came from ～",
+"Lesson": "L-1"
+},
+{
+"ID": 37,
+"Pronunciation": "kore",
+"Japanese": "これ",
+"Nepali": "यो",
+"English": "this",
+"Lesson": "L-2"
+},
+{
+"ID": 38,
+"Pronunciation": "sore",
+"Japanese": "それ",
+"Nepali": "त्यो",
+"English": "that",
+"Lesson": "L-2"
+},
+{
+"ID": 39,
+"Pronunciation": "are",
+"Japanese": "あれ",
+"Nepali": "त्यो",
+"English": "that",
+"Lesson": "L-2"
+},
+{
+"ID": 40,
+"Pronunciation": "kono～",
+"Japanese": "この～",
+"Nepali": "यो ~",
+"English": "this ~",
+"Lesson": "L-2"
+},
+{
+"ID": 41,
+"Pronunciation": "sono～",
+"Japanese": "その～",
+"Nepali": "त्यो ~",
+"English": "that ~",
+"Lesson": "L-2"
+},
+{
+"ID": 42,
+"Pronunciation": "ano～",
+"Japanese": "あの～",
+"Nepali": "त्यो ~",
+"English": "that ~",
+"Lesson": "L-2"
+},
+{
+"ID": 43,
+"Pronunciation": "hon",
+"Japanese": "ほん",
+"Nepali": "पुस्तक",
+"English": "book",
+"Lesson": "L-2"
+},
+{
+"ID": 44,
+"Pronunciation": "jisho",
+"Japanese": "じしょ",
+"Nepali": "शब्दकोश",
+"English": "dictionary",
+"Lesson": "L-2"
+},
+{
+"ID": 45,
+"Pronunciation": "zasshi",
+"Japanese": "ざっし",
+"Nepali": "पत्रिका",
+"English": "magazine",
+"Lesson": "L-2"
+},
+{
+"ID": 46,
+"Pronunciation": "shinbun",
+"Japanese": "しんぶん",
+"Nepali": "समाचार पत्र",
+"English": "newspaper",
+"Lesson": "L-2"
+},
+{
+"ID": 47,
+"Pronunciation": "nēto",
+"Japanese": "ンート",
+"Nepali": "नोटबुक",
+"English": "notebook",
+"Lesson": "L-2"
+},
+{
+"ID": 48,
+"Pronunciation": "techō",
+"Japanese": "てちょう",
+"Nepali": "नोटबुक",
+"English": "notebook",
+"Lesson": "L-2"
+},
+{
+"ID": 49,
+"Pronunciation": "meishi",
+"Japanese": "めいし",
+"Nepali": "व्यापार कार्ड",
+"English": "business card",
+"Lesson": "L-2"
+},
+{
+"ID": 50,
+"Pronunciation": "kādo",
+"Japanese": "カード",
+"Nepali": "कार्ड",
+"English": "card",
+"Lesson": "L-2"
+},
+{
+"ID": 51,
+"Pronunciation": "terehone kādo",
+"Japanese": "テレホンカード",
+"Nepali": "टेलीफोन कार्ड",
+"English": "telephone card",
+"Lesson": "L-2"
+},
+{
+"ID": 52,
+"Pronunciation": "enpitsu",
+"Japanese": "えんぴつ",
+"Nepali": "पेंसिल",
+"English": "pencil",
+"Lesson": "L-2"
+},
+{
+"ID": 53,
+"Pronunciation": "bōrupen",
+"Japanese": "ボールペン",
+"Nepali": "पेन",
+"English": "pen",
+"Lesson": "L-2"
+},
+{
+"ID": 54,
+"Pronunciation": "shāpu penshiru",
+"Japanese": "シャープペンシル",
+"Nepali": "पेंसिल",
+"English": "mechanical pencil",
+"Lesson": "L-2"
+},
+{
+"ID": 55,
+"Pronunciation": "kagi",
+"Japanese": "かぎ",
+"Nepali": "चाबी",
+"English": "key",
+"Lesson": "L-2"
+},
+{
+"ID": 56,
+"Pronunciation": "tokei",
+"Japanese": "とけい",
+"Nepali": "घड़ी",
+"English": "watch",
+"Lesson": "L-2"
+},
+{
+"ID": 57,
+"Pronunciation": "kasa",
+"Japanese": "かさ",
+"Nepali": "छाता",
+"English": "umbrella",
+"Lesson": "L-2"
+},
+{
+"ID": 58,
+"Pronunciation": "kaban",
+"Japanese": "かばん",
+"Nepali": "बैग",
+"English": "bag",
+"Lesson": "L-2"
+},
+{
+"ID": 59,
+"Pronunciation": "kasetto teipu",
+"Japanese": "カセットテープ",
+"Nepali": "कैसेट टेप",
+"English": "cassette tape",
+"Lesson": "L-2"
+},
+{
+"ID": 60,
+"Pronunciation": "tepurekooda",
+"Japanese": "テープレコーダー",
+"Nepali": "टेप रिकॉर्डर",
+"English": "tape recorder",
+"Lesson": "L-2"
+},
+{
+"ID": 61,
+"Pronunciation": "terebi",
+"Japanese": "テレビ",
+"Nepali": "टीवी",
+"English": "television",
+"Lesson": "L-2"
+},
+{
+"ID": 62,
+"Pronunciation": "rajio",
+"Japanese": "ラジオ",
+"Nepali": "रेडियो",
+"English": "radio",
+"Lesson": "L-2"
+},
+{
+"ID": 63,
+"Pronunciation": "kamera",
+"Japanese": "カメラ",
+"Nepali": "कैमरा",
+"English": "camera",
+"Lesson": "L-2"
+},
+{
+"ID": 64,
+"Pronunciation": "konpyūtā",
+"Japanese": "コンピューター",
+"Nepali": "कंप्यूटर",
+"English": "computer",
+"Lesson": "L-2"
+},
+{
+"ID": 65,
+"Pronunciation": "jidousha",
+"Japanese": "じどうしゃ",
+"Nepali": "कार",
+"English": "car",
+"Lesson": "L-2"
+},
+{
+"ID": 66,
+"Pronunciation": "tsukue",
+"Japanese": "つくえ",
+"Nepali": "मेज",
+"English": "table",
+"Lesson": "L-2"
+},
+{
+"ID": 67,
+"Pronunciation": "isu",
+"Japanese": "いす",
+"Nepali": "कुर्सी",
+"English": "chair",
+"Lesson": "L-2"
+},
+{
+"ID": 68,
+"Pronunciation": "chokorēto",
+"Japanese": "チョコレート",
+"Nepali": "चॉकलेट",
+"English": "chocolate",
+"Lesson": "L-2"
+},
+{
+"ID": 69,
+"Pronunciation": "kōhī",
+"Japanese": "コーヒー",
+"Nepali": "कॉफी",
+"English": "coffee",
+"Lesson": "L-2"
+},
+{
+"ID": 70,
+"Pronunciation": "eigo",
+"Japanese": "えいご",
+"Nepali": "अंग्रेजी",
+"English": "English",
+"Lesson": "L-2"
+},
+{
+"ID": 71,
+"Pronunciation": "nihongo",
+"Japanese": "にほんご",
+"Nepali": "जापानी",
+"English": "Japanese",
+"Lesson": "L-2"
+},
+{
+"ID": 72,
+"Pronunciation": "~go",
+"Japanese": "～ご",
+"Nepali": "~ भाषा",
+"English": "~ language",
+"Lesson": "L-2"
+},
+{
+"ID": 73,
+"Pronunciation": "nan",
+"Japanese": "なん",
+"Nepali": "क्या",
+"English": "what",
+"Lesson": "L-2"
+},
+{
+"ID": 74,
+"Pronunciation": "so",
+"Japanese": "そう",
+"Nepali": "इसलिए",
+"English": "therefore",
+"Lesson": "L-2"
+},
+{
+"ID": 75,
+"Pronunciation": "chigaimasu",
+"Japanese": "ちがいます",
+"Nepali": "नहीं है",
+"English": "not",
+"Lesson": "L-2"
+},
+{
+"ID": 76,
+"Pronunciation": "so desu ka",
+"Japanese": "そうですか",
+"Nepali": "मुझे समझ आया",
+"English": "I see",
+"Lesson": "L-2"
+},
+{
+"ID": 77,
+"Pronunciation": "anoo",
+"Japanese": "あのう",
+"Nepali": "अच्छा",
+"English": "well",
+"Lesson": "L-2"
+},
+{
+"ID": 78,
+"Pronunciation": "hon no kimochi desu",
+"Japanese": "ほんの気持ちです",
+"Nepali": "यह कुछ भी नहीं है",
+"English": "it's nothing",
+"Lesson": "L-2"
+},
+{
+"ID": 79,
+"Pronunciation": "douzo",
+"Japanese": "どうぞ",
+"Nepali": "कृपया",
+"English": "please",
+"Lesson": "L-2"
+},
+{
+"ID": 80,
+"Pronunciation": "doumo",
+"Japanese": "どうも",
+"Nepali": "धन्यवाद",
+"English": "thank you",
+"Lesson": "L-2"
+},
+{
+"ID": 81,
+"Pronunciation": "doumo arigatou",
+"Japanese": "どうもありがとう",
+"Nepali": "धन्यवाद",
+"English": "thank you very much",
+"Lesson": "L-2"
+},
+{
+"ID": 82,
+"Pronunciation": "gozaimasu",
+"Japanese": "ございます",
+"Nepali": "बहुत",
+"English": "you're welcome",
+"Lesson": "L-2"
+},
+{
+"ID": 83,
+"Pronunciation": "kore kara asewa ni narimasu",
+"Japanese": "これからあせわに",
+"Nepali": "भविष्य में तुम्हारी मदद की उम्मीद है",
+"English": "I hope to have your help in the future",
+"Lesson": "L-2"
+},
+{
+"ID": 84,
+"Pronunciation": "kochira koso yoroshiku",
+"Japanese": "こちらこそよろしく",
+"Nepali": "मैं भी तुम्हारी मदद करना चाहता हूं",
+"English": "I also want to help you",
+"Lesson": "L-2"
+},
+{
+"ID": 85,
+"Pronunciation": "koko",
+"Japanese": "ここ",
+"Nepali": "यहाँ, यो स्थान",
+"English": "here, this place",
+"Lesson": "L-3"
+},
+{
+"ID": 86,
+"Pronunciation": "soko",
+"Japanese": "そこ",
+"Nepali": "त्यहाँ, तपाईँको नजिकको स्थान",
+"English": "there, this place near you",
+"Lesson": "L-3"
+},
+{
+"ID": 87,
+"Pronunciation": "asoko",
+"Japanese": "あそこ",
+"Nepali": "त्यहाँ, टाढाको स्थान",
+"English": "there, that place far away",
+"Lesson": "L-3"
+},
+{
+"ID": 88,
+"Pronunciation": "doko",
+"Japanese": "どこ",
+"Nepali": "कहाँ, कुन ठाउँ?",
+"English": "where, which place?",
+"Lesson": "L-3"
+},
+{
+"ID": 89,
+"Pronunciation": "kochira",
+"Japanese": "こちら",
+"Nepali": "यो बाटो, यो स्थान (पोलीत को)",
+"English": "this way, this place (polite form of \"koko\")",
+"Lesson": "L-3"
+},
+{
+"ID": 90,
+"Pronunciation": "sochira",
+"Japanese": "そちら",
+"Nepali": "त्यो बाटो, तपाईँको नजिकको स्थान (पोलीत सो)",
+"English": "that way, this place near you (polite form of \"soko\")",
+"Lesson": "L-3"
+},
+{
+"ID": 91,
+"Pronunciation": "achira",
+"Japanese": "あちら",
+"Nepali": "त्यो बाटो, टाढाको स्थान (पोलीत अ)",
+"English": "that way, that place far away (polite form of \"asoko\")",
+"Lesson": "L-3"
+},
+{
+"ID": 92,
+"Pronunciation": "dochira",
+"Japanese": "どちら",
+"Nepali": "कुन बाटो, कहाँ? (पोलीत डो)",
+"English": "which way, which place? (polite form of \"doko\")",
+"Lesson": "L-3"
+},
+{
+"ID": 93,
+"Pronunciation": "kyoshitsu",
+"Japanese": "きょうしつ",
+"Nepali": "कक्षा",
+"English": "classroom",
+"Lesson": "L-3"
+},
+{
+"ID": 94,
+"Pronunciation": "shokudo",
+"Japanese": "しょくどう",
+"Nepali": "भोजन कक्ष, क्यान्टीन",
+"English": "dining room, canteen",
+"Lesson": "L-3"
+},
+{
+"ID": 95,
+"Pronunciation": "jimusho",
+"Japanese": "じむしょ",
+"Nepali": "कार्यालय",
+"English": "office",
+"Lesson": "L-3"
+},
+{
+"ID": 96,
+"Pronunciation": "kaigishitsu",
+"Japanese": "かいぎしつ",
+"Nepali": "सम्मेलन कक्ष, सभा हल",
+"English": "conference room, meeting hall",
+"Lesson": "L-3"
+},
+{
+"ID": 97,
+"Pronunciation": "uketsuke",
+"Japanese": "うけつけ",
+"Nepali": "स्वागत डेस्क",
+"English": "reception desk",
+"Lesson": "L-3"
+},
+{
+"ID": 98,
+"Pronunciation": "lobi",
+"Japanese": "ロビー",
+"Nepali": "लोबी",
+"English": "lobby",
+"Lesson": "L-3"
+},
+{
+"ID": 99,
+"Pronunciation": "heya",
+"Japanese": "へや",
+"Nepali": "कोठा",
+"English": "room",
+"Lesson": "L-3"
+},
+{
+"ID": 100,
+"Pronunciation": "toire (otearai)",
+"Japanese": "トイレ（おてあらい）",
+"Nepali": "शौचालय",
+"English": "toilet, restroom",
+"Lesson": "L-3"
+},
+{
+"ID": 101,
+"Pronunciation": "kaidan",
+"Japanese": "かいだん",
+"Nepali": "सीढिँ",
+"English": "stairs",
+"Lesson": "L-3"
+},
+{
+"ID": 102,
+"Pronunciation": "elevator",
+"Japanese": "エレベーター",
+"Nepali": "लिफ्ट",
+"English": "elevator",
+"Lesson": "L-3"
+},
+{
+"ID": 103,
+"Pronunciation": "escalator",
+"Japanese": "エスカレーター",
+"Nepali": "एस्केलेटर",
+"English": "escalator",
+"Lesson": "L-3"
+},
+{
+"ID": 104,
+"Pronunciation": "kuni",
+"Japanese": "くに",
+"Nepali": "देश",
+"English": "country",
+"Lesson": "L-3"
+},
+{
+"ID": 105,
+"Pronunciation": "kaisha",
+"Japanese": "かいしゃ",
+"Nepali": "काम",
+"English": "work, company",
+"Lesson": "L-3"
+},
+{
+"ID": 106,
+"Pronunciation": "uchi",
+"Japanese": "うち",
+"Nepali": "घर, बास",
+"English": "home, house",
+"Lesson": "L-3"
+},
+{
+"ID": 107,
+"Pronunciation": "denwa",
+"Japanese": "でんわ",
+"Nepali": "टेलिफोन, टेलिफोन कल",
+"English": "telephone, phone call",
+"Lesson": "L-3"
+},
+{
+"ID": 108,
+"Pronunciation": "kutsu",
+"Japanese": "くつ",
+"Nepali": "जूता",
+"English": "shoes",
+"Lesson": "L-3"
+},
+{
+"ID": 109,
+"Pronunciation": "nekutai",
+"Japanese": "ネクタイ",
+"Nepali": "नेक टाइस",
+"English": "necktie",
+"Lesson": "L-3"
+},
+{
+"ID": 110,
+"Pronunciation": "wain",
+"Japanese": "ワイン",
+"Nepali": "वाइन",
+"English": "wine",
+"Lesson": "L-3"
+},
+{
+"ID": 111,
+"Pronunciation": "tabako",
+"Japanese": "たばこ",
+"Nepali": "तमाको, चुरोट",
+"English": "tobacco, cigarette",
+"Lesson": "L-3"
+},
+{
+"ID": 112,
+"Pronunciation": "uriba",
+"Japanese": "うりば",
+"Nepali": "विभाग, बिक्री काउण्टर (महलको पसलमा)",
+"English": "department, sales counter (in a department store)",
+"Lesson": "L-3"
+},
+{
+"ID": 113,
+"Pronunciation": "chika",
+"Japanese": "ちか",
+"Nepali": "तलतल",
+"English": "floor",
+"Lesson": "L-3"
+},
+{
+"ID": 114,
+"Pronunciation": "kai (gai)",
+"Japanese": "かい（がい）",
+"Nepali": "~औं तल",
+"English": "~th floor",
+"Lesson": "L-3"
+},
+{
+"ID": 115,
+"Pronunciation": "nagai",
+"Japanese": "なんがい",
+"Nepali": "कुन तल?",
+"English": "which floor?",
+"Lesson": "L-3"
+},
+{
+"ID": 116,
+"Pronunciation": "en",
+"Japanese": "えん",
+"Nepali": "~ येन",
+"English": "~ yen",
+"Lesson": "L-3"
+},
+{
+"ID": 117,
+"Pronunciation": "ikura",
+"Japanese": "いくら",
+"Nepali": "कति?",
+"English": "how much?",
+"Lesson": "L-3"
+},
+{
+"ID": 118,
+"Pronunciation": "hyaku",
+"Japanese": "ひゃく",
+"Nepali": "सय",
+"English": "one hundred",
+"Lesson": "L-3"
+},
+{
+"ID": 119,
+"Pronunciation": "sen",
+"Japanese": "せん",
+"Nepali": "हजार",
+"English": "one thousand",
+"Lesson": "L-3"
+},
+{
+"ID": 120,
+"Pronunciation": "man",
+"Japanese": "まん",
+"Nepali": "दस हजार",
+"English": "ten thousand",
+"Lesson": "L-3"
+},
+{
+"ID": 121,
+"Pronunciation": "sumimasen.",
+"Japanese": "すみません।",
+"Nepali": "माफ गर्नुहोस्।",
+"English": "excuse me, sorry",
+"Lesson": "L-3"
+},
+{
+"ID": 122,
+"Pronunciation": "~desu.",
+"Japanese": "～でございます。 (polite equivalent of です)",
+"English": "is",
+"Lesson": "L-3"
+},
+{
+"ID": 123,
+"Pronunciation": "~ o misete kudasai.",
+"Japanese": "～を みせてください。 ～を 見せて ください।",
+"Nepali": "कृपया ~ देखाउनुहोस्।",
+"English": "please show me ~",
+"Lesson": "L-3"
+},
+{
+"ID": 124,
+"Pronunciation": "ja",
+"Japanese": "じゃ",
+"Nepali": "त्यसो भए, त्यस अवस्थामा",
+"English": "okay, so",
+"Lesson": "L-3"
+},
+{
+"ID": 125,
+"Pronunciation": "~ o kudasai.",
+"Japanese": "～を くだざい。",
+"Nepali": "कृपया ~ दिनुहोस्।",
+"English": "please give me ~",
+"Lesson": "L-3"
+},
+{
+"ID": 126,
+"Pronunciation": "owarimasu",
+"Japanese": "終わります",
+"Nepali": "समाप्त हुन्छ",
+"English": "finish",
+"Lesson": "L-4"
+},
+{
+"ID": 127,
+"Pronunciation": "depaato",
+"Japanese": "デパート",
+"Nepali": "डिपार्टमेन्ट स्टोर",
+"English": "department store",
+"Lesson": "L-4"
+},
+{
+"ID": 128,
+"Pronunciation": "ginkō",
+"Japanese": "ぎんこう",
+"Nepali": "बैंक",
+"English": "bank",
+"Lesson": "L-4"
+},
+{
+"ID": 129,
+"Pronunciation": "yūbinkyoku",
+"Japanese": "ゆうびんきょく",
+"Nepali": "डाकघर",
+"English": "post office",
+"Lesson": "L-4"
+},
+{
+"ID": 130,
+"Pronunciation": "toshokan",
+"Japanese": "としょかん",
+"Nepali": "पुस्तकालय",
+"English": "library",
+"Lesson": "L-4"
+},
+{
+"ID": 131,
+"Pronunciation": "bijutsukan",
+"Japanese": "びじゅつかん",
+"Nepali": "कला संग्रहालय",
+"English": "art museum",
+"Lesson": "L-4"
+},
+{
+"ID": 132,
+"Pronunciation": "ima",
+"Japanese": "いま",
+"Nepali": "अहिले",
+"English": "now",
+"Lesson": "L-4"
+},
+{
+"ID": 133,
+"Pronunciation": "~ji",
+"Japanese": "～じ",
+"Nepali": "~ बजे",
+"English": "~o'clock",
+"Lesson": "L-4"
+},
+{
+"ID": 134,
+"Pronunciation": "~fun",
+"Japanese": "～ふん",
+"Nepali": "~ मिनेट",
+"English": "~minute",
+"Lesson": "L-4"
+},
+{
+"ID": 135,
+"Pronunciation": "han",
+"Japanese": "はん",
+"Nepali": "आधा",
+"English": "half",
+"Lesson": "L-4"
+},
+{
+"ID": 136,
+"Pronunciation": "nanji",
+"Japanese": "なんじ",
+"Nepali": "केही बजे",
+"English": "what time",
+"Lesson": "L-4"
+},
+{
+"ID": 137,
+"Pronunciation": "nanpun",
+"Japanese": "なんぷん",
+"Nepali": "केही मिनेट",
+"English": "what minute",
+"Lesson": "L-4"
+},
+{
+"ID": 138,
+"Pronunciation": "gozen",
+"Japanese": "ごぜん",
+"Nepali": "बिहान",
+"English": "a.m., morning",
+"Lesson": "L-4"
+},
+{
+"ID": 139,
+"Pronunciation": "gogo",
+"Japanese": "ごご",
+"Nepali": "दोपहर",
+"English": "p.m., afternoon",
+"Lesson": "L-4"
+},
+{
+"ID": 140,
+"Pronunciation": "asa",
+"Japanese": "あさ",
+"Nepali": "बिहान",
+"English": "morning",
+"Lesson": "L-4"
+},
+{
+"ID": 141,
+"Pronunciation": "hiru",
+"Japanese": "ひる",
+"Nepali": "दिन",
+"English": "daytime, noon",
+"Lesson": "L-4"
+},
+{
+"ID": 142,
+"Pronunciation": "ban (yoru)",
+"Japanese": "ばん（よる）",
+"Nepali": "रात",
+"English": "night, evening",
+"Lesson": "L-4"
+},
+{
+"ID": 143,
+"Pronunciation": "ototoi",
+"Japanese": "おととい",
+"Nepali": "हिजोको अघिल्लो दिन",
+"English": "the day before yesterday",
+"Lesson": "L-4"
+},
+{
+"ID": 144,
+"Pronunciation": "kinou",
+"Japanese": "きのう",
+"Nepali": "हिजो",
+"English": "yesterday",
+"Lesson": "L-4"
+},
+{
+"ID": 145,
+"Pronunciation": "kyou",
+"Japanese": "きょう",
+"Nepali": "आज",
+"English": "today",
+"Lesson": "L-4"
+},
+{
+"ID": 146,
+"Pronunciation": "ashita",
+"Japanese": "あした",
+"Nepali": "भोलि",
+"English": "tomorrow",
+"Lesson": "L-4"
+},
+{
+"ID": 147,
+"Pronunciation": "asatte",
+"Japanese": "あさって",
+"Nepali": "भोलिपल्ट",
+"English": "the day after tomorrow",
+"Lesson": "L-4"
+},
+{
+"ID": 148,
+"Pronunciation": "kesa",
+"Japanese": "けさ",
+"Nepali": "आज बिहान",
+"English": "this morning",
+"Lesson": "L-4"
+},
+{
+"ID": 149,
+"Pronunciation": "konban",
+"Japanese": "こんばん",
+"Nepali": "आज साँझ",
+"English": "this evening, tonight",
+"Lesson": "L-4"
+},
+{
+"ID": 150,
+"Pronunciation": "yasumi",
+"Japanese": "やすみ",
+"Nepali": "छुट्टी",
+"English": "rest, a holiday, a day off",
+"Lesson": "L-4"
+},
+{
+"ID": 151,
+"Pronunciation": "hiruyasumi",
+"Japanese": "ひるやすみ",
+"Nepali": "दोपहरको छुट्टी",
+"English": "lunchtime",
+"Lesson": "L-4"
+},
+{
+"ID": 152,
+"Pronunciation": "maiasa",
+"Japanese": "まいあさ",
+"Nepali": "हरेक बिहान",
+"English": "every morning",
+"Lesson": "L-4"
+},
+{
+"ID": 153,
+"Pronunciation": "maiban",
+"Japanese": "まいばん",
+"Nepali": "हरेक साँझ",
+"English": "every evening",
+"Lesson": "L-4"
+},
+{
+"ID": 154,
+"Pronunciation": "mainichi",
+"Japanese": "まいにち",
+"Nepali": "हरेक दिन",
+"English": "every day",
+"Lesson": "L-4"
+},
+{
+"ID": 155,
+"Pronunciation": "getsuyoubi",
+"Japanese": "げつようび",
+"Nepali": "सोमबार",
+"English": "Monday",
+"Lesson": "L-4"
+},
+{
+"ID": 156,
+"Pronunciation": "kayobi",
+"Japanese": "かようび",
+"Nepali": "मंगलबार",
+"English": "Tuesday",
+"Lesson": "L-4"
+},
+{
+"ID": 157,
+"Pronunciation": "suiyoubi",
+"Japanese": "すいようび",
+"Nepali": "बुधबार",
+"English": "Wednesday",
+"Lesson": "L-4"
+},
+{
+"ID": 158,
+"Pronunciation": "mokuyoubi",
+"Japanese": "もくようび",
+"Nepali": "बिहीबार",
+"English": "Thursday",
+"Lesson": "L-4"
+},
+{
+"ID": 159,
+"Pronunciation": "kinyoubi",
+"Japanese": "きんようび",
+"Nepali": "शुक्रबार",
+"English": "Friday",
+"Lesson": "L-4"
+},
+{
+"ID": 160,
+"Pronunciation": "doyoubi",
+"Japanese": "どようび",
+"Nepali": "शनिबार",
+"English": "Saturday",
+"Lesson": "L-4"
+},
+{
+"ID": 161,
+"Pronunciation": "nichiyoubi",
+"Japanese": "にちようび",
+"Nepali": "आइतबार",
+"English": "Sunday",
+"Lesson": "L-4"
+},
+{
+"ID": 162,
+"Pronunciation": "nanjoubi",
+"Japanese": "なんようび",
+"Nepali": "कसरि दिन",
+"English": "what day of the week",
+"Lesson": "L-4"
+},
+{
+"ID": 163,
+"Pronunciation": "bangou",
+"Japanese": "ばんごう",
+"Nepali": "नम्बर",
+"English": "number",
+"Lesson": "L-4"
+},
+{
+"ID": 164,
+"Pronunciation": "nanban",
+"Japanese": "なんばん",
+"Nepali": "कुन नम्बर",
+"English": "what number",
+"Lesson": "L-4"
+},
+{
+"ID": 165,
+"Pronunciation": "kara",
+"Japanese": "～から",
+"Nepali": "देखि",
+"English": "from ~",
+"Lesson": "L-4"
+},
+{
+"ID": 166,
+"Pronunciation": "made",
+"Japanese": "～まで",
+"Nepali": "सम्म",
+"English": "up to ~, until ~",
+"Lesson": "L-4"
+},
+{
+"ID": 167,
+"Pronunciation": "to ~",
+"Japanese": "～と～",
+"Nepali": "र",
+"English": "and (used to connect nouns)",
+"Lesson": "L-4"
+},
+{
+"ID": 168,
+"Pronunciation": "sochira",
+"Japanese": "そちら",
+"Nepali": "त्यहाँ",
+"English": "your place",
+"Lesson": "L-4"
+},
+{
+"ID": 169,
+"Pronunciation": "taihen desu ne.",
+"Japanese": "たいへんですね。",
+"Nepali": "यो कठिन छ, होइन?",
+"English": "That's tough, isn't it? (used when expressing sympathy)",
+"Lesson": "L-4"
+},
+{
+"ID": 170,
+"Pronunciation": "eto",
+"Japanese": "えーと",
+"Nepali": "कता होला",
+"English": "well, let me see",
+"Lesson": "L-4"
+},
+{
+"ID": 171,
+"Pronunciation": 104,
+"Japanese": 104,
+"Nepali": "सूचना",
+"English": "information, directory assistance",
+"Lesson": "L-4"
+},
+{
+"ID": 172,
+"Pronunciation": "onegai shimasu.",
+"Japanese": "おねがいします。",
+"Nepali": "कृपया",
+"English": "Please. (lit. ask for a favor)",
+"Lesson": "L-4"
+},
+{
+"ID": 173,
+"Pronunciation": "kashikomarimashita.",
+"Japanese": "かしこまりました。",
+"Nepali": "मलाई थाहा छ",
+"English": "Certainly (sir, madam).",
+"Lesson": "L-4"
+},
+{
+"ID": 174,
+"Pronunciation": "otoiawase no bangou",
+"Japanese": "おといあわせのばんごう",
+"Nepali": "सोध्नको नम्बर",
+"English": "the number being inquired about",
+"Lesson": "L-4"
+},
+{
+"ID": 175,
+"Pronunciation": "doumo arigatou gozaimasu.",
+"Japanese": "［どうも］ありがとうごさい",
+"Nepali": "धन्यवाद",
+"English": "Thank you very much.",
+"Lesson": "L-4"
+},
+{
+"ID": 176,
+"Pronunciation": "ikimasu",
+"Japanese": "いきます",
+"Nepali": "जान्छु",
+"English": "go",
+"Lesson": "L-5"
+},
+{
+"ID": 177,
+"Pronunciation": "kimasu",
+"Japanese": "きます",
+"Nepali": "आउँछु",
+"English": "come",
+"Lesson": "L-5"
+},
+{
+"ID": 178,
+"Pronunciation": "kaerimasu",
+"Japanese": "かえります",
+"Nepali": "घर फर्कन्छु",
+"English": "go home, return",
+"Lesson": "L-5"
+},
+{
+"ID": 179,
+"Pronunciation": "gakkou",
+"Japanese": "がっこう",
+"Nepali": "विद्यालय",
+"English": "school",
+"Lesson": "L-5"
+},
+{
+"ID": 180,
+"Pronunciation": "supa",
+"Japanese": "スーパー",
+"Nepali": "सुपरमार्केट",
+"English": "supermarket",
+"Lesson": "L-5"
+},
+{
+"ID": 181,
+"Pronunciation": "eki",
+"Japanese": "えき",
+"Nepali": "स्टेसन",
+"English": "station",
+"Lesson": "L-5"
+},
+{
+"ID": 182,
+"Pronunciation": "hikōki",
+"Japanese": "ひこうき",
+"Nepali": "हवाईजहाज",
+"English": "airplane",
+"Lesson": "L-5"
+},
+{
+"ID": 183,
+"Pronunciation": "fune",
+"Japanese": "ふね",
+"Nepali": "जहाज",
+"English": "ship",
+"Lesson": "L-5"
+},
+{
+"ID": 184,
+"Pronunciation": "densha",
+"Japanese": "でんしゃ",
+"Nepali": "रेलगाडी",
+"English": "electric train",
+"Lesson": "L-5"
+},
+{
+"ID": 185,
+"Pronunciation": "chikatetsu",
+"Japanese": "ちかてつ",
+"Nepali": "मेट्रो",
+"English": "subway, underground",
+"Lesson": "L-5"
+},
+{
+"ID": 186,
+"Pronunciation": "shinkansen",
+"Japanese": "しんかんせん",
+"Nepali": "शीन्कान्सेन, बुलेट ट्रेन",
+"English": "the Shinkansen, the bullet train",
+"Lesson": "L-5"
+},
+{
+"ID": 187,
+"Pronunciation": "basu",
+"Japanese": "バス",
+"Nepali": "बस",
+"English": "bus",
+"Lesson": "L-5"
+},
+{
+"ID": 188,
+"Pronunciation": "takushii",
+"Japanese": "タクシー",
+"Nepali": "ट्याक्सी",
+"English": "taxi",
+"Lesson": "L-5"
+},
+{
+"ID": 189,
+"Pronunciation": "jitensha",
+"Japanese": "じてんしゃ",
+"Nepali": "बाइक",
+"English": "bicycle",
+"Lesson": "L-5"
+},
+{
+"ID": 190,
+"Pronunciation": "arukute",
+"Japanese": "あるいて",
+"Nepali": "पैदल",
+"English": "on foot",
+"Lesson": "L-5"
+},
+{
+"ID": 191,
+"Pronunciation": "hito",
+"Japanese": "ひと",
+"Nepali": "व्यक्ति, मानिसहरू",
+"English": "person, people",
+"Lesson": "L-5"
+},
+{
+"ID": 192,
+"Pronunciation": "tomodachi",
+"Japanese": "ともだち",
+"Nepali": "साथी",
+"English": "friend",
+"Lesson": "L-5"
+},
+{
+"ID": 193,
+"Pronunciation": "kare",
+"Japanese": "かれ",
+"Nepali": "उनी, प्रेमी, प्रेमिका",
+"English": "he, boyfriend, lover",
+"Lesson": "L-5"
+},
+{
+"ID": 194,
+"Pronunciation": "kanojo",
+"Japanese": "かのじょ",
+"Nepali": "उनी, प्रेमिका, प्रेमी",
+"English": "she, girlfriend, lover",
+"Lesson": "L-5"
+},
+{
+"ID": 195,
+"Pronunciation": "kazoku",
+"Japanese": "かぞく",
+"Nepali": "परिवार",
+"English": "family",
+"Lesson": "L-5"
+},
+{
+"ID": 196,
+"Pronunciation": "hitori de",
+"Japanese": "ひとりで",
+"Nepali": "एक्लै",
+"English": "alone, by oneself",
+"Lesson": "L-5"
+},
+{
+"ID": 197,
+"Pronunciation": "senshuu",
+"Japanese": "せんしゅう",
+"Nepali": "पछिल्लो हप्ता",
+"English": "last week",
+"Lesson": "L-5"
+},
+{
+"ID": 198,
+"Pronunciation": "konshū",
+"Japanese": "こんしゅう",
+"Nepali": "यो हप्ता",
+"English": "this week",
+"Lesson": "L-5"
+},
+{
+"ID": 199,
+"Pronunciation": "raishū",
+"Japanese": "らいしゅう",
+"Nepali": "अर्को हप्ता",
+"English": "next week",
+"Lesson": "L-5"
+},
+{
+"ID": 200,
+"Pronunciation": "sengetsu",
+"Japanese": "せんげつ",
+"Nepali": "पछिल्लो महिना",
+"English": "last month",
+"Lesson": "L-5"
+},
+{
+"ID": 201,
+"Pronunciation": "kongetsu",
+"Japanese": "こんげつ",
+"Nepali": "यो महिना",
+"English": "this month",
+"Lesson": "L-5"
+},
+{
+"ID": 202,
+"Pronunciation": "raigyetsu",
+"Japanese": "らいげつ",
+"Nepali": "अर्को महिना",
+"English": "next month",
+"Lesson": "L-5"
+},
+{
+"ID": 203,
+"Pronunciation": "kyonen",
+"Japanese": "きょねん",
+"Nepali": "गत वर्ष",
+"English": "last year",
+"Lesson": "L-5"
+},
+{
+"ID": 204,
+"Pronunciation": "kotoshi",
+"Japanese": "ことし",
+"Nepali": "यस वर्ष",
+"English": "this year",
+"Lesson": "L-5"
+},
+{
+"ID": 205,
+"Pronunciation": "rainen",
+"Japanese": "らいねん",
+"Nepali": "अर्को वर्ष",
+"English": "next year",
+"Lesson": "L-5"
+},
+{
+"ID": 206,
+"Pronunciation": "~gatsu",
+"Japanese": "～がつ",
+"Nepali": "वर्षको ~ महिना",
+"English": "~th month of the year",
+"Lesson": "L-5"
+},
+{
+"ID": 207,
+"Pronunciation": "natsu",
+"Japanese": "なんがつ",
+"Nepali": "कुन महिना",
+"English": "what month",
+"Lesson": "L-5"
+},
+{
+"ID": 208,
+"Pronunciation": "ichinichi",
+"Japanese": "ついたち",
+"Nepali": "महिनाको पहिलो दिन",
+"English": "first day of the month",
+"Lesson": "L-5"
+},
+{
+"ID": 209,
+"Pronunciation": "futsuka",
+"Japanese": "ふつか",
+"Nepali": "दोस्रो, दुई दिन",
+"English": "second, two days",
+"Lesson": "L-5"
+},
+{
+"ID": 210,
+"Pronunciation": "mikka",
+"Japanese": "みっか",
+"Nepali": "तेस्रो, तीन दिन",
+"English": "third, three days",
+"Lesson": "L-5"
+},
+{
+"ID": 211,
+"Pronunciation": "yookka",
+"Japanese": "よっか",
+"Nepali": "चौथो, चार दिन",
+"English": "fourth, four days",
+"Lesson": "L-5"
+},
+{
+"ID": 212,
+"Pronunciation": "itsuka",
+"Japanese": "いつか",
+"Nepali": "पाँचौँ, पाँच दिन",
+"English": "fifth, five days",
+"Lesson": "L-5"
+},
+{
+"ID": 213,
+"Pronunciation": "muika",
+"Japanese": "むいか",
+"Nepali": "छैठौँ, छ दिन",
+"English": "sixth, six days",
+"Lesson": "L-5"
+},
+{
+"ID": 214,
+"Pronunciation": "nanika",
+"Japanese": "なのか",
+"Nepali": "सातौँ, सात दिन",
+"English": "seventh, seven days",
+"Lesson": "L-5"
+},
+{
+"ID": 215,
+"Pronunciation": "youka",
+"Japanese": "ようか",
+"Nepali": "आठौँ, आठ दिन",
+"English": "eigth, eight days",
+"Lesson": "L-5"
+},
+{
+"ID": 216,
+"Pronunciation": "kokonoka",
+"Japanese": "ここのか",
+"Nepali": "नवौँ, नौ दिन",
+"English": "ninth, nine days",
+"Lesson": "L-5"
+},
+{
+"ID": 217,
+"Pronunciation": "toka",
+"Japanese": "とおか",
+"Nepali": "दशौँ, दस दिन",
+"English": "tenth, ten days",
+"Lesson": "L-5"
+},
+{
+"ID": 218,
+"Pronunciation": "juuyonnichi",
+"Japanese": "じゅうよっか",
+"Nepali": "चौधौँ, चौध दिन",
+"English": "fourteenth, fourteen days",
+"Lesson": "L-5"
+},
+{
+"ID": 219,
+"Pronunciation": "hatsuka",
+"Japanese": "はつか",
+"Nepali": "बीसौँ, बीस दिन",
+"English": "twentieth, twenty days",
+"Lesson": "L-5"
+},
+{
+"ID": 220,
+"Pronunciation": "nijuuyonnichi",
+"Japanese": "にじゅうよっか",
+"Nepali": "चौधौँ, चौध दिन",
+"English": "twenty fourth, twenty four days",
+"Lesson": "L-5"
+},
+{
+"ID": 221,
+"Pronunciation": "~nichi",
+"Japanese": "～にち",
+"Nepali": "महिनाको ~ दिन, ~ दिन",
+"English": "~th day of the month, ~days",
+"Lesson": "L-5"
+},
+{
+"ID": 222,
+"Pronunciation": "nannichi",
+"Japanese": "なんにち",
+"Nepali": "महिनाको कुन दिन, कति दिन",
+"English": "which day of the month, how many days",
+"Lesson": "L-5"
+},
+{
+"ID": 223,
+"Pronunciation": "itsu",
+"Japanese": "いつ",
+"Nepali": "कहिले",
+"English": "when",
+"Lesson": "L-5"
+},
+{
+"ID": 224,
+"Pronunciation": "tanjobi",
+"Japanese": "たんじょうび",
+"Nepali": "जन्मदिन",
+"English": "birthday",
+"Lesson": "L-5"
+},
+{
+"ID": 225,
+"Pronunciation": "futsuu",
+"Japanese": "ふつう",
+"Nepali": "साधारण (रेलगाडी)",
+"English": "local (train)",
+"Lesson": "L-5"
+},
+{
+"ID": 226,
+"Pronunciation": "kyuuko",
+"Japanese": "きゅうこう",
+"Nepali": "द्रुत",
+"English": "rapid",
+"Lesson": "L-5"
+},
+{
+"ID": 227,
+"Pronunciation": "tokkyu",
+"Japanese": "とっきゅう",
+"Nepali": "एक्सप्रेस",
+"English": "express",
+"Lesson": "L-5"
+},
+{
+"ID": 228,
+"Pronunciation": "tsugi no",
+"Japanese": "つぎの",
+"Nepali": "अर्को",
+"English": "next",
+"Lesson": "L-5"
+},
+{
+"ID": 229,
+"Pronunciation": "douitashimashite.",
+"Japanese": "どういたしまして。",
+"Nepali": "धन्यवाद",
+"English": "You're welcome./Don't mention it.",
+"Lesson": "L-5"
+},
+{
+"ID": 230,
+"Pronunciation": "~bansen",
+"Japanese": "～ばんせん",
+"Nepali": "प्लेटफर्म",
+"English": "~, ~th platform",
+"Lesson": "L-5"
+},
+{
+"ID": 231,
+"Pronunciation": "tabemasu",
+"Japanese": "食べます",
+"Nepali": "खान्छु",
+"English": "eat",
+"Lesson": "L-6"
+},
+{
+"ID": 232,
+"Pronunciation": "nomimasu",
+"Japanese": "飲みます",
+"Nepali": "पिउँछु",
+"English": "drink",
+"Lesson": "L-6"
+},
+{
+"ID": 233,
+"Pronunciation": "suimasu",
+"Japanese": "吸います",
+"Nepali": "चुरोट पिउँछु",
+"English": "smoke",
+"Lesson": "L-6"
+},
+{
+"ID": 234,
+"Pronunciation": "mimasu",
+"Japanese": "見ます",
+"Nepali": "हेर्छु",
+"English": "see, look at, watch",
+"Lesson": "L-6"
+},
+{
+"ID": 235,
+"Pronunciation": "kimasu",
+"Japanese": "聞きます",
+"Nepali": "सुन्छु",
+"English": "hear, listen",
+"Lesson": "L-6"
+},
+{
+"ID": 236,
+"Pronunciation": "yomimasu",
+"Japanese": "読みます",
+"Nepali": "पढ्छु",
+"English": "read",
+"Lesson": "L-6"
+},
+{
+"ID": 237,
+"Pronunciation": "kakimasu",
+"Japanese": "書きます",
+"Nepali": "लेख्छु",
+"English": "write, draw, paint",
+"Lesson": "L-6"
+},
+{
+"ID": 238,
+"Pronunciation": "kaimasu",
+"Japanese": "買います",
+"Nepali": "किन्छु",
+"English": "buy",
+"Lesson": "L-6"
+},
+{
+"ID": 239,
+"Pronunciation": "torimasu",
+"Japanese": "取ります",
+"Nepali": "लिन्छु",
+"English": "take",
+"Lesson": "L-6"
+},
+{
+"ID": 240,
+"Pronunciation": "shimasu",
+"Japanese": "します",
+"Nepali": "गर्छु",
+"English": "do",
+"Lesson": "L-6"
+},
+{
+"ID": 241,
+"Pronunciation": "aimasu",
+"Japanese": "会います",
+"Nepali": "भेट्छु",
+"English": "meet",
+"Lesson": "L-6"
+},
+{
+"ID": 242,
+"Pronunciation": "gohan",
+"Japanese": "ご飯",
+"Nepali": "खाना",
+"English": "a meal, cooked rice",
+"Lesson": "L-6"
+},
+{
+"ID": 243,
+"Pronunciation": "asagohan",
+"Japanese": "朝ご飯",
+"Nepali": "बिहानको खाना",
+"English": "breakfast",
+"Lesson": "L-6"
+},
+{
+"ID": 244,
+"Pronunciation": "hirugohan",
+"Japanese": "昼ご飯",
+"Nepali": "दिउँसोको खाना",
+"English": "lunch",
+"Lesson": "L-6"
+},
+{
+"ID": 245,
+"Pronunciation": "bangohan",
+"Japanese": "晩ご飯",
+"Nepali": "बेलुकाको खाना",
+"English": "supper",
+"Lesson": "L-6"
+},
+{
+"ID": 246,
+"Pronunciation": "pan",
+"Japanese": "パン",
+"Nepali": "रोटी",
+"English": "bread",
+"Lesson": "L-6"
+},
+{
+"ID": 247,
+"Pronunciation": "tamago",
+"Japanese": "卵",
+"Nepali": "अण्डा",
+"English": "egg",
+"Lesson": "L-6"
+},
+{
+"ID": 248,
+"Pronunciation": "niku",
+"Japanese": "肉",
+"Nepali": "मासु",
+"English": "meat",
+"Lesson": "L-6"
+},
+{
+"ID": 249,
+"Pronunciation": "sakana",
+"Japanese": "魚",
+"Nepali": "माछा",
+"English": "fish",
+"Lesson": "L-6"
+},
+{
+"ID": 250,
+"Pronunciation": "yasai",
+"Japanese": "野菜",
+"Nepali": "तरकारी",
+"English": "vegetable",
+"Lesson": "L-6"
+},
+{
+"ID": 251,
+"Pronunciation": "kudamono",
+"Japanese": "果物",
+"Nepali": "फल",
+"English": "fruit",
+"Lesson": "L-6"
+},
+{
+"ID": 252,
+"Pronunciation": "mizu",
+"Japanese": "水",
+"Nepali": "पानी",
+"English": "water",
+"Lesson": "L-6"
+},
+{
+"ID": 253,
+"Pronunciation": "ocha",
+"Japanese": "お茶",
+"Nepali": "चिया",
+"English": "tea, green tea",
+"Lesson": "L-6"
+},
+{
+"ID": 254,
+"Pronunciation": "koucha",
+"Japanese": "紅茶",
+"Nepali": "कालो चिया",
+"English": "black tea",
+"Lesson": "L-6"
+},
+{
+"ID": 255,
+"Pronunciation": "gyūnyū",
+"Japanese": "牛乳",
+"Nepali": "दूध",
+"English": "milk",
+"Lesson": "L-6"
+},
+{
+"ID": 256,
+"Pronunciation": "jūsu",
+"Japanese": "ジュース",
+"Nepali": "जुस",
+"English": "juice",
+"Lesson": "L-6"
+},
+{
+"ID": 257,
+"Pronunciation": "biiru",
+"Japanese": "ビール",
+"Nepali": "बियर",
+"English": "beer",
+"Lesson": "L-6"
+},
+{
+"ID": 258,
+"Pronunciation": "osake",
+"Japanese": "お酒",
+"Nepali": "रक्सी",
+"English": "alcohol, Japanese rice wine",
+"Lesson": "L-6"
+},
+{
+"ID": 259,
+"Pronunciation": "bideo",
+"Japanese": "ビデオ",
+"Nepali": "भिडियो",
+"English": "video",
+"Lesson": "L-6"
+},
+{
+"ID": 260,
+"Pronunciation": "eiga",
+"Japanese": "映画",
+"Nepali": "चलचित्र",
+"English": "movie",
+"Lesson": "L-6"
+},
+{
+"ID": 261,
+"Pronunciation": "CD",
+"Japanese": "ＣＤ",
+"Nepali": "सीडी",
+"English": "CD, compact disk",
+"Lesson": "L-6"
+},
+{
+"ID": 262,
+"Pronunciation": "tegami",
+"Japanese": "手紙",
+"Nepali": "पत्र",
+"English": "letter",
+"Lesson": "L-6"
+},
+{
+"ID": 263,
+"Pronunciation": "repoto",
+"Japanese": "レポート",
+"Nepali": "प्रतिवेदन",
+"English": "report",
+"Lesson": "L-6"
+},
+{
+"ID": 264,
+"Pronunciation": "shashin",
+"Japanese": "写真",
+"Nepali": "फोटो",
+"English": "photograph",
+"Lesson": "L-6"
+},
+{
+"ID": 265,
+"Pronunciation": "mise",
+"Japanese": "店",
+"Nepali": "पसल",
+"English": "store, shop",
+"Lesson": "L-6"
+},
+{
+"ID": 266,
+"Pronunciation": "resutoran",
+"Japanese": "レストラン",
+"Nepali": "रेस्टुरेन्ट",
+"English": "restaurant",
+"Lesson": "L-6"
+},
+{
+"ID": 267,
+"Pronunciation": "niwa",
+"Japanese": "庭",
+"Nepali": "बगैंचा",
+"English": "garden",
+"Lesson": "L-6"
+},
+{
+"ID": 268,
+"Pronunciation": "shukudai",
+"Japanese": "宿題",
+"Nepali": "गृहकार्य",
+"English": "homework",
+"Lesson": "L-6"
+},
+{
+"ID": 269,
+"Pronunciation": "tenisu",
+"Japanese": "テニス",
+"Nepali": "टेनिस",
+"English": "tennis",
+"Lesson": "L-6"
+},
+{
+"ID": 270,
+"Pronunciation": "sakkā",
+"Japanese": "サッカー",
+"Nepali": "फुटबल",
+"English": "soccer, football",
+"Lesson": "L-6"
+},
+{
+"ID": 271,
+"Pronunciation": "ohana-mi",
+"Japanese": "お花見",
+"Nepali": "फूल हेर्नु",
+"English": "cherry-blossom viewing",
+"Lesson": "L-6"
+},
+{
+"ID": 272,
+"Pronunciation": "nan",
+"Japanese": "何",
+"Nepali": "के",
+"English": "what",
+"Lesson": "L-6"
+},
+{
+"ID": 273,
+"Pronunciation": "issho ni",
+"Japanese": "一緒に",
+"Nepali": "सँगै",
+"English": "together",
+"Lesson": "L-6"
+},
+{
+"ID": 274,
+"Pronunciation": "chotto",
+"Japanese": "ちょっと",
+"Nepali": "अलिकति",
+"English": "a little while, a little bit",
+"Lesson": "L-6"
+},
+{
+"ID": 275,
+"Pronunciation": "itsumo",
+"Japanese": "いつも",
+"Nepali": "सधैं",
+"English": "always, usually",
+"Lesson": "L-6"
+},
+{
+"ID": 276,
+"Pronunciation": "tokidoki",
+"Japanese": "時々",
+"Nepali": "कहिलेकाहीँ",
+"English": "sometimes",
+"Lesson": "L-6"
+},
+{
+"ID": 277,
+"Pronunciation": "sorekara",
+"Japanese": "それから",
+"Nepali": "त्यसपछि",
+"English": "after that, and then",
+"Lesson": "L-6"
+},
+{
+"ID": 278,
+"Pronunciation": "ee",
+"Japanese": "ええ",
+"Nepali": "हो",
+"English": "yes",
+"Lesson": "L-6"
+},
+{
+"ID": 279,
+"Pronunciation": "ii desu ne.",
+"Japanese": "いいですね。",
+"Nepali": "मलाई मन पर्यो",
+"English": "That's good.",
+"Lesson": "L-6"
+},
+{
+"ID": 280,
+"Pronunciation": "wakarimashita.",
+"Japanese": "わかりました。",
+"Nepali": "बुझियो",
+"English": "I see.",
+"Lesson": "L-6"
+},
+{
+"ID": 281,
+"Pronunciation": "nan desu ka",
+"Japanese": "なんですか",
+"Nepali": "के हो",
+"English": "Yes?",
+"Lesson": "L-6"
+},
+{
+"ID": 282,
+"Pronunciation": "ja, mata ashita.",
+"Japanese": "じゃ、またあした。",
+"Nepali": "भोलि भेटौँला",
+"English": "See you [tomorrow]",
+"Lesson": "L-6"
+},
+{
+"ID": 283,
+"Pronunciation": "kirimasu",
+"Japanese": "切ります",
+"Nepali": "काट्छु",
+"English": "cut",
+"Lesson": "L-7"
+},
+{
+"ID": 284,
+"Pronunciation": "oshiirimasu",
+"Japanese": "送ります",
+"Nepali": "म तपाईलाई पठाउँछु",
+"English": "send",
+"Lesson": "L-7"
+},
+{
+"ID": 285,
+"Pronunciation": "agemasu",
+"Japanese": "あげます",
+"Nepali": "दिनु",
+"English": "give",
+"Lesson": "L-7"
+},
+{
+"ID": 286,
+"Pronunciation": "moraimasu",
+"Japanese": "もらいます",
+"Nepali": "खुट्टा",
+"English": "receive",
+"Lesson": "L-7"
+},
+{
+"ID": 287,
+"Pronunciation": "kashimasu",
+"Japanese": "かします",
+"Nepali": "दिनु",
+"English": "lend",
+"Lesson": "L-7"
+},
+{
+"ID": 288,
+"Pronunciation": "karimasu",
+"Japanese": "かります",
+"Nepali": "लिनुहोस्",
+"English": "borrow",
+"Lesson": "L-7"
+},
+{
+"ID": 289,
+"Pronunciation": "oshiemasu",
+"Japanese": "おしえます",
+"Nepali": "सिक्नुहोस्",
+"English": "teach",
+"Lesson": "L-7"
+},
+{
+"ID": 290,
+"Pronunciation": "naraimasu",
+"Japanese": "ならいます",
+"Nepali": "学ぶ",
+"English": "learn",
+"Lesson": "L-7"
+},
+{
+"ID": 291,
+"Pronunciation": "kakemasu",
+"Japanese": "かけます",
+"Nepali": "भनौं",
+"English": "make [a telephone call]",
+"Lesson": "L-7"
+},
+{
+"ID": 292,
+"Pronunciation": "te",
+"Japanese": "手",
+"Nepali": "हात",
+"English": "hand, arm",
+"Lesson": "L-7"
+},
+{
+"ID": 293,
+"Pronunciation": "hashi",
+"Japanese": "箸",
+"Nepali": "चम्चा",
+"English": "spoon",
+"Lesson": "L-7"
+},
+{
+"ID": 294,
+"Pronunciation": "naifu",
+"Japanese": "ナイフ",
+"Nepali": "चक्कु",
+"English": "knife",
+"Lesson": "L-7"
+},
+{
+"ID": 295,
+"Pronunciation": "foku",
+"Japanese": "フォーク",
+"Nepali": "काँटा",
+"English": "fork",
+"Lesson": "L-7"
+},
+{
+"ID": 296,
+"Pronunciation": "hasami",
+"Japanese": "はさみ",
+"Nepali": "कैंची",
+"English": "scissors",
+"Lesson": "L-7"
+},
+{
+"ID": 297,
+"Pronunciation": "fakkusu",
+"Japanese": "ファクス",
+"Nepali": "फ्याक्स",
+"English": "fax",
+"Lesson": "L-7"
+},
+{
+"ID": 298,
+"Pronunciation": "wapuro",
+"Japanese": "ワープロ",
+"Nepali": "शब्द प्रोसेसर",
+"English": "word processor",
+"Lesson": "L-7"
+},
+{
+"ID": 299,
+"Pronunciation": "pasokon",
+"Japanese": "パソコン",
+"Nepali": "कम्प्युटर",
+"English": "personal computer",
+"Lesson": "L-7"
+},
+{
+"ID": 300,
+"Pronunciation": "panchi",
+"Japanese": "パンチ",
+"Nepali": "छेड्ने",
+"English": "punch",
+"Lesson": "L-7"
+},
+{
+"ID": 301,
+"Pronunciation": "hotchikissu",
+"Japanese": "ホッチキス",
+"Nepali": "ホッックス",
+"English": "stapler",
+"Lesson": "L-7"
+},
+{
+"ID": 302,
+"Pronunciation": "serotēpu",
+"Japanese": "セロテープ",
+"Nepali": "सेलो टेप",
+"English": "Scotch tape, clear adhesive tape",
+"Lesson": "L-7"
+},
+{
+"ID": 303,
+"Pronunciation": "keshigomu",
+"Japanese": "けしゴマ",
+"Nepali": "इरेजर",
+"English": "eraser",
+"Lesson": "L-7"
+},
+{
+"ID": 304,
+"Pronunciation": "kami",
+"Japanese": "紙",
+"Nepali": "कागज",
+"English": "paper",
+"Lesson": "L-7"
+},
+{
+"ID": 305,
+"Pronunciation": "hana",
+"Japanese": "花",
+"Nepali": "फूल",
+"English": "flower, blossom",
+"Lesson": "L-7"
+},
+{
+"ID": 306,
+"Pronunciation": "shatsu",
+"Japanese": "シャツ",
+"Nepali": "शर्ट",
+"English": "shirt",
+"Lesson": "L-7"
+},
+{
+"ID": 307,
+"Pronunciation": "purezento",
+"Japanese": "プレゼント",
+"Nepali": "उपहार",
+"English": "present, gift",
+"Lesson": "L-7"
+},
+{
+"ID": 308,
+"Pronunciation": "nimotsu",
+"Japanese": "荷物",
+"Nepali": "सामानहरू",
+"English": "baggage, parcel",
+"Lesson": "L-7"
+},
+{
+"ID": 309,
+"Pronunciation": "okane",
+"Japanese": "お金",
+"Nepali": "पैसा",
+"English": "money",
+"Lesson": "L-7"
+},
+{
+"ID": 310,
+"Pronunciation": "kippu",
+"Japanese": "切符",
+"Nepali": "टिकट",
+"English": "ticket",
+"Lesson": "L-7"
+},
+{
+"ID": 311,
+"Pronunciation": "kurisumasu",
+"Japanese": "クリスマス",
+"Nepali": "क्रिसमस",
+"English": "Christmas",
+"Lesson": "L-7"
+},
+{
+"ID": 312,
+"Pronunciation": "chichi",
+"Japanese": "父",
+"Nepali": "बुबा",
+"English": "(my) father",
+"Lesson": "L-7"
+},
+{
+"ID": 313,
+"Pronunciation": "haha",
+"Japanese": "母",
+"Nepali": "आमा",
+"English": "(my) mother",
+"Lesson": "L-7"
+},
+{
+"ID": 314,
+"Pronunciation": "otousan",
+"Japanese": "お父さん",
+"Nepali": "बुबा",
+"English": "(someone else's) father",
+"Lesson": "L-7"
+},
+{
+"ID": 315,
+"Pronunciation": "okaasan",
+"Japanese": "お母さん",
+"Nepali": "आमा",
+"English": "(someone else's) mother",
+"Lesson": "L-7"
+},
+{
+"ID": 316,
+"Pronunciation": "mou",
+"Japanese": "もう",
+"Nepali": "अब",
+"English": "already",
+"Lesson": "L-7"
+},
+{
+"ID": 317,
+"Pronunciation": "mada",
+"Japanese": "まだ",
+"Nepali": "अहिलेसम्म",
+"English": "not yet",
+"Lesson": "L-7"
+},
+{
+"ID": 318,
+"Pronunciation": "korekara",
+"Japanese": "これから",
+"Nepali": "अगाडि",
+"English": "from now on, soon",
+"Lesson": "L-7"
+},
+{
+"ID": 319,
+"Pronunciation": "suteki desu",
+"Japanese": "すてきです",
+"Nepali": "सुन्दर छ",
+"English": "What a nice [~]!",
+"Lesson": "L-7"
+},
+{
+"ID": 320,
+"Pronunciation": "gomen kudasai",
+"Japanese": "ごめんください",
+"Nepali": "मलाई माफ गर्नुहोस्",
+"English": "Excuse me./Anybody home?/May I come in? (an expression used by a visitor)",
+"Lesson": "L-7"
+},
+{
+"ID": 321,
+"Pronunciation": "irasshaimase",
+"Japanese": "いらっしゃい",
+"Nepali": "स्वागत छ",
+"English": "How nice of you to come. (lit. Welcome.)",
+"Lesson": "L-7"
+},
+{
+"ID": 322,
+"Pronunciation": "douzo oagari kudasai",
+"Japanese": "どうぞおあがりください",
+"Nepali": "कृपया भित्र आउनुहोस",
+"English": "Do come in.",
+"Lesson": "L-7"
+},
+{
+"ID": 323,
+"Pronunciation": "shitsurei shimasu",
+"Japanese": "失礼します",
+"Nepali": "मलाईं माफ गर्नुहोस्",
+"English": "Thank you./May I? (lit. I'm afraid I will be disturbing you.)",
+"Lesson": "L-7"
+},
+{
+"ID": 324,
+"Pronunciation": "ikaga desu ka",
+"Japanese": "いかがですか",
+"Nepali": "यो कस्तो छ",
+"English": "Won't you have [~]?/Would you like to have [~]? (used when offering something)",
+"Lesson": "L-7"
+},
+{
+"ID": 325,
+"Pronunciation": "itadakimasu",
+"Japanese": "いただきます",
+"Nepali": "म स्वीकार छु",
+"English": "Thank you./I accept. (said before starting to eat or drink.)",
+"Lesson": "L-7"
+},
+{
+"ID": 326,
+"Pronunciation": "ryokou",
+"Japanese": "旅行",
+"English": "trip, tour",
+"Lesson": "L-7"
+},
+{
+"ID": 327,
+"Pronunciation": "omiyage",
+"Japanese": "お土産",
+"Nepali": "स्मारिका",
+"English": "souvenir, present",
+"Lesson": "L-7"
+},
+{
+"ID": 328,
+"Pronunciation": "han-samu na",
+"Japanese": "ハンサムな",
+"Nepali": "सुन्दर",
+"English": "handsome",
+"Lesson": "L-8"
+},
+{
+"ID": 329,
+"Pronunciation": "kirei na",
+"Japanese": "きれいな",
+"Nepali": "सुन्दर",
+"English": "beautiful, clean",
+"Lesson": "L-8"
+},
+{
+"ID": 330,
+"Pronunciation": "shizuka na",
+"Japanese": "静かな",
+"Nepali": "शान्त",
+"English": "quiet",
+"Lesson": "L-8"
+},
+{
+"ID": 331,
+"Pronunciation": "nigiyaka na",
+"Japanese": "にぎやかな",
+"Nepali": "व्यस्त",
+"English": "lively",
+"Lesson": "L-8"
+},
+{
+"ID": 332,
+"Pronunciation": "yuumei na",
+"Japanese": "有名な",
+"Nepali": "प्रसिद्ध",
+"English": "famous",
+"Lesson": "L-8"
+},
+{
+"ID": 333,
+"Pronunciation": "shinsetsu na",
+"Japanese": "親切な",
+"Nepali": "दयालु",
+"English": "kind",
+"Lesson": "L-8"
+},
+{
+"ID": 334,
+"Pronunciation": "genki na",
+"Japanese": "元気な",
+"Nepali": "स्वस्थ",
+"English": "healthy, sound, cheerful",
+"Lesson": "L-8"
+},
+{
+"ID": 335,
+"Pronunciation": "hima na",
+"Japanese": "暇な",
+"Nepali": "खाली समय)",
+"English": "free (time)",
+"Lesson": "L-8"
+},
+{
+"ID": 336,
+"Pronunciation": "benri na",
+"Japanese": "便利な",
+"Nepali": "सुविधाजनक",
+"English": "convenient",
+"Lesson": "L-8"
+},
+{
+"ID": 337,
+"Pronunciation": "suteki na",
+"Japanese": "素敵な",
+"Nepali": "राम्रो",
+"English": "fine, nice, wonderful",
+"Lesson": "L-8"
+},
+{
+"ID": 338,
+"Pronunciation": "ookii",
+"Japanese": "大きい",
+"Nepali": "ठूलो",
+"English": "big, large",
+"Lesson": "L-8"
+},
+{
+"ID": 339,
+"Pronunciation": "chiisai",
+"Japanese": "小さい",
+"Nepali": "सानो",
+"English": "small, little",
+"Lesson": "L-8"
+},
+{
+"ID": 340,
+"Pronunciation": "atarashī",
+"Japanese": "新しい",
+"Nepali": "नयाँ",
+"English": "new",
+"Lesson": "L-8"
+},
+{
+"ID": 341,
+"Pronunciation": "furui",
+"Japanese": "古い",
+"Nepali": "पुरानो",
+"English": "old (not of age)",
+"Lesson": "L-8"
+},
+{
+"ID": 342,
+"Pronunciation": "ii (yoi)",
+"Japanese": "いい (よい)",
+"Nepali": "राम्रो",
+"English": "good",
+"Lesson": "L-8"
+},
+{
+"ID": 343,
+"Pronunciation": "warui",
+"Japanese": "悪い",
+"Nepali": "नराम्रो",
+"English": "bad",
+"Lesson": "L-8"
+},
+{
+"ID": 344,
+"Pronunciation": "atsui",
+"Japanese": "熱い",
+"Nepali": "न्यानो",
+"English": "hot",
+"Lesson": "L-8"
+},
+{
+"ID": 345,
+"Pronunciation": "samui",
+"Japanese": "寒い",
+"Nepali": "चिसो",
+"English": "cold (referring to temperature)",
+"Lesson": "L-8"
+},
+{
+"ID": 346,
+"Pronunciation": "tsumetai",
+"Japanese": "冷たい",
+"Nepali": "चिसो",
+"English": "cold (referring to touch, as a drink)",
+"Lesson": "L-8"
+},
+{
+"ID": 347,
+"Pronunciation": "muzukashii",
+"Japanese": "難しい",
+"Nepali": "गाह्रो",
+"English": "difficult",
+"Lesson": "L-8"
+},
+{
+"ID": 348,
+"Pronunciation": "yasashii",
+"Japanese": "簡単な",
+"Nepali": "सजिलो",
+"English": "easy",
+"Lesson": "L-8"
+},
+{
+"ID": 349,
+"Pronunciation": "takai",
+"Japanese": "高い",
+"Nepali": "महँगो, उच्च, उच्च",
+"English": "expensive, tall, high",
+"Lesson": "L-8"
+},
+{
+"ID": 350,
+"Pronunciation": "yasui",
+"Japanese": "安い",
+"Nepali": "सस्तो",
+"English": "inexpensive",
+"Lesson": "L-8"
+},
+{
+"ID": 351,
+"Pronunciation": "hikui",
+"Japanese": "低い",
+"Nepali": "थोरै",
+"English": "low",
+"Lesson": "L-8"
+},
+{
+"ID": 352,
+"Pronunciation": "omoshiroi",
+"Japanese": "面白い",
+"Nepali": "रोचक",
+"English": "interesting",
+"Lesson": "L-8"
+},
+{
+"ID": 353,
+"Pronunciation": "oishii",
+"Japanese": "美味しい",
+"Nepali": "स्वादिष्ट",
+"English": "delicious, tasty",
+"Lesson": "L-8"
+},
+{
+"ID": 354,
+"Pronunciation": "isogashii",
+"Japanese": "忙しい",
+"Nepali": "व्यस्त",
+"English": "busy",
+"Lesson": "L-8"
+},
+{
+"ID": 355,
+"Pronunciation": "tanoshii",
+"Japanese": "楽しい",
+"Nepali": "रमाइलो",
+"English": "enjoyable",
+"Lesson": "L-8"
+},
+{
+"ID": 356,
+"Pronunciation": "shiroi",
+"Japanese": "白い",
+"Nepali": "सेतो",
+"English": "white",
+"Lesson": "L-8"
+},
+{
+"ID": 357,
+"Pronunciation": "kuroi",
+"Japanese": "黒い",
+"Nepali": "कालो",
+"English": "black",
+"Lesson": "L-8"
+},
+{
+"ID": 358,
+"Pronunciation": "aka",
+"Japanese": "赤い",
+"Nepali": "रातो",
+"English": "red",
+"Lesson": "L-8"
+},
+{
+"ID": 359,
+"Pronunciation": "aoi",
+"Japanese": "青い",
+"Nepali": "निलो",
+"English": "blue",
+"Lesson": "L-8"
+},
+{
+"ID": 360,
+"Pronunciation": "sakura",
+"Japanese": "桜",
+"Nepali": "चेरी (खुबानी)",
+"English": "cherry (blossom)",
+"Lesson": "L-8"
+},
+{
+"ID": 361,
+"Pronunciation": "yama",
+"Japanese": "山",
+"Nepali": "पहाड",
+"English": "mountain",
+"Lesson": "L-8"
+},
+{
+"ID": 362,
+"Pronunciation": "machi",
+"Japanese": "町",
+"Nepali": "शहर, शहर",
+"English": "town, city",
+"Lesson": "L-8"
+},
+{
+"ID": 363,
+"Pronunciation": "tabemono",
+"Japanese": "食べ物",
+"Nepali": "खाना",
+"English": "food",
+"Lesson": "L-8"
+},
+{
+"ID": 364,
+"Pronunciation": "kuruma",
+"Japanese": "車",
+"Nepali": "गाडी, गाडी",
+"English": "car, vehicle",
+"Lesson": "L-8"
+},
+{
+"ID": 365,
+"Pronunciation": "basho",
+"Japanese": "場所",
+"Nepali": "स्थान",
+"English": "place",
+"Lesson": "L-8"
+},
+{
+"ID": 366,
+"Pronunciation": "ryō",
+"Japanese": "寮",
+"Nepali": "छात्रावास",
+"English": "dormitory",
+"Lesson": "L-8"
+},
+{
+"ID": 367,
+"Pronunciation": "benkyou",
+"Japanese": "勉強",
+"Nepali": "अध्ययन",
+"English": "study",
+"Lesson": "L-8"
+},
+{
+"ID": 368,
+"Pronunciation": "seikatsu",
+"Japanese": "生活",
+"Nepali": "जीवन",
+"English": "life",
+"Lesson": "L-8"
+},
+{
+"ID": 369,
+"Pronunciation": "o-shigoto",
+"Japanese": "お仕事",
+"Nepali": "काम, व्यवसाय (～おしさす: काम गर्न, काम गर्न)",
+"English": "work, business (～おしさす: do one's job, work)",
+"Lesson": "L-8"
+},
+{
+"ID": 370,
+"Pronunciation": "dou",
+"Japanese": "どう",
+"Nepali": "कसरी",
+"English": "how",
+"Lesson": "L-8"
+},
+{
+"ID": 371,
+"Pronunciation": "donna ~",
+"Japanese": "どんな ~",
+"Nepali": "कस्तो ~",
+"English": "what kind of ~",
+"Lesson": "L-8"
+},
+{
+"ID": 372,
+"Pronunciation": "dore",
+"Japanese": "どれ",
+"Nepali": "कुन (तीन वा बढी मध्ये)",
+"English": "which one (of three or more)",
+"Lesson": "L-8"
+},
+{
+"ID": 373,
+"Pronunciation": "totemo",
+"Japanese": "とても",
+"Nepali": "धेरै",
+"English": "very",
+"Lesson": "L-8"
+},
+{
+"ID": 374,
+"Pronunciation": "amari",
+"Japanese": "あまり",
+"Nepali": "धेरै छैन (नकारात्मक संग प्रयोग गरिएको)",
+"English": "not so (used with negatives)",
+"Lesson": "L-8"
+},
+{
+"ID": 375,
+"Pronunciation": "soshite",
+"Japanese": "そして",
+"Nepali": "र (वाक्य जोड्न प्रयोग गरिन्छ)",
+"English": "and (used to connect sentences)",
+"Lesson": "L-8"
+},
+{
+"ID": 377,
+"Pronunciation": "O genki desu ka.",
+"Japanese": "お元気ですか。",
+"Nepali": "तिमीलाई कस्तो छ?",
+"English": "How are you?",
+"Lesson": "L-8"
+},
+{
+"ID": 378,
+"Pronunciation": "So desu ne.",
+"Japanese": "そうですね。",
+"Nepali": "ठिक छ। (रोक)",
+"English": "Well let me see. (pausing)",
+"Lesson": "L-8"
+},
+{
+"ID": 379,
+"Pronunciation": "Nihon no seikatsu ni narimashita ka.",
+"Japanese": "日本の生活に慣れましたか。",
+"Nepali": "के तपाई जापानमा बस्नुहुन्छ?",
+"English": "Do you live in Japan?",
+"Lesson": "L-8"
+},
+{
+"ID": 380,
+"Pronunciation": "wakarimasu",
+"Japanese": "わかります",
+"Nepali": "बुझ्नुहुन्छ",
+"English": "understand",
+"Lesson": "L-9"
+},
+{
+"ID": 381,
+"Pronunciation": "arimasu",
+"Japanese": "あります",
+"Nepali": "छ",
+"English": "have",
+"Lesson": "L-9"
+},
+{
+"ID": 382,
+"Pronunciation": "suki [na]",
+"Japanese": "すき[な]",
+"Nepali": "मनपर्छ",
+"English": "like",
+"Lesson": "L-9"
+},
+{
+"ID": 383,
+"Pronunciation": "kirai [na]",
+"Japanese": "きらい[な]",
+"Nepali": "नमन्दा छोड्नु",
+"English": "dislike",
+"Lesson": "L-9"
+},
+{
+"ID": 384,
+"Pronunciation": "jōzu [na]",
+"Japanese": "じょうず[な]",
+"Nepali": "राम्रो छ",
+"English": "good at",
+"Lesson": "L-9"
+},
+{
+"ID": 385,
+"Pronunciation": "heta [na]",
+"Japanese": "へた[な]",
+"Nepali": "नराम्रो छ",
+"English": "poor at",
+"Lesson": "L-9"
+},
+{
+"ID": 386,
+"Pronunciation": "ryōri",
+"Japanese": "りょうり",
+"Nepali": "पकाउनु",
+"English": "dish (cooked food), cooking",
+"Lesson": "L-9"
+},
+{
+"ID": 387,
+"Pronunciation": "nomimono",
+"Japanese": "のみもの",
+"Nepali": "पिउने पदार्थ",
+"English": "drinks",
+"Lesson": "L-9"
+},
+{
+"ID": 388,
+"Pronunciation": "supōtsu",
+"Japanese": "スポーツ",
+"Nepali": "खेल",
+"English": "sport (to play sports)",
+"Lesson": "L-9"
+},
+{
+"ID": 389,
+"Pronunciation": "yakyū",
+"Japanese": "やきゅう",
+"Nepali": "बेसबल",
+"English": "baseball (to play baseball)",
+"Lesson": "L-9"
+},
+{
+"ID": 390,
+"Pronunciation": "dansu",
+"Japanese": "ダンス",
+"Nepali": "नृत्य",
+"English": "dance (to dance)",
+"Lesson": "L-9"
+},
+{
+"ID": 391,
+"Pronunciation": "ongaku",
+"Japanese": "おんがく",
+"Nepali": "सङ्गीत",
+"English": "music",
+"Lesson": "L-9"
+},
+{
+"ID": 392,
+"Pronunciation": "uta",
+"Japanese": "うた",
+"Nepali": "गीत",
+"English": "song",
+"Lesson": "L-9"
+},
+{
+"ID": 393,
+"Pronunciation": "kurashikku",
+"Japanese": "クラシック",
+"Nepali": "क्लासिकल सङ्गीत",
+"English": "classical music",
+"Lesson": "L-9"
+},
+{
+"ID": 394,
+"Pronunciation": "jazu",
+"Japanese": "ジャズ",
+"Nepali": "जाज",
+"English": "jazz",
+"Lesson": "L-9"
+},
+{
+"ID": 395,
+"Pronunciation": "konsāto",
+"Japanese": "コンサート",
+"Nepali": "संगीत कार्यक्रम",
+"English": "concert",
+"Lesson": "L-9"
+},
+{
+"ID": 396,
+"Pronunciation": "karaoke",
+"Japanese": "カラオケ",
+"Nepali": "कराओके",
+"English": "karaoke",
+"Lesson": "L-9"
+},
+{
+"ID": 397,
+"Pronunciation": "kabuki",
+"Japanese": "かぶき",
+"Nepali": "कबुकी (परम्परागत जापानी सङ्गीती नाटक)",
+"English": "Kabuki (traditional Japanese musical drama)",
+"Lesson": "L-9"
+},
+{
+"ID": 398,
+"Pronunciation": "e",
+"Japanese": "え",
+"Nepali": "चित्र",
+"English": "picture, drawing",
+"Lesson": "L-9"
+},
+{
+"ID": 399,
+"Pronunciation": "ji",
+"Japanese": "じ",
+"Nepali": "अक्षर",
+"English": "letter, character",
+"Lesson": "L-9"
+},
+{
+"ID": 400,
+"Pronunciation": "kanji",
+"Japanese": "かんじ",
+"Nepali": "कन्जी (चीनी अक्षरहरू)",
+"English": "Chinese characters",
+"Lesson": "L-9"
+},
+{
+"ID": 401,
+"Pronunciation": "hiragana",
+"Japanese": "ひらがな",
+"Nepali": "हिरागाना लिपि",
+"English": "Hiragana script",
+"Lesson": "L-9"
+},
+{
+"ID": 402,
+"Pronunciation": "katakana",
+"Japanese": "かたかな",
+"Nepali": "काताकाना लिपि",
+"English": "Katakana script",
+"Lesson": "L-9"
+},
+{
+"ID": 403,
+"Pronunciation": "rōmaji",
+"Japanese": "ローマじ",
+"Nepali": "रोमान लिपि",
+"English": "the Roman alphabet",
+"Lesson": "L-9"
+},
+{
+"ID": 404,
+"Pronunciation": "komakai o-kane",
+"Japanese": "こまかいおかね",
+"Nepali": "सानो परिवर्तन",
+"English": "small change",
+"Lesson": "L-9"
+},
+{
+"ID": 405,
+"Pronunciation": "chiketto",
+"Japanese": "チケット",
+"Nepali": "टिकट",
+"English": "ticket",
+"Lesson": "L-9"
+},
+{
+"ID": 406,
+"Pronunciation": "jikan",
+"Japanese": "じかん",
+"Nepali": "समय",
+"English": "time",
+"Lesson": "L-9"
+},
+{
+"ID": 407,
+"Pronunciation": "yōji",
+"Japanese": "ようじ",
+"Nepali": "काम, कार्य",
+"English": "something to do, errand",
+"Lesson": "L-9"
+},
+{
+"ID": 408,
+"Pronunciation": "yakusoku",
+"Japanese": "やくそく",
+"Nepali": "वाद, प्रतिज्ञा",
+"English": "appointment, promise",
+"Lesson": "L-9"
+},
+{
+"ID": 409,
+"Pronunciation": "goshujin",
+"Japanese": "ごしゅじん",
+"Nepali": "पति (अरूको)",
+"English": "(someone else's) husband",
+"Lesson": "L-9"
+},
+{
+"ID": 410,
+"Pronunciation": "otto/shujin",
+"Japanese": "おっと／しゅじん",
+"Nepali": "पति (मेरो)",
+"English": "(my) husband",
+"Lesson": "L-9"
+},
+{
+"ID": 411,
+"Pronunciation": "okusan",
+"Japanese": "おくさん",
+"Nepali": "पत्नी (अरूको)",
+"English": "(someone else's) wife",
+"Lesson": "L-9"
+},
+{
+"ID": 412,
+"Pronunciation": "tsuma/kanai",
+"Japanese": "つま／かない",
+"Nepali": "पत्नी (मेरो)",
+"English": "(my) wife",
+"Lesson": "L-9"
+},
+{
+"ID": 413,
+"Pronunciation": "kodomo",
+"Japanese": "こども",
+"Nepali": "बालबालिका",
+"English": "child",
+"Lesson": "L-9"
+},
+{
+"ID": 414,
+"Pronunciation": "yoku",
+"Japanese": "よく",
+"Nepali": "धेरै",
+"English": "well, much",
+"Lesson": "L-9"
+},
+{
+"ID": 415,
+"Pronunciation": "daitai",
+"Japanese": "だいたい",
+"Nepali": "प्रमाणसम्म",
+"English": "mostly, roughly",
+"Lesson": "L-9"
+},
+{
+"ID": 416,
+"Pronunciation": "takusan",
+"Japanese": "たくさん",
+"Nepali": "धेरै",
+"English": "many, much",
+"Lesson": "L-9"
+},
+{
+"ID": 417,
+"Pronunciation": "sukoshi",
+"Japanese": "すこし",
+"Nepali": "थोडो",
+"English": "a little, a few",
+"Lesson": "L-9"
+},
+{
+"ID": 418,
+"Pronunciation": "zenzen",
+"Japanese": "ぜんぜん",
+"Nepali": "कहिल्यै छैन",
+"English": "not at all (used with negatives)",
+"Lesson": "L-9"
+},
+{
+"ID": 419,
+"Pronunciation": "hayaku",
+"Japanese": "はやく",
+"Nepali": "जल्दी",
+"English": "early, quickly, fast",
+"Lesson": "L-9"
+},
+{
+"ID": 420,
+"Pronunciation": "~kara",
+"Japanese": "～から",
+"Nepali": "~बाट",
+"English": "because ~",
+"Lesson": "L-9"
+},
+{
+"ID": 421,
+"Pronunciation": "dōshite",
+"Japanese": "どうして",
+"Nepali": "किन",
+"English": "why",
+"Lesson": "L-9"
+},
+{
+"ID": 422,
+"Pronunciation": "Ginnendesu [ne].",
+"Japanese": "ぎんねんです［ね］。",
+"Nepali": "अहिलेर सुनेको म दुःख पो छ। / मलाई दुःख लाग्यो",
+"English": "I'm sorry (to hear that)./That's a pity.",
+"Lesson": "L-9"
+},
+{
+"ID": 423,
+"Pronunciation": "Sumimasen.",
+"Japanese": "すみません。",
+"Nepali": "माफ गर्नुहोला",
+"English": "I am sorry.",
+"Lesson": "L-9"
+},
+{
+"ID": 424,
+"Pronunciation": "moshi moshi",
+"Japanese": "もしもし",
+"Nepali": "हेलो (फोनमा प्रयोग गरिने)",
+"English": "hello (used on the phone)",
+"Lesson": "L-9"
+},
+{
+"ID": 425,
+"Pronunciation": "ā",
+"Japanese": "ああ",
+"Nepali": "हो, हजुर",
+"English": "oh",
+"Lesson": "L-9"
+},
+{
+"ID": 426,
+"Pronunciation": "Issho ni ikaga desu ka?",
+"Japanese": "いっしょにいかがですか。",
+"Nepali": "हामीले मिलेर हिरोइजाउनुहोस्?",
+"English": "Won't you join me (us)?",
+"Lesson": "L-9"
+},
+{
+"ID": 427,
+"Pronunciation": "[~] chotto...",
+"Japanese": "[~]ちょっと…",
+"Nepali": "[~] थोडो गाह्रो छ।",
+"English": "[~] is a bit difficult. (an euphemism used when declining an invitation)",
+"Lesson": "L-9"
+},
+{
+"ID": 428,
+"Pronunciation": "Dame desu ka?",
+"Japanese": "だめですか。",
+"Nepali": "त्यहाँ हुन सक्दैन?",
+"English": "So you cannot (come)?",
+"Lesson": "L-9"
+},
+{
+"ID": 429,
+"Pronunciation": "Mata kondo onegai shimasu.",
+"Japanese": "またこんどおねがいします。",
+"Nepali": "कृपया अर्कोपटक तपाईलाई सोध्नुहोस्।",
+"English": "Please ask me again some other time. (when refusing an invitation indirectly, considering someone's feelings)",
+"Lesson": "L-9"
+},
+{
+"ID": 430,
+"Pronunciation": "imasu [ga]",
+"Japanese": "います[が]",
+"Nepali": "हुन्छ[गर्दछ]",
+"English": "exist, be (referring to animate things)",
+"Lesson": "L-10"
+},
+{
+"ID": 431,
+"Pronunciation": "arimasu [ga]",
+"Japanese": "あります[が]",
+"Nepali": "छ[छिट्टै छ]",
+"English": "exist, be (referring to inanimate things)",
+"Lesson": "L-10"
+},
+{
+"ID": 432,
+"Pronunciation": "iroiro [na]",
+"Japanese": "いろいろ[な]",
+"Nepali": "विविध",
+"English": "various",
+"Lesson": "L-10"
+},
+{
+"ID": 433,
+"Pronunciation": "otoko no hito",
+"Japanese": "おとこのひと",
+"Nepali": "पुरुष",
+"English": "man",
+"Lesson": "L-10"
+},
+{
+"ID": 434,
+"Pronunciation": "onna no hito",
+"Japanese": "おんなのひと",
+"Nepali": "महिला",
+"English": "woman",
+"Lesson": "L-10"
+},
+{
+"ID": 435,
+"Pronunciation": "otoko no ko",
+"Japanese": "おとこのこ",
+"Nepali": "लड्का",
+"English": "boy",
+"Lesson": "L-10"
+},
+{
+"ID": 436,
+"Pronunciation": "onna no ko",
+"Japanese": "おんなのこ",
+"Nepali": "लड्की",
+"English": "girl",
+"Lesson": "L-10"
+},
+{
+"ID": 437,
+"Pronunciation": "inu",
+"Japanese": "いぬ",
+"Nepali": "कुकुर",
+"English": "dog",
+"Lesson": "L-10"
+},
+{
+"ID": 438,
+"Pronunciation": "neko",
+"Japanese": "ねこ",
+"Nepali": "बिरालो",
+"English": "cat",
+"Lesson": "L-10"
+},
+{
+"ID": 439,
+"Pronunciation": "ki",
+"Japanese": "き",
+"Nepali": "रुख",
+"English": "tree",
+"Lesson": "L-10"
+},
+{
+"ID": 440,
+"Pronunciation": "mono",
+"Japanese": "もの",
+"Nepali": "वस्तु",
+"English": "thing",
+"Lesson": "L-10"
+},
+{
+"ID": 441,
+"Pronunciation": "firumu",
+"Japanese": "フィルム",
+"Nepali": "फिल्म",
+"English": "film",
+"Lesson": "L-10"
+},
+{
+"ID": 442,
+"Pronunciation": "denchi",
+"Japanese": "でんち",
+"Nepali": "बैटरी",
+"English": "battery",
+"Lesson": "L-10"
+},
+{
+"ID": 443,
+"Pronunciation": "hako",
+"Japanese": "はこ",
+"Nepali": "पेटी",
+"English": "box",
+"Lesson": "L-10"
+},
+{
+"ID": 444,
+"Pronunciation": "suicchi",
+"Japanese": "スイッチ",
+"Nepali": "स्विच",
+"English": "switch",
+"Lesson": "L-10"
+},
+{
+"ID": 445,
+"Pronunciation": "reizōko",
+"Japanese": "れいぞうこ",
+"Nepali": "फ्रिज",
+"English": "refrigerator",
+"Lesson": "L-10"
+},
+{
+"ID": 446,
+"Pronunciation": "tēburu",
+"Japanese": "テーブル",
+"Nepali": "मेज",
+"English": "table",
+"Lesson": "L-10"
+},
+{
+"ID": 447,
+"Pronunciation": "beddo",
+"Japanese": "ベッド",
+"Nepali": "बेड",
+"English": "bed",
+"Lesson": "L-10"
+},
+{
+"ID": 448,
+"Pronunciation": "tana",
+"Japanese": "たな",
+"Nepali": "अलमारी",
+"English": "shelf",
+"Lesson": "L-10"
+},
+{
+"ID": 449,
+"Pronunciation": "doa",
+"Japanese": "ドア",
+"Nepali": "ढोका",
+"English": "door",
+"Lesson": "L-10"
+},
+{
+"ID": 450,
+"Pronunciation": "mado",
+"Japanese": "まど",
+"Nepali": "झ्याल",
+"English": "window",
+"Lesson": "L-10"
+},
+{
+"ID": 451,
+"Pronunciation": "posuto",
+"Japanese": "ポスト",
+"Nepali": "मेलबक्स",
+"English": "mailbox, postbox",
+"Lesson": "L-10"
+},
+{
+"ID": 452,
+"Pronunciation": "biru",
+"Japanese": "ビル",
+"Nepali": "भवन",
+"English": "building",
+"Lesson": "L-10"
+},
+{
+"ID": 453,
+"Pronunciation": "kōen",
+"Japanese": "こうえん",
+"Nepali": "उद्यान",
+"English": "park",
+"Lesson": "L-10"
+},
+{
+"ID": 454,
+"Pronunciation": "kissaten",
+"Japanese": "きっさてん",
+"Nepali": "कफी गृह",
+"English": "coffee shop",
+"Lesson": "L-10"
+},
+{
+"ID": 455,
+"Pronunciation": "hon'ya",
+"Japanese": "ほんや",
+"Nepali": "किताबको स्टोर",
+"English": "bookstore",
+"Lesson": "L-10"
+},
+{
+"ID": 456,
+"Pronunciation": "~ya",
+"Japanese": "～や",
+"Nepali": "~ दुकान",
+"English": "~ store",
+"Lesson": "L-10"
+},
+{
+"ID": 457,
+"Pronunciation": "noriba",
+"Japanese": "のりば",
+"Nepali": "ठेगाना",
+"English": "a fixed place to catch taxis, trains, etc.",
+"Lesson": "L-10"
+},
+{
+"ID": 458,
+"Pronunciation": "ken",
+"Japanese": "けん",
+"Nepali": "प्रदेश",
+"English": "prefecture",
+"Lesson": "L-10"
+},
+{
+"ID": 459,
+"Pronunciation": "ue",
+"Japanese": "うえ",
+"Nepali": "माथि",
+"English": "on, above, over",
+"Lesson": "L-10"
+},
+{
+"ID": 460,
+"Pronunciation": "shita",
+"Japanese": "した",
+"Nepali": "तल",
+"English": "under, below, beneath",
+"Lesson": "L-10"
+},
+{
+"ID": 461,
+"Pronunciation": "mae",
+"Japanese": "まえ",
+"Nepali": "अगाडि",
+"English": "front, before",
+"Lesson": "L-10"
+},
+{
+"ID": 462,
+"Pronunciation": "ushiro",
+"Japanese": "うしろ",
+"Nepali": "पछाडि",
+"English": "back, behind",
+"Lesson": "L-10"
+},
+{
+"ID": 463,
+"Pronunciation": "migi",
+"Japanese": "みぎ",
+"Nepali": "दायाँ [तिर]",
+"English": "right [side]",
+"Lesson": "L-10"
+},
+{
+"ID": 464,
+"Pronunciation": "hidari",
+"Japanese": "ひだり",
+"Nepali": "बायाँ [तिर]",
+"English": "left [side]",
+"Lesson": "L-10"
+},
+{
+"ID": 465,
+"Pronunciation": "naka",
+"Japanese": "なか",
+"Nepali": "भित्र",
+"English": "in, inside",
+"Lesson": "L-10"
+},
+{
+"ID": 466,
+"Pronunciation": "soto",
+"Japanese": "そと",
+"Nepali": "बाहिर",
+"English": "outside",
+"Lesson": "L-10"
+},
+{
+"ID": 467,
+"Pronunciation": "tonari",
+"Japanese": "となり",
+"Nepali": "बगिचामा",
+"English": "next, next door",
+"Lesson": "L-10"
+},
+{
+"ID": 468,
+"Pronunciation": "chikaku",
+"Japanese": "ちかく",
+"Nepali": "नजिक",
+"English": "near, vicinity",
+"Lesson": "L-10"
+},
+{
+"ID": 469,
+"Pronunciation": "aida",
+"Japanese": "あいだ",
+"Nepali": "बीच",
+"English": "between, among",
+"Lesson": "L-10"
+},
+{
+"ID": 470,
+"Pronunciation": "~ya ~ [nado]",
+"Japanese": "～や～[など]",
+"Nepali": "~, ~, and so on",
+"Lesson": "L-10"
+},
+{
+"ID": 471,
+"Pronunciation": "ichiban ~",
+"Japanese": "いちばん～",
+"Nepali": "सबैभन्दा धेरै ~ (इचिबन ुए: माथि)",
+"English": "the most ~ (ichiban ue: the top)",
+"Lesson": "L-10"
+},
+{
+"ID": 472,
+"Pronunciation": "~danme",
+"Japanese": "～だんめ",
+"Nepali": "~ तल",
+"English": "the ~th shelf (dan is the counter for shelves)",
+"Lesson": "L-10"
+},
+{
+"ID": 473,
+"Pronunciation": "[dōmo] sumimasen.",
+"Japanese": "[どうも]すみません。",
+"Nepali": "धन्यवाद",
+"English": "Thank you.",
+"Lesson": "L-10"
+},
+{
+"ID": 474,
+"Pronunciation": "chirīsōsu",
+"Japanese": "チリーソース",
+"Nepali": "चिली सस",
+"English": "chilli sauce",
+"Lesson": "L-10"
+},
+{
+"ID": 475,
+"Pronunciation": "oku",
+"Japanese": "おく",
+"Nepali": "खाली",
+"English": "the back",
+"Lesson": "L-10"
+},
+{
+"ID": 476,
+"Pronunciation": "supaisu kōnā",
+"Japanese": "スパイスコーナー",
+"Nepali": "मसलाको कोना",
+"English": "spice corner",
+"Lesson": "L-10"
+},
+{
+"ID": 477,
+"Pronunciation": "imasu [kodomo ga~]",
+"Japanese": "います[こどもが～]",
+"Nepali": "छ[बालक]",
+"English": "have [a child]",
+"Lesson": "L-11"
+},
+{
+"ID": 478,
+"Pronunciation": "imasu [Nihon ni~]",
+"Japanese": "います[にほんに～]",
+"Nepali": "बास्नु [नेपालमा]",
+"English": "stay, be [in Japan]",
+"Lesson": "L-11"
+},
+{
+"ID": 479,
+"Pronunciation": "kakarimasu",
+"Japanese": "かかります",
+"Nepali": "लाग्नु",
+"English": "take (referring to time or money)",
+"Lesson": "L-11"
+},
+{
+"ID": 480,
+"Pronunciation": "yasumimasu [kaisha wo~]",
+"Japanese": "休みます[かいしゃを～]",
+"Nepali": "बिदा लिनु [कामबाट]",
+"English": "take a day off [work]",
+"Lesson": "L-11"
+},
+{
+"ID": 481,
+"Pronunciation": "hitotsu",
+"Japanese": "一つ",
+"Nepali": "एक",
+"English": "one (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 482,
+"Pronunciation": "futatsu",
+"Japanese": "二つ",
+"Nepali": "दुई",
+"English": "two (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 483,
+"Pronunciation": "mittsu",
+"Japanese": "三つ",
+"Nepali": "तीन",
+"English": "three (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 484,
+"Pronunciation": "yottsu",
+"Japanese": "四つ",
+"Nepali": "चार",
+"English": "four (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 485,
+"Pronunciation": "itsutsu",
+"Japanese": "五つ",
+"Nepali": "पाँच",
+"English": "five (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 486,
+"Pronunciation": "muttsu",
+"Japanese": "六つ",
+"Nepali": "छ",
+"English": "six (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 487,
+"Pronunciation": "nanatsu",
+"Japanese": "七つ",
+"Nepali": "सात",
+"English": "seven (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 488,
+"Pronunciation": "yattsu",
+"Japanese": "八つ",
+"Nepali": "आठ",
+"English": "eight (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 489,
+"Pronunciation": "kokonotsu",
+"Japanese": "九つ",
+"Nepali": "नौ",
+"English": "nine (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 490,
+"Pronunciation": "too",
+"Japanese": "十",
+"Nepali": "दश",
+"English": "ten (used when counting things)",
+"Lesson": "L-11"
+},
+{
+"ID": 491,
+"Pronunciation": "ikutsu",
+"Japanese": "幾つ",
+"Nepali": "कति",
+"English": "how many",
+"Lesson": "L-11"
+},
+{
+"ID": 492,
+"Pronunciation": "hitori",
+"Japanese": "一人",
+"Nepali": "एकल",
+"English": "one person",
+"Lesson": "L-11"
+},
+{
+"ID": 493,
+"Pronunciation": "futari",
+"Japanese": "二人",
+"Nepali": "दुई जना",
+"English": "two people",
+"Lesson": "L-11"
+},
+{
+"ID": 494,
+"Pronunciation": "~nin",
+"Japanese": "～人",
+"Nepali": "~ जना",
+"English": "~ people",
+"Lesson": "L-11"
+},
+{
+"ID": 495,
+"Pronunciation": "~dai",
+"Japanese": "～台",
+"Nepali": "~ यन्त्र",
+"English": "counter for machines, cars, etc.",
+"Lesson": "L-11"
+},
+{
+"ID": 496,
+"Pronunciation": "~mai",
+"Japanese": "～枚",
+"Nepali": "~ टुक्रा",
+"English": "counter for paper, stamps, etc.",
+"Lesson": "L-11"
+},
+{
+"ID": 497,
+"Pronunciation": "~kai",
+"Japanese": "～回",
+"Nepali": "~ पटक",
+"English": "~ times",
+"Lesson": "L-11"
+},
+{
+"ID": 498,
+"Pronunciation": "ringo",
+"Japanese": "りんご",
+"Nepali": "स्याउ",
+"English": "apple",
+"Lesson": "L-11"
+},
+{
+"ID": 499,
+"Pronunciation": "mikan",
+"Japanese": "蜜柑",
+"Nepali": "सन्तरा",
+"English": "mandarin orange",
+"Lesson": "L-11"
+},
+{
+"ID": 500,
+"Pronunciation": "sandoicchi",
+"Japanese": "サンドイッチ",
+"Nepali": "स्यान्डविच",
+"English": "sandwich",
+"Lesson": "L-11"
+},
+{
+"ID": 501,
+"Pronunciation": "karē [raisu]",
+"Japanese": "カレー[ライス]",
+"Nepali": "करी [भात]",
+"English": "curry [and rice]",
+"Lesson": "L-11"
+},
+{
+"ID": 502,
+"Pronunciation": "aisu kurīmu",
+"Japanese": "アイスクリーム",
+"Nepali": "आइसक्रिम",
+"English": "ice cream",
+"Lesson": "L-11"
+},
+{
+"ID": 503,
+"Pronunciation": "kitte",
+"Japanese": "きって",
+"Nepali": "टिकट",
+"English": "postage stamp",
+"Lesson": "L-11"
+},
+{
+"ID": 504,
+"Pronunciation": "hagaki",
+"Japanese": "はがき",
+"Nepali": "पोष्टकोश",
+"English": "postcard",
+"Lesson": "L-11"
+},
+{
+"ID": 505,
+"Pronunciation": "fūtō",
+"Japanese": "ふうとう",
+"Nepali": "खाता",
+"English": "envelope",
+"Lesson": "L-11"
+},
+{
+"ID": 506,
+"Pronunciation": "sokutatsu",
+"Japanese": "そくたつ",
+"Nepali": "विशेष वितरण",
+"English": "special delivery",
+"Lesson": "L-11"
+},
+{
+"ID": 507,
+"Pronunciation": "kakitome",
+"Japanese": "かきとめ",
+"Nepali": "दर्ता देखि पठाउनु",
+"English": "registered mail",
+"Lesson": "L-11"
+},
+{
+"ID": 508,
+"Pronunciation": "e-yamēru (kōku ubin)",
+"Japanese": "エヤメール（航空郵便）",
+"Nepali": "एरमेल (विमान यात्री)",
+"English": "airmail",
+"Lesson": "L-11"
+},
+{
+"ID": 509,
+"Pronunciation": "funabin",
+"Japanese": "ふなびん",
+"Nepali": "जहाज भेण्डा पाठ",
+"English": "sea mail",
+"Lesson": "L-11"
+},
+{
+"ID": 510,
+"Pronunciation": "ryōshin",
+"Japanese": "両親",
+"Nepali": "माता-पिता",
+"English": "parents",
+"Lesson": "L-11"
+},
+{
+"ID": 511,
+"Pronunciation": "kyōdai",
+"Japanese": "兄弟",
+"Nepali": "भाइबहिनी",
+"English": "brothers and sisters",
+"Lesson": "L-11"
+},
+{
+"ID": 512,
+"Pronunciation": "ani",
+"Japanese": "兄",
+"Nepali": "दाइ",
+"English": "(my) elder brother",
+"Lesson": "L-11"
+},
+{
+"ID": 513,
+"Pronunciation": "onīsan",
+"Japanese": "お兄さん",
+"Nepali": "दाइ",
+"English": "(someone else's) elder brother",
+"Lesson": "L-11"
+},
+{
+"ID": 514,
+"Pronunciation": "ane",
+"Japanese": "姉",
+"Nepali": "दिदी",
+"English": "(my) elder sister",
+"Lesson": "L-11"
+},
+{
+"ID": 515,
+"Pronunciation": "onēsan",
+"Japanese": "お姉さん",
+"Nepali": "दिदी",
+"English": "(someone else's) elder sister",
+"Lesson": "L-11"
+},
+{
+"ID": 516,
+"Pronunciation": "otōto",
+"Japanese": "弟",
+"Nepali": "भाइ",
+"English": "(my) younger brother",
+"Lesson": "L-11"
+},
+{
+"ID": 517,
+"Pronunciation": "otōtosan",
+"Japanese": "弟さん",
+"Nepali": "भाइ",
+"English": "(someone else's) younger brother",
+"Lesson": "L-11"
+},
+{
+"ID": 518,
+"Pronunciation": "imōto",
+"Japanese": "妹",
+"Nepali": "बहिनी",
+"English": "(my) younger sister",
+"Lesson": "L-11"
+},
+{
+"ID": 519,
+"Pronunciation": "imōtosan",
+"Japanese": "妹さん",
+"Nepali": "बहिनी",
+"English": "(someone else's) younger sister",
+"Lesson": "L-11"
+},
+{
+"ID": 520,
+"Pronunciation": "gaikoku",
+"Japanese": "外国",
+"Nepali": "बाहिरे देश",
+"English": "foreign country",
+"Lesson": "L-11"
+},
+{
+"ID": 521,
+"Pronunciation": "~jikan",
+"Japanese": "～時間",
+"Nepali": "~ घण्टा",
+"English": "~ hours",
+"Lesson": "L-11"
+},
+{
+"ID": 522,
+"Pronunciation": "~shūkan",
+"Japanese": "～週間",
+"Nepali": "~ हप्ता",
+"English": "~ weeks",
+"Lesson": "L-11"
+},
+{
+"ID": 523,
+"Pronunciation": "~kagetsu",
+"Japanese": "～か月",
+"Nepali": "~ महिना",
+"English": "~ months",
+"Lesson": "L-11"
+},
+{
+"ID": 524,
+"Pronunciation": "~nen",
+"Japanese": "～年",
+"Nepali": "~ वर्ष",
+"English": "~ years",
+"Lesson": "L-11"
+},
+{
+"ID": 525,
+"Pronunciation": "~gurai",
+"Japanese": "～ぐらい",
+"Nepali": "लगभग ~",
+"English": "about ~",
+"Lesson": "L-11"
+},
+{
+"ID": 526,
+"Pronunciation": "~donokurai",
+"Japanese": "～どのくらい",
+"Nepali": "कति समयसम्म",
+"English": "how long",
+"Lesson": "L-11"
+},
+{
+"ID": 527,
+"Pronunciation": "zenbude",
+"Japanese": "全部で",
+"Nepali": "सबैमा",
+"English": "in total",
+"Lesson": "L-11"
+},
+{
+"ID": 528,
+"Pronunciation": "minna",
+"Japanese": "皆",
+"Nepali": "सबै",
+"English": "all, everything",
+"Lesson": "L-11"
+},
+{
+"ID": 529,
+"Pronunciation": "~dake",
+"Japanese": "～だけ",
+"Nepali": "~ मात्र",
+"English": "only ~",
+"Lesson": "L-11"
+},
+{
+"ID": 530,
+"Pronunciation": "irasshaimase.",
+"Japanese": "いらっしゃいませ。",
+"Nepali": "स्वागतम्।",
+"English": "Welcome./May I help you? (a greeting to a customer or a guest entering a shop, etc.)",
+"Lesson": "L-11"
+},
+{
+"ID": 531,
+"Pronunciation": "ii [o] tenki desu ne.",
+"Japanese": "いい[お]てんきですね。",
+"Nepali": "राम्रो मौसम हो, होइन त?",
+"English": "Nice weather, isn't it?",
+"Lesson": "L-11"
+},
+{
+"ID": 532,
+"Pronunciation": "odekake desu ka.",
+"Japanese": "おでかけですか。",
+"Nepali": "तपाईं जाँदैहुनुहुन्छ?",
+"English": "Are you going out?",
+"Lesson": "L-11"
+},
+{
+"ID": 533,
+"Pronunciation": "chotto ~ made.",
+"Japanese": "一寸～まで",
+"Nepali": "थोडै समयसम्म",
+"English": "I'm just going to ~.",
+"Lesson": "L-11"
+},
+{
+"ID": 534,
+"Pronunciation": "itte irasshai.",
+"Japanese": "行っていらっしゃい。",
+"Nepali": "जानुहोस्। (सडकको दुई तिर)",
+"English": "So long. (lit. Go and come back.)",
+"Lesson": "L-11"
+},
+{
+"ID": 535,
+"Pronunciation": "ittemairimasu.",
+"Japanese": "行ってまいります。",
+"Nepali": "जान्छु। (उच्चारण को तीन तिर)",
+"English": "So long. (lit. I'm going and coming back.)",
+"Lesson": "L-11"
+},
+{
+"ID": 536,
+"Pronunciation": "sorekara",
+"Japanese": "それから",
+"Nepali": "अनि, त्यसपछि",
+"English": "and, furthermore",
+"Lesson": "L-11"
+},
+{
+"ID": 537,
+"Pronunciation": "kantan [na]",
+"Japanese": "簡単[な]",
+"Nepali": "सजिलो [कि]",
+"English": "easy, simple",
+"Lesson": "L-12"
+},
+{
+"ID": 538,
+"Pronunciation": "chikai",
+"Japanese": "近い",
+"Nepali": "नजिक [कि]",
+"English": "near",
+"Lesson": "L-12"
+},
+{
+"ID": 539,
+"Pronunciation": "tooi",
+"Japanese": "遠い",
+"Nepali": "दूर [कि]",
+"English": "far",
+"Lesson": "L-12"
+},
+{
+"ID": 540,
+"Pronunciation": "hayai",
+"Japanese": "速い、早い",
+"Nepali": "छिटो, जल्दी [कि]",
+"English": "fast, early",
+"Lesson": "L-12"
+},
+{
+"ID": 541,
+"Pronunciation": "osoi",
+"Japanese": "遅い",
+"Nepali": "सुस्तो, धेरै पछि [कि]",
+"English": "slow, late",
+"Lesson": "L-12"
+},
+{
+"ID": 542,
+"Pronunciation": "ooi [hito ga ~]",
+"Japanese": "多い[人が~]",
+"Nepali": "धेरै [मानिसहरू छन्~]",
+"English": "many [people], much",
+"Lesson": "L-12"
+},
+{
+"ID": 543,
+"Pronunciation": "sukunai [hito ga ~]",
+"Japanese": "少ない[人が~]",
+"Nepali": "केही [मानिसहरू छन्~]",
+"English": "few [people], a little",
+"Lesson": "L-12"
+},
+{
+"ID": 544,
+"Pronunciation": "atatakai",
+"Japanese": "暖かい、温かい",
+"Nepali": "तातो, गर्म [कि]",
+"English": "warm",
+"Lesson": "L-12"
+},
+{
+"ID": 545,
+"Pronunciation": "suzushii",
+"Japanese": "涼しい",
+"Nepali": "सुस्तो, चिसो [कि]",
+"English": "cool",
+"Lesson": "L-12"
+},
+{
+"ID": 546,
+"Pronunciation": "amai",
+"Japanese": "甘い",
+"Nepali": "मिठो [कि]",
+"English": "sweet",
+"Lesson": "L-12"
+},
+{
+"ID": 547,
+"Pronunciation": "karai",
+"Japanese": "辛い",
+"Nepali": "तीखो, मसालेदार [कि]",
+"English": "hot (taste), spicy",
+"Lesson": "L-12"
+},
+{
+"ID": 548,
+"Pronunciation": "omoi",
+"Japanese": "重い",
+"Nepali": "भारी [कि]",
+"English": "heavy",
+"Lesson": "L-12"
+},
+{
+"ID": 549,
+"Pronunciation": "karui",
+"Japanese": "軽い",
+"Nepali": "हल्का [कि]",
+"English": "light",
+"Lesson": "L-12"
+},
+{
+"ID": 550,
+"Pronunciation": "ii [ko-hi- ga ~]",
+"Japanese": "いい[コーヒーが~]",
+"Nepali": "प्राथमिकता दिनु [कफीलाई~]",
+"English": "prefer [coffee]",
+"Lesson": "L-12"
+},
+{
+"ID": 551,
+"Pronunciation": "kisetsu",
+"Japanese": "季節",
+"Nepali": "ऋतु [कि]",
+"English": "season",
+"Lesson": "L-12"
+},
+{
+"ID": 552,
+"Pronunciation": "haru",
+"Japanese": "春",
+"Nepali": "बसन्त [कि]",
+"English": "spring",
+"Lesson": "L-12"
+},
+{
+"ID": 553,
+"Pronunciation": "natsu",
+"Japanese": "夏",
+"Nepali": "गर्मी [कि]",
+"English": "summer",
+"Lesson": "L-12"
+},
+{
+"ID": 554,
+"Pronunciation": "aki",
+"Japanese": "秋",
+"Nepali": "अङ्गं [कि]",
+"English": "autumn, fall",
+"Lesson": "L-12"
+},
+{
+"ID": 555,
+"Pronunciation": "fuyu",
+"Japanese": "冬",
+"Nepali": "सित्तौं [कि]",
+"English": "winter",
+"Lesson": "L-12"
+},
+{
+"ID": 556,
+"Pronunciation": "tenki",
+"Japanese": "天気",
+"Nepali": "मौसम [कि]",
+"English": "weather",
+"Lesson": "L-12"
+},
+{
+"ID": 557,
+"Pronunciation": "ame",
+"Japanese": "雨",
+"Nepali": "वर्षा [कि]",
+"English": "rain, rainy",
+"Lesson": "L-12"
+},
+{
+"ID": 558,
+"Pronunciation": "yuki",
+"Japanese": "雪",
+"Nepali": "हिउँ [कि]",
+"English": "snow, snowy",
+"Lesson": "L-12"
+},
+{
+"ID": 559,
+"Pronunciation": "kumori",
+"Japanese": "曇り",
+"Nepali": "बादली [कि]",
+"English": "cloudy",
+"Lesson": "L-12"
+},
+{
+"ID": 560,
+"Pronunciation": "hoteru",
+"Japanese": "ホテル",
+"Nepali": "होटेल",
+"English": "hotel",
+"Lesson": "L-12"
+},
+{
+"ID": 561,
+"Pronunciation": "kuukou",
+"Japanese": "空港",
+"Nepali": "विमानस्थल",
+"English": "airport",
+"Lesson": "L-12"
+},
+{
+"ID": 562,
+"Pronunciation": "umi",
+"Japanese": "海",
+"Nepali": "समुद्र [कि]",
+"English": "sea, ocean",
+"Lesson": "L-12"
+},
+{
+"ID": 563,
+"Pronunciation": "sekai",
+"Japanese": "世界",
+"Nepali": "संसार [कि]",
+"English": "world",
+"Lesson": "L-12"
+},
+{
+"ID": 564,
+"Pronunciation": "pa-ti-",
+"Japanese": "パーティー",
+"Nepali": "पार्टी",
+"English": "party",
+"Lesson": "L-12"
+},
+{
+"ID": 565,
+"Pronunciation": "[o]matsuri",
+"Japanese": "[お]祭り",
+"Nepali": "महोत्सव [कि]",
+"English": "festival",
+"Lesson": "L-12"
+},
+{
+"ID": 566,
+"Pronunciation": "shiken",
+"Japanese": "試験",
+"Nepali": "परिक्षा [कि]",
+"English": "examination",
+"Lesson": "L-12"
+},
+{
+"ID": 567,
+"Pronunciation": "sukiyaki",
+"Japanese": "すき焼き",
+"Nepali": "सुकियाकि",
+"English": "sukiyaki (beef and vegetables hot pot)",
+"Lesson": "L-12"
+},
+{
+"ID": 568,
+"Pronunciation": "sashimi",
+"Japanese": "刺身",
+"Nepali": "साशिमि",
+"English": "sashimi (sliced raw fish)",
+"Lesson": "L-12"
+},
+{
+"ID": 569,
+"Pronunciation": "[o]sushi",
+"Japanese": "すし",
+"Nepali": "सुशी",
+"English": "sushi (vinagered rice topped with raw fish)",
+"Lesson": "L-12"
+},
+{
+"ID": 570,
+"Pronunciation": "tempura",
+"Japanese": "天ぷら",
+"Nepali": "टेम्पुरा",
+"English": "tempura (seafood and vegetables deep fried in batter)",
+"Lesson": "L-12"
+},
+{
+"ID": 571,
+"Pronunciation": "ikebana",
+"Japanese": "生け花",
+"Nepali": "इकेबाना",
+"English": "flower arrangement (～をします: practice flower arrangement)",
+"Lesson": "L-12"
+},
+{
+"ID": 572,
+"Pronunciation": "momiji",
+"Japanese": "紅葉",
+"Nepali": "गुल्मीले रंगिन भएको पात [कि]",
+"English": "maple, red leaves of autumn",
+"Lesson": "L-12"
+},
+{
+"ID": 573,
+"Pronunciation": "dochira",
+"Japanese": "どちら",
+"Nepali": "कुन [कि]",
+"English": "which one (between two things)",
+"Lesson": "L-12"
+},
+{
+"ID": 574,
+"Pronunciation": "dochiramo",
+"Japanese": "どちらも",
+"Nepali": "दुवैलाई [कि]",
+"English": "both",
+"Lesson": "L-12"
+},
+{
+"ID": 575,
+"Pronunciation": "zutto",
+"Japanese": "ずっと",
+"Nepali": "सधैं",
+"English": "by far",
+"Lesson": "L-12"
+},
+{
+"ID": 576,
+"Pronunciation": "hajimete",
+"Japanese": "初めて",
+"Nepali": "पहिलोपटक",
+"English": "for the first time",
+"Lesson": "L-12"
+},
+{
+"ID": 577,
+"Pronunciation": "tadaima.",
+"Japanese": "ただいま。",
+"Nepali": "घरपुगेको",
+"English": "I'm home.",
+"Lesson": "L-12"
+},
+{
+"ID": 578,
+"Pronunciation": "okaerinasai.",
+"Japanese": "おかえりなさい。",
+"Nepali": "स्वागतम्",
+"English": "Welcome home.",
+"Lesson": "L-12"
+},
+{
+"ID": 579,
+"Pronunciation": "sugoidesune.",
+"Japanese": "凄いですね。",
+"Nepali": "चमत्कारी छ",
+"English": "That's amazing.",
+"Lesson": "L-12"
+},
+{
+"ID": 580,
+"Pronunciation": "demo",
+"Japanese": "でも",
+"Nepali": "तर",
+"English": "but",
+"Lesson": "L-12"
+},
+{
+"ID": 581,
+"Pronunciation": "tsukaremashita.",
+"Japanese": "疲れました",
+"Nepali": "थकिएको छु",
+"English": "(I'm) tired.",
+"Lesson": "L-12"
+},
+{
+"ID": 582,
+"Pronunciation": "asobimasu",
+"Japanese": "遊びます",
+"Nepali": "खेल्नुहोस्",
+"English": "enjoy oneself, play",
+"Lesson": "L-13"
+},
+{
+"ID": 583,
+"Pronunciation": "oyogimasu",
+"Japanese": "泳ぎます",
+"Nepali": "स्विम्स्यो",
+"English": "swim",
+"Lesson": "L-13"
+},
+{
+"ID": 584,
+"Pronunciation": "mukaemasu",
+"Japanese": "迎えます",
+"Nepali": "सम्बोधन गर्नु",
+"English": "go to meet, welcome",
+"Lesson": "L-13"
+},
+{
+"ID": 585,
+"Pronunciation": "tsukaremasu",
+"Japanese": "疲れます",
+"Nepali": "थकिन्छु",
+"English": "get tired",
+"Lesson": "L-13"
+},
+{
+"ID": 586,
+"Pronunciation": "dashimasu [tegami o ~]",
+"Japanese": "出します[手紙を～]",
+"Nepali": "पठाउनु [चिठ्ठा लाग्छ~]",
+"English": "send [a letter]",
+"Lesson": "L-13"
+},
+{
+"ID": 587,
+"Pronunciation": "hairimasu [kissaten ni ~]",
+"Japanese": "入ります[喫茶店に～]",
+"Nepali": "प्रवेश गर्नु [कफी शपमा~]",
+"English": "enter [a coffee shop]",
+"Lesson": "L-13"
+},
+{
+"ID": 588,
+"Pronunciation": "demasu [kissaten o ~]",
+"Japanese": "出ます[喫茶店を～]",
+"Nepali": "बाहिर निस्कनु [कफी शपबाट~]",
+"English": "go out [of a coffee shop]",
+"Lesson": "L-13"
+},
+{
+"ID": 589,
+"Pronunciation": "kekkonshimasu",
+"Japanese": "結婚します",
+"Nepali": "बिवाह गर्नु",
+"English": "marry, get married",
+"Lesson": "L-13"
+},
+{
+"ID": 590,
+"Pronunciation": "kaimonoshimasu",
+"Japanese": "買い物します",
+"Nepali": "किनमेल गर्नु",
+"English": "do shopping",
+"Lesson": "L-13"
+},
+{
+"ID": 591,
+"Pronunciation": "shokuji shimasu",
+"Japanese": "食事します",
+"Nepali": "खाना खानु",
+"English": "have a meal, dine",
+"Lesson": "L-13"
+},
+{
+"ID": 592,
+"Pronunciation": "sanpo shimasu [koen o ~]",
+"Japanese": "散歩します[公園を～]",
+"Nepali": "सवारी गर्नु [बगैंचामा~]",
+"English": "take a walk [in a park]",
+"Lesson": "L-13"
+},
+{
+"ID": 593,
+"Pronunciation": "taihen [na]",
+"Japanese": "大変[な]",
+"Nepali": "कठिन, गरो",
+"English": "hard, tough, severe, awful",
+"Lesson": "L-13"
+},
+{
+"ID": 594,
+"Pronunciation": "hoshii",
+"Japanese": "欲しい",
+"Nepali": "चाहिन्छ",
+"English": "want (something)",
+"Lesson": "L-13"
+},
+{
+"ID": 595,
+"Pronunciation": "sabishii",
+"Japanese": "寂しい",
+"Nepali": "अकेला",
+"English": "lonely",
+"Lesson": "L-13"
+},
+{
+"ID": 596,
+"Pronunciation": "hiroi",
+"Japanese": "広い",
+"Nepali": "फाल्गु, बिसाल",
+"English": "wide, spacious",
+"Lesson": "L-13"
+},
+{
+"ID": 597,
+"Pronunciation": "semai",
+"Japanese": "狭い",
+"Nepali": "संकीर्ण, सानो",
+"English": "narrow, small (room, etc.)",
+"Lesson": "L-13"
+},
+{
+"ID": 598,
+"Pronunciation": "shiyakusho",
+"Japanese": "市役所",
+"Nepali": "नगर पालिका",
+"English": "municipal office, city hall",
+"Lesson": "L-13"
+},
+{
+"ID": 599,
+"Pronunciation": "pu-ru",
+"Japanese": "プール",
+"Nepali": "स्विमिंग पूल",
+"English": "swimming pool",
+"Lesson": "L-13"
+},
+{
+"ID": 600,
+"Pronunciation": "kawa",
+"Japanese": "川",
+"Nepali": "खोला",
+"English": "river",
+"Lesson": "L-13"
+},
+{
+"ID": 601,
+"Pronunciation": "keizai",
+"Japanese": "経済",
+"Nepali": "अर्थ",
+"English": "economy",
+"Lesson": "L-13"
+},
+{
+"ID": 602,
+"Pronunciation": "bijutsu",
+"Japanese": "美術",
+"Nepali": "कला",
+"English": "fine arts",
+"Lesson": "L-13"
+},
+{
+"ID": 603,
+"Pronunciation": "tsuri",
+"Japanese": "釣り",
+"Nepali": "माछा",
+"English": "fishing (～をします: fish, angle)",
+"Lesson": "L-13"
+},
+{
+"ID": 604,
+"Pronunciation": "sukii",
+"Japanese": "スキー",
+"Nepali": "स्की",
+"English": "skiing (～をします: ski)",
+"Lesson": "L-13"
+},
+{
+"ID": 605,
+"Pronunciation": "kaigi",
+"Japanese": "会議",
+"Nepali": "बैठक",
+"English": "meeting, conference (～をします: hold a conference)",
+"Lesson": "L-13"
+},
+{
+"ID": 606,
+"Pronunciation": "toroku",
+"Japanese": "登録",
+"Nepali": "दर्ता",
+"English": "registration (～をします: register)",
+"Lesson": "L-13"
+},
+{
+"ID": 607,
+"Pronunciation": "shumatsu",
+"Japanese": "週末",
+"Nepali": "विकेन्द्र",
+"English": "weekend",
+"Lesson": "L-13"
+},
+{
+"ID": 608,
+"Pronunciation": "~goro",
+"Japanese": "～ごろ",
+"Nepali": "लगभग",
+"English": "about (time)",
+"Lesson": "L-13"
+},
+{
+"ID": 609,
+"Pronunciation": "nanika",
+"Japanese": "何か",
+"Nepali": "केही",
+"English": "something",
+"Lesson": "L-13"
+},
+{
+"ID": 610,
+"Pronunciation": "dokoka",
+"Japanese": "どこか",
+"Nepali": "कहिलेका, कहिलेख",
+"English": "somewhere, some place",
+"Lesson": "L-13"
+},
+{
+"ID": 611,
+"Pronunciation": "onaka ga sukimashita.",
+"Japanese": "お腹が空きました。",
+"Nepali": "मलाई भोक लाग्यो।",
+"English": "(I'm) hungry.",
+"Lesson": "L-13"
+},
+{
+"ID": 612,
+"Pronunciation": "onaka ga ippai desu.",
+"Japanese": "お腹が一杯です。",
+"Nepali": "मलाई भोक पुर्याउँछ।",
+"English": "(I'm) full.",
+"Lesson": "L-13"
+},
+{
+"ID": 613,
+"Pronunciation": "nodo ga kawakimashita.",
+"Japanese": "のどがかわきました。",
+"Nepali": "मलाई प्यास लाग्यो।",
+"English": "(I'm) thirsty.",
+"Lesson": "L-13"
+},
+{
+"ID": 614,
+"Pronunciation": "soudesune.",
+"Japanese": "そうですね。",
+"Nepali": "हुन्छ, सहमत छु।",
+"English": "I agree with you.",
+"Lesson": "L-13"
+},
+{
+"ID": 615,
+"Pronunciation": "soumashou.",
+"Japanese": "そうましょう。",
+"Nepali": "हामी त्यो गरौं।",
+"English": "Let's do that. (used when agreeing to someone's suggestion)",
+"Lesson": "L-13"
+},
+{
+"ID": 616,
+"Pronunciation": "gochuumon wa?",
+"Japanese": "ご注文は？",
+"Nepali": "आपको आदेश के बारे में?",
+"English": "May I take your order?",
+"Lesson": "L-13"
+},
+{
+"ID": 617,
+"Pronunciation": "teishoku",
+"Japanese": "定食",
+"Nepali": "तालिका, संकल्प",
+"English": "set meal",
+"Lesson": "L-13"
+},
+{
+"ID": 618,
+"Pronunciation": "gyuudon",
+"Japanese": "牛どん",
+"Nepali": "भएको बेसु",
+"English": "bowl of rice topped with beef",
+"Lesson": "L-13"
+},
+{
+"ID": 619,
+"Pronunciation": "[shoushou] omachikudasai.",
+"Japanese": "[少々]お待ちください。",
+"Nepali": "[केही] पर्ख्नुहोस्।",
+"English": "Please wait [a moment.].",
+"Lesson": "L-13"
+},
+{
+"ID": 620,
+"Pronunciation": "betsubetsuni",
+"Japanese": "別々に",
+"Nepali": "अलग अलग",
+"English": "separately",
+"Lesson": "L-13"
+},
+{
+"ID": 621,
+"Pronunciation": "つけます",
+"Japanese": "tsukemasu",
+"Nepali": "लकाउनुहोस्",
+"English": "turn on",
+"Lesson": "L-14"
+},
+{
+"ID": 622,
+"Pronunciation": "けします",
+"Japanese": "kesshimasu",
+"Nepali": "बन्द गर्नुहोस्",
+"English": "turn off",
+"Lesson": "L-14"
+},
+{
+"ID": 623,
+"Pronunciation": "あけます",
+"Japanese": "akemasu",
+"Nepali": "खोल्नुहोस्",
+"English": "open",
+"Lesson": "L-14"
+},
+{
+"ID": 624,
+"Pronunciation": "しめます",
+"Japanese": "shimemasu",
+"Nepali": "बन्द गर्नुहोस्",
+"English": "close, shut",
+"Lesson": "L-14"
+},
+{
+"ID": 625,
+"Pronunciation": "いそぎます",
+"Japanese": "isogimasu",
+"Nepali": "हतार गर्नुहोस्",
+"English": "hurry",
+"Lesson": "L-14"
+},
+{
+"ID": 626,
+"Pronunciation": "まちます",
+"Japanese": "machimasu",
+"Nepali": "पर्खनुहोस्",
+"English": "wait",
+"Lesson": "L-14"
+},
+{
+"ID": 627,
+"Pronunciation": "とめます",
+"Japanese": "tomemasu",
+"Nepali": "रोक्नुहोस्",
+"English": "stop, park",
+"Lesson": "L-14"
+},
+{
+"ID": 628,
+"Pronunciation": "まがります［みぎへ～］",
+"Japanese": "magarimasu migi e ~",
+"Nepali": "दायाँ मोड्नुहोस्",
+"English": "turn to the right",
+"Lesson": "L-14"
+},
+{
+"ID": 629,
+"Pronunciation": "もちます",
+"Japanese": "mochimasu",
+"Nepali": "बोक्नुहोस्",
+"English": "hold",
+"Lesson": "L-14"
+},
+{
+"ID": 630,
+"Pronunciation": "とります",
+"Japanese": "torimasu",
+"Nepali": "लिनुहोस्",
+"English": "take, pass",
+"Lesson": "L-14"
+},
+{
+"ID": 631,
+"Pronunciation": "てつだいます",
+"Japanese": "tesudaimasu",
+"Nepali": "मद्दत गर्नुहोस्",
+"English": "help (with a task)",
+"Lesson": "L-14"
+},
+{
+"ID": 632,
+"Pronunciation": "よびます",
+"Japanese": "yobimasu",
+"Nepali": "बोलाउनुहोस्",
+"English": "call",
+"Lesson": "L-14"
+},
+{
+"ID": 633,
+"Pronunciation": "はなします",
+"Japanese": "hanashimasu",
+"Nepali": "बोल्नुहोस्",
+"English": "speak, talk",
+"Lesson": "L-14"
+},
+{
+"ID": 634,
+"Pronunciation": "みせます",
+"Japanese": "misemasu",
+"Nepali": "देखाउनुहोस्",
+"English": "show",
+"Lesson": "L-14"
+},
+{
+"ID": 635,
+"Pronunciation": "おしえます［じゅうしょを～］",
+"Japanese": "oshiemasu juusho o ~",
+"Nepali": "बताउनुहोस्",
+"English": "tell an address",
+"Lesson": "L-14"
+},
+{
+"ID": 636,
+"Pronunciation": "はじめます",
+"Japanese": "hajimemasu",
+"Nepali": "सुरु गर्नुहोस्",
+"English": "start, begin",
+"Lesson": "L-14"
+},
+{
+"ID": 637,
+"Pronunciation": "ふります［あめが～］",
+"Japanese": "furimasu ame ga ~",
+"Nepali": "बर्षा हुनुहोस्",
+"English": "rain",
+"Lesson": "L-14"
+},
+{
+"ID": 638,
+"Pronunciation": "コピーします",
+"Japanese": "kopii shimasu",
+"Nepali": "प्रतिलिपि बनाउनुहोस्",
+"English": "copy",
+"Lesson": "L-14"
+},
+{
+"ID": 639,
+"Pronunciation": "エアコン",
+"Japanese": "eakon",
+"Nepali": "एयर कन्डीशनर",
+"English": "air conditioner",
+"Lesson": "L-14"
+},
+{
+"ID": 640,
+"Pronunciation": "パスポート",
+"Japanese": "pasupooto",
+"Nepali": "पासपोर्ट",
+"English": "passport",
+"Lesson": "L-14"
+},
+{
+"ID": 641,
+"Pronunciation": "なまえ",
+"Japanese": "namae",
+"Nepali": "नाम",
+"English": "name",
+"Lesson": "L-14"
+},
+{
+"ID": 642,
+"Pronunciation": "じゅうしょ",
+"Japanese": "juusho",
+"Nepali": "ठेगाना",
+"English": "address",
+"Lesson": "L-14"
+},
+{
+"ID": 643,
+"Pronunciation": "ちず",
+"Japanese": "chizu",
+"Nepali": "नक्सा",
+"English": "map",
+"Lesson": "L-14"
+},
+{
+"ID": 644,
+"Pronunciation": "しお",
+"Japanese": "shio",
+"Nepali": "नुन",
+"English": "salt",
+"Lesson": "L-14"
+},
+{
+"ID": 645,
+"Pronunciation": "さとう",
+"Japanese": "satou",
+"Nepali": "चीनी",
+"English": "sugar",
+"Lesson": "L-14"
+},
+{
+"ID": 646,
+"Pronunciation": "よみかた",
+"Japanese": "yomikata",
+"Nepali": "पढ्ने तरिका",
+"English": "how to read, way of reading",
+"Lesson": "L-14"
+},
+{
+"ID": 647,
+"Pronunciation": "～かた",
+"Japanese": "~kata",
+"Nepali": "~ गर्ने तरिका",
+"English": "how to ~, way of ~ing",
+"Lesson": "L-14"
+},
+{
+"ID": 648,
+"Pronunciation": "ゆっくり",
+"Japanese": "yukkuri",
+"Nepali": "ढिलो गरी",
+"English": "slowly, leisurely",
+"Lesson": "L-14"
+},
+{
+"ID": 649,
+"Pronunciation": "すぐ",
+"Japanese": "sugu",
+"Nepali": "तुरुन्तै",
+"English": "immediately",
+"Lesson": "L-14"
+},
+{
+"ID": 650,
+"Pronunciation": "また",
+"Japanese": "mata",
+"Nepali": "फेरि",
+"English": "again",
+"Lesson": "L-14"
+},
+{
+"ID": 651,
+"Pronunciation": "あとで",
+"Japanese": "ato de",
+"Nepali": "पछि",
+"English": "later",
+"Lesson": "L-14"
+},
+{
+"ID": 652,
+"Pronunciation": "もうすこし",
+"Japanese": "mou sukoshi",
+"Nepali": "अलि बढी",
+"English": "a little more",
+"Lesson": "L-14"
+},
+{
+"ID": 653,
+"Pronunciation": "もう～",
+"Japanese": "mou ~",
+"Nepali": "~ थप",
+"English": "another ~",
+"Lesson": "L-14"
+},
+{
+"ID": 654,
+"Pronunciation": "いいですよ。",
+"Japanese": "ii desu yo.",
+"Nepali": "ठिक छ",
+"English": "Sure. / Certainly",
+"Lesson": "L-14"
+},
+{
+"ID": 655,
+"Pronunciation": "さあ",
+"Japanese": "saa",
+"Nepali": "आउ",
+"English": "right (used when encouraging some course of action)",
+"Lesson": "L-14"
+},
+{
+"ID": 656,
+"Pronunciation": "あれ？",
+"Japanese": "are?",
+"Nepali": "ओहो",
+"English": "Oh!(in surprise or in wonder)",
+"Lesson": "L-14"
+},
+{
+"ID": 657,
+"Pronunciation": "しんごうをみぎへまがってください。",
+"Japanese": "shingou o migi e magatte kudasai.",
+"Nepali": "सिग्नलमा दायाँ मोड्नुहोस्",
+"English": "Turn right at the signal.",
+"Lesson": "L-14"
+},
+{
+"ID": 658,
+"Pronunciation": "まっすぐ",
+"Japanese": "massugu",
+"Nepali": "सीधा",
+"English": "straight",
+"Lesson": "L-14"
+},
+{
+"ID": 659,
+"Pronunciation": "これでおねがいします。",
+"Japanese": "kore de onegai shimasu.",
+"Nepali": "यसमा म सहमत छु",
+"English": "I'd like to pay with this.",
+"Lesson": "L-14"
+},
+{
+"ID": 660,
+"Pronunciation": "おつり",
+"Japanese": "otsur",
+"Nepali": "फर्क",
+"English": "change",
+"Lesson": "L-14"
+},
+{
+"ID": 661,
+"Pronunciation": "tachimimasu",
+"Japanese": "たちます",
+"Nepali": "उभिनु",
+"English": "stand up",
+"Lesson": "L-15"
+},
+{
+"ID": 662,
+"Pronunciation": "suwarimasu",
+"Japanese": "すわります",
+"Nepali": "बस्नु",
+"English": "sit down",
+"Lesson": "L-15"
+},
+{
+"ID": 663,
+"Pronunciation": "tsukaimasu",
+"Japanese": "つかいます",
+"Nepali": "प्रयोग गर्नु",
+"English": "use",
+"Lesson": "L-15"
+},
+{
+"ID": 664,
+"Pronunciation": "okimasu",
+"Japanese": "おきます",
+"Nepali": "राख्नु",
+"English": "put",
+"Lesson": "L-15"
+},
+{
+"ID": 665,
+"Pronunciation": "tsukurimasu",
+"Japanese": "つくります",
+"Nepali": "बनाउनु",
+"English": "make, produce",
+"Lesson": "L-15"
+},
+{
+"ID": 666,
+"Pronunciation": "urimasu",
+"Japanese": "うります",
+"Nepali": "बेच्नु",
+"English": "sell",
+"Lesson": "L-15"
+},
+{
+"ID": 667,
+"Pronunciation": "shirimasu",
+"Japanese": "しります",
+"Nepali": "जान्नु",
+"English": "get to know",
+"Lesson": "L-15"
+},
+{
+"ID": 668,
+"Pronunciation": "sumimasu",
+"Japanese": "すみます",
+"Nepali": "बस्नु",
+"English": "be going to live",
+"Lesson": "L-15"
+},
+{
+"ID": 669,
+"Pronunciation": "kenkyuushimasu",
+"Japanese": "けんきゅうします",
+"Nepali": "अनुसन्धान गर्नु",
+"English": "do research",
+"Lesson": "L-15"
+},
+{
+"ID": 670,
+"Pronunciation": "shite imasu",
+"Japanese": "しっています",
+"Nepali": "जान्नु",
+"English": "know",
+"Lesson": "L-15"
+},
+{
+"ID": 671,
+"Pronunciation": "sumite imasu oosaka ni ~",
+"Japanese": "すんでいます［おおさかに～］",
+"Nepali": "ओसाका में रह रहे हैं",
+"English": "live in Osaka",
+"Lesson": "L-15"
+},
+{
+"ID": 672,
+"Pronunciation": "shiryo",
+"Japanese": "しりょう",
+"Nepali": "सामग्री",
+"English": "materials, data",
+"Lesson": "L-15"
+},
+{
+"ID": 673,
+"Pronunciation": "katarogu",
+"Japanese": "カタログ",
+"Nepali": "कैटलॉग",
+"English": "catalog",
+"Lesson": "L-15"
+},
+{
+"ID": 674,
+"Pronunciation": "jikoukyou",
+"Japanese": "じこくひょう",
+"Nepali": "समय सारिणी",
+"English": "timetable",
+"Lesson": "L-15"
+},
+{
+"ID": 675,
+"Pronunciation": "fuku",
+"Japanese": "ふく",
+"Nepali": "कपड़े",
+"English": "clothes",
+"Lesson": "L-15"
+},
+{
+"ID": 676,
+"Pronunciation": "seihin",
+"Japanese": "せいひん",
+"Nepali": "उत्पाद",
+"English": "products",
+"Lesson": "L-15"
+},
+{
+"ID": 677,
+"Pronunciation": "sofuto",
+"Japanese": "ソフト",
+"Nepali": "सॉफ्टवेयर",
+"English": "software",
+"Lesson": "L-15"
+},
+{
+"ID": 678,
+"Pronunciation": "senmon",
+"Japanese": "せんもん",
+"Nepali": "विशेषता",
+"English": "speciality, field of study",
+"Lesson": "L-15"
+},
+{
+"ID": 679,
+"Pronunciation": "haisha",
+"Japanese": "はいしゃ",
+"Nepali": "दंत चिकित्सक",
+"English": "dentist, dentist's",
+"Lesson": "L-15"
+},
+{
+"ID": 680,
+"Pronunciation": "tokoya",
+"Japanese": "とこや",
+"Nepali": "नाई की दुकान",
+"English": "barber, barber's",
+"Lesson": "L-15"
+},
+{
+"ID": 681,
+"Pronunciation": "pureigaido",
+"Japanese": "プレイガイド",
+"Nepali": "टिकट एजेंसी",
+"English": "(theatre) ticket agency",
+"Lesson": "L-15"
+},
+{
+"ID": 682,
+"Pronunciation": "dokushin",
+"Japanese": "どくしん",
+"Nepali": "अविवाहित",
+"English": "single, unmarried",
+"Lesson": "L-15"
+},
+{
+"ID": 683,
+"Pronunciation": "tokuni",
+"Japanese": "とくに",
+"Nepali": "विशेष रूप से",
+"English": "especially",
+"Lesson": "L-15"
+},
+{
+"ID": 684,
+"Pronunciation": "omoideshimasu",
+"Japanese": "おもいだします",
+"Nepali": "याद रखना",
+"English": "remember, recollect",
+"Lesson": "L-15"
+},
+{
+"ID": 685,
+"Pronunciation": "gokazoku",
+"Japanese": "ごかぞく",
+"Nepali": "आपका परिवार",
+"English": "your family",
+"Lesson": "L-15"
+},
+{
+"ID": 686,
+"Pronunciation": "irasshaimasu",
+"Japanese": "いらっしゃいます",
+"Nepali": "होने के लिए (आदरजनक 'इमासु' के बराबर)",
+"English": "be (honorific equivalent of います）",
+"Lesson": "L-15"
+},
+{
+"ID": 687,
+"Pronunciation": "koukou",
+"Japanese": "こうこう",
+"Nepali": "हाई स्कूल",
+"English": "senior high school",
+"Lesson": "L-15"
+},
+{
+"ID": 688,
+"Pronunciation": "norimasu [densha ni ~]",
+"Japanese": "乗ります[電車に～]",
+"Nepali": "सवारी गर्नु [ट्रेनमा~]",
+"English": "ride, get on [a train]",
+"Lesson": "L-16"
+},
+{
+"ID": 689,
+"Pronunciation": "orimasu [densha o ~]",
+"Japanese": "降ります[電車を～]",
+"Nepali": "उतर्नु [ट्रेनबाट~]",
+"English": "get off [a train]",
+"Lesson": "L-16"
+},
+{
+"ID": 690,
+"Pronunciation": "norikaemasu",
+"Japanese": "乗り換えます",
+"Nepali": "चेन्ज गर्नु",
+"English": "change (trains, etc.)",
+"Lesson": "L-16"
+},
+{
+"ID": 691,
+"Pronunciation": "abimasu [shawaa o ~]",
+"Japanese": "浴びます[シャワーを～]",
+"Nepali": "स्नान गर्नु [शावरमा~]",
+"English": "take [a shower]",
+"Lesson": "L-16"
+},
+{
+"ID": 692,
+"Pronunciation": "iremasu",
+"Japanese": "入れます",
+"Nepali": "राख्नु",
+"English": "put in, insert",
+"Lesson": "L-16"
+},
+{
+"ID": 693,
+"Pronunciation": "dashimasu",
+"Japanese": "出します",
+"Nepali": "निकाल्नु",
+"English": "take out, withdraw",
+"Lesson": "L-16"
+},
+{
+"ID": 694,
+"Pronunciation": "hairimasu [daigaku ni ~]",
+"Japanese": "入ります[大学に～]",
+"Nepali": "प्रवेश गर्नु [विश्वविद्यालयमा~]",
+"English": "enter [university]",
+"Lesson": "L-16"
+},
+{
+"ID": 695,
+"Pronunciation": "demasu [daigaku o ~]",
+"Japanese": "出ます[大学を～]",
+"Nepali": "स्नातक भईनु [विश्वविद्यालयबाट~]",
+"English": "graduate from [university]",
+"Lesson": "L-16"
+},
+{
+"ID": 696,
+"Pronunciation": "yamemasu [kaisha o ~]",
+"Japanese": "辞めます[会社を～]",
+"Nepali": "बिदाउनु [कम्पनीबाट~]",
+"English": "quit or retire from [a company], stop, give up",
+"Lesson": "L-16"
+},
+{
+"ID": 697,
+"Pronunciation": "oshimasu",
+"Japanese": "押します",
+"Nepali": "थिच्नु",
+"English": "press, push",
+"Lesson": "L-16"
+},
+{
+"ID": 698,
+"Pronunciation": "wakai",
+"Japanese": "若い",
+"Nepali": "कम उमेरको",
+"English": "young",
+"Lesson": "L-16"
+},
+{
+"ID": 699,
+"Pronunciation": "nagai",
+"Japanese": "長い",
+"Nepali": "लामो",
+"English": "long",
+"Lesson": "L-16"
+},
+{
+"ID": 700,
+"Pronunciation": "mijikai",
+"Japanese": "短い",
+"Nepali": "छोटो",
+"English": "short",
+"Lesson": "L-16"
+},
+{
+"ID": 701,
+"Pronunciation": "akarui",
+"Japanese": "明るい",
+"Nepali": "उज्यालो, बिसाल",
+"English": "bright, light",
+"Lesson": "L-16"
+},
+{
+"ID": 702,
+"Pronunciation": "kurai",
+"Japanese": "暗い",
+"Nepali": "अँध्यारो, अबस्यो",
+"English": "dark (depressed)",
+"Lesson": "L-16"
+},
+{
+"ID": 703,
+"Pronunciation": "segatakai",
+"Japanese": "背が高い",
+"Nepali": "लामो (व्यक्ति सम्बन्धी)",
+"English": "tall (referring to a person)",
+"Lesson": "L-16"
+},
+{
+"ID": 704,
+"Pronunciation": "atama ga ii",
+"Japanese": "頭がいい",
+"Nepali": "बुद्धिमान, गुरुप्रमा",
+"English": "clever, smart",
+"Lesson": "L-16"
+},
+{
+"ID": 705,
+"Pronunciation": "karada",
+"Japanese": "体",
+"Nepali": "शरीर",
+"English": "body",
+"Lesson": "L-16"
+},
+{
+"ID": 706,
+"Pronunciation": "atama",
+"Japanese": "頭",
+"Nepali": "टाउको",
+"English": "head",
+"Lesson": "L-16"
+},
+{
+"ID": 707,
+"Pronunciation": "kami",
+"Japanese": "髪",
+"Nepali": "कपाल",
+"English": "hair",
+"Lesson": "L-16"
+},
+{
+"ID": 708,
+"Pronunciation": "kao",
+"Japanese": "顔",
+"Nepali": "अनुहार",
+"English": "face",
+"Lesson": "L-16"
+},
+{
+"ID": 709,
+"Pronunciation": "me",
+"Japanese": "目",
+"Nepali": "आँखा",
+"English": "eye",
+"Lesson": "L-16"
+},
+{
+"ID": 710,
+"Pronunciation": "mimi",
+"Japanese": "耳",
+"Nepali": "कान",
+"English": "ear",
+"Lesson": "L-16"
+},
+{
+"ID": 711,
+"Pronunciation": "kuchi",
+"Japanese": "口",
+"Nepali": "मुख",
+"English": "mouth",
+"Lesson": "L-16"
+},
+{
+"ID": 712,
+"Pronunciation": "ha",
+"Japanese": "歯",
+"Nepali": "दाँत",
+"English": "tooth",
+"Lesson": "L-16"
+},
+{
+"ID": 713,
+"Pronunciation": "onaka",
+"Japanese": "お腹",
+"Nepali": "पेट",
+"English": "stomach",
+"Lesson": "L-16"
+},
+{
+"ID": 714,
+"Pronunciation": "ashi",
+"Japanese": "足",
+"Nepali": "पाउ, टाउ",
+"English": "leg, foot",
+"Lesson": "L-16"
+},
+{
+"ID": 715,
+"Pronunciation": "saabisu",
+"Japanese": "サービス",
+"Nepali": "सेवा",
+"English": "service",
+"Lesson": "L-16"
+},
+{
+"ID": 716,
+"Pronunciation": "jogingu",
+"Japanese": "ジョギング",
+"Nepali": "जोगिङ्ग",
+"English": "jogging (～をします: jog)",
+"Lesson": "L-16"
+},
+{
+"ID": 717,
+"Pronunciation": "shawaa",
+"Japanese": "シャワー",
+"Nepali": "शावर",
+"English": "shower",
+"Lesson": "L-16"
+},
+{
+"ID": 718,
+"Pronunciation": "midori",
+"Japanese": "緑",
+"Nepali": "हरियो",
+"English": "green, greenery",
+"Lesson": "L-16"
+},
+{
+"ID": 719,
+"Pronunciation": "[o]tera",
+"Japanese": "[お]寺",
+"Nepali": "[हुन्दैन] मन्दिर",
+"English": "Buddhist temple",
+"Lesson": "L-16"
+},
+{
+"ID": 720,
+"Pronunciation": "jinja",
+"Japanese": "神社",
+"Nepali": "हिन्दूको मन्दिर",
+"English": "Shinto shrine",
+"Lesson": "L-16"
+},
+{
+"ID": 721,
+"Pronunciation": "ryuugakusei",
+"Japanese": "留学生",
+"Nepali": "पढाई गर्ने विदेशी विद्यार्थी",
+"English": "foreign student",
+"Lesson": "L-16"
+},
+{
+"ID": 722,
+"Pronunciation": "~ban",
+"Japanese": "～番",
+"Nepali": "~ नम्बर",
+"English": "number ~",
+"Lesson": "L-16"
+},
+{
+"ID": 723,
+"Pronunciation": "douyatte",
+"Japanese": "どうやって",
+"Nepali": "कसरी",
+"English": "in what way, how",
+"Lesson": "L-16"
+},
+{
+"ID": 724,
+"Pronunciation": "dono ~",
+"Japanese": "どの～",
+"Nepali": "कुन ~",
+"English": "which ~ (used for three or more)",
+"Lesson": "L-16"
+},
+{
+"ID": 725,
+"Pronunciation": "[iie,] mada mada desu.",
+"Japanese": "[いいえ、]まだまだです。",
+"Nepali": "[होईन,] अझै पनि होइन।",
+"English": "[No,] I still have a long way to go.",
+"Lesson": "L-16"
+},
+{
+"ID": 726,
+"Pronunciation": "ohikidashi desu ka?",
+"Japanese": "お引き出しですか。",
+"Nepali": "आपले विदा खाता छ ?",
+"English": "Are you making a withdrawal?",
+"Lesson": "L-16"
+},
+{
+"ID": 727,
+"Pronunciation": "mazu",
+"Japanese": "先ず",
+"Nepali": "सबैभन्दा पहिले",
+"English": "first of all",
+"Lesson": "L-16"
+},
+{
+"ID": 728,
+"Pronunciation": "kyasshu kaado",
+"Japanese": "キャッシュカード",
+"Nepali": "नगदीको कार्ड",
+"English": "cash dispensing card",
+"Lesson": "L-16"
+},
+{
+"ID": 729,
+"Pronunciation": "anshoubangou",
+"Japanese": "暗証番号",
+"Nepali": "पिन नम्बर",
+"English": "personal identification number, PIN",
+"Lesson": "L-16"
+},
+{
+"ID": 730,
+"Pronunciation": "tsugini",
+"Japanese": "次に",
+"Nepali": "पछि",
+"English": "next, as a next step",
+"Lesson": "L-16"
+},
+{
+"ID": 731,
+"Pronunciation": "kingaku",
+"Japanese": "金額",
+"Nepali": "रकम",
+"English": "amount of money",
+"Lesson": "L-16"
+},
+{
+"ID": 732,
+"Pronunciation": "kakunin",
+"Japanese": "確認",
+"Nepali": "पुष्टि",
+"English": "confirmation (～します: confirm)",
+"Lesson": "L-16"
+},
+{
+"ID": 733,
+"Pronunciation": "botan",
+"Japanese": "ボタン",
+"Nepali": "बटन",
+"English": "button",
+"Lesson": "L-16"
+},
+{
+"ID": 734,
+"Pronunciation": "oboemasu",
+"Japanese": "覚えます",
+"Nepali": "याद गर्नु",
+"English": "memorize",
+"Lesson": "L-17"
+},
+{
+"ID": 735,
+"Pronunciation": "wasuremasu",
+"Japanese": "忘れます",
+"Nepali": "बिर्सनु",
+"English": "forget",
+"Lesson": "L-17"
+},
+{
+"ID": 736,
+"Pronunciation": "nakushimasu",
+"Japanese": "亡くします (無くします)",
+"Nepali": "हराउनु",
+"English": "lose",
+"Lesson": "L-17"
+},
+{
+"ID": 737,
+"Pronunciation": "dashimasu [repooto o ~]",
+"Japanese": "出します[レポートを～]",
+"Nepali": "सोध्नु [रिपोर्टलाई~]",
+"English": "hand in [a report]",
+"Lesson": "L-17"
+},
+{
+"ID": 738,
+"Pronunciation": "haraimasu",
+"Japanese": "払います",
+"Nepali": "तिर्नु",
+"English": "pay",
+"Lesson": "L-17"
+},
+{
+"ID": 739,
+"Pronunciation": "kaeshimasu",
+"Japanese": "返します",
+"Nepali": "फर्काउनु",
+"English": "give back, return",
+"Lesson": "L-17"
+},
+{
+"ID": 740,
+"Pronunciation": "dekakemasu",
+"Japanese": "出かけます",
+"Nepali": "जानु",
+"English": "go out",
+"Lesson": "L-17"
+},
+{
+"ID": 741,
+"Pronunciation": "nugimasu",
+"Japanese": "脱ぎます",
+"Nepali": "बाहिर निकाल्नु",
+"English": "take off (clothes, shoes, etc.)",
+"Lesson": "L-17"
+},
+{
+"ID": 742,
+"Pronunciation": "motte ikimasu",
+"Japanese": "持って行ます",
+"Nepali": "लिन्छु (केही) (चोच गरेर जानु)",
+"English": "take (something) (lit. grab and go)",
+"Lesson": "L-17"
+},
+{
+"ID": 743,
+"Pronunciation": "motte kimasu",
+"Japanese": "持って木ます",
+"Nepali": "ल्याउछु (केही) (चोच गरेर आउनु)",
+"English": "bring (something) (lit. grab and come)",
+"Lesson": "L-17"
+},
+{
+"ID": 744,
+"Pronunciation": "shinpai shimasu",
+"Japanese": "心配します",
+"Nepali": "चिन्ता गर्नु",
+"English": "worry",
+"Lesson": "L-17"
+},
+{
+"ID": 745,
+"Pronunciation": "zangyoushimasu",
+"Japanese": "残業します",
+"Nepali": "अतिरिक्त काम गर्नु",
+"English": "work overtime",
+"Lesson": "L-17"
+},
+{
+"ID": 746,
+"Pronunciation": "shucchooushimasu",
+"Japanese": "出張します",
+"Nepali": "बिजनेस यात्रा जानु",
+"English": "go on a business trip",
+"Lesson": "L-17"
+},
+{
+"ID": 747,
+"Pronunciation": "nomimasu [kusuri o ~]",
+"Japanese": "飲みます[薬を～]",
+"Nepali": "पिउनु [औषधि~]",
+"English": "take [medicine]",
+"Lesson": "L-17"
+},
+{
+"ID": 748,
+"Pronunciation": "hairimasu [ofuro ni ~]",
+"Japanese": "入ります[お風呂に～]",
+"Nepali": "सोध्नु [स्नान गर्नु~]",
+"English": "take [a bath]",
+"Lesson": "L-17"
+},
+{
+"ID": 749,
+"Pronunciation": "taisetsu [na]",
+"Japanese": "大切[な]",
+"Nepali": "महत्त्वपूर्ण",
+"English": "important, precious",
+"Lesson": "L-17"
+},
+{
+"ID": 750,
+"Pronunciation": "daijoubu [na]",
+"Japanese": "大丈夫[な]",
+"Nepali": "ठिक छ",
+"English": "all right",
+"Lesson": "L-17"
+},
+{
+"ID": 751,
+"Pronunciation": "abunai",
+"Japanese": "危ない",
+"Nepali": "खतरापूर्ण",
+"English": "dangerous",
+"Lesson": "L-17"
+},
+{
+"ID": 752,
+"Pronunciation": "mondai",
+"Japanese": "問題",
+"Nepali": "समस्या",
+"English": "question, problem, trouble",
+"Lesson": "L-17"
+},
+{
+"ID": 753,
+"Pronunciation": "kotae",
+"Japanese": "答え",
+"Nepali": "उत्तर",
+"English": "answer",
+"Lesson": "L-17"
+},
+{
+"ID": 754,
+"Pronunciation": "kin'en",
+"Japanese": "禁煙",
+"Nepali": "धूम्रपान निषेध",
+"English": "no smoking",
+"Lesson": "L-17"
+},
+{
+"ID": 755,
+"Pronunciation": "[kenkou] hokensho",
+"Japanese": "[健康]保険証",
+"Nepali": "[स्वास्थ्य] बीमा कार्ड",
+"English": "[health] insurance card",
+"Lesson": "L-17"
+},
+{
+"ID": 756,
+"Pronunciation": "kaze",
+"Japanese": "風邪",
+"Nepali": "ठाउँठुक्की",
+"English": "cold",
+"Lesson": "L-17"
+},
+{
+"ID": 757,
+"Pronunciation": "netsu",
+"Japanese": "熱",
+"Nepali": "ज्वरो",
+"English": "fever",
+"Lesson": "L-17"
+},
+{
+"ID": 758,
+"Pronunciation": "byouki",
+"Japanese": "病気",
+"Nepali": "रोग",
+"English": "illness, disease",
+"Lesson": "L-17"
+},
+{
+"ID": 759,
+"Pronunciation": "kusuri",
+"Japanese": "薬",
+"Nepali": "औषधि",
+"English": "medicine",
+"Lesson": "L-17"
+},
+{
+"ID": 760,
+"Pronunciation": "[o]furo",
+"Japanese": "[お]風呂",
+"Nepali": "स्नान गृह",
+"English": "bath",
+"Lesson": "L-17"
+},
+{
+"ID": 761,
+"Pronunciation": "uwagi",
+"Japanese": "上着",
+"Nepali": "ज्याकेट, बाहिरी कपडा",
+"English": "jacket, outerwear",
+"Lesson": "L-17"
+},
+{
+"ID": 762,
+"Pronunciation": "shitagi",
+"Japanese": "下着",
+"Nepali": "आन्तरिक वस्त्र",
+"English": "underwear",
+"Lesson": "L-17"
+},
+{
+"ID": 763,
+"Pronunciation": "sensei",
+"Japanese": "先生",
+"Nepali": "डाक्टर (चिकित्सकलाई सम्बोधन गर्दा प्रयोग हुन्छ)",
+"English": "doctor (used when addressing a medical doctor)",
+"Lesson": "L-17"
+},
+{
+"ID": 764,
+"Pronunciation": "2, 3 nich",
+"Japanese": "２、３日",
+"Nepali": "केहि दिनहरू",
+"English": "a few days",
+"Lesson": "L-17"
+},
+{
+"ID": 765,
+"Pronunciation": "2, 3 ~",
+"Japanese": "２、３～",
+"Nepali": "केहि ~ (~ ले गणक सर्पछ)",
+"English": "a few ~ (~ is a counter suffix)",
+"Lesson": "L-17"
+},
+{
+"ID": 766,
+"Pronunciation": "~made ni",
+"Japanese": "～までに",
+"Nepali": "~ समयसम्म",
+"English": "before ~, by ~ (indicating time limit)",
+"Lesson": "L-17"
+},
+{
+"ID": 767,
+"Pronunciation": "desu kara",
+"Japanese": "ですから",
+"Nepali": "त्यसैले",
+"English": "therefore, so",
+"Lesson": "L-17"
+},
+{
+"ID": 768,
+"Pronunciation": "dou shimashita ka?",
+"Japanese": "どうしましたか。",
+"Nepali": "के हुन्छ?",
+"English": "What's the matter?",
+"Lesson": "L-17"
+},
+{
+"ID": 769,
+"Pronunciation": "[~ ga] itai desu.",
+"Japanese": "[~が]痛いです。",
+"Nepali": "[~मा] दुख्छ।",
+"English": "[I] have a pain [in my ~].",
+"Lesson": "L-17"
+},
+{
+"ID": 770,
+"Pronunciation": "nodo",
+"Japanese": "のど",
+"Nepali": "खोटा",
+"English": "throat",
+"Lesson": "L-17"
+},
+{
+"ID": 771,
+"Pronunciation": "odaijini.",
+"Japanese": "お大事に。",
+"Nepali": "स्वस्थ रहनुहोस्।",
+"English": "Take care of yourself. (said to people who are ill)",
+"Lesson": "L-17"
+},
+{
+"ID": 772,
+"Pronunciation": "dekimasu",
+"Japanese": "出来ます",
+"Nepali": "सक्नुहुन्छ",
+"English": "be able to, can",
+"Lesson": "L-18"
+},
+{
+"ID": 773,
+"Pronunciation": "araimasu",
+"Japanese": "洗います",
+"Nepali": "मिल्नु",
+"English": "wash",
+"Lesson": "L-18"
+},
+{
+"ID": 774,
+"Pronunciation": "hikimasu",
+"Japanese": "弾きます",
+"Nepali": "बजाउनु (तार युक्त यन्त्रमा वा पियानोमा आदि)",
+"English": "play (stringed instrument or piano, etc.)",
+"Lesson": "L-18"
+},
+{
+"ID": 775,
+"Pronunciation": "utaimasu",
+"Japanese": "歌います",
+"Nepali": "गाउनु",
+"English": "sing",
+"Lesson": "L-18"
+},
+{
+"ID": 776,
+"Pronunciation": "atsumemasu",
+"Japanese": "集めます",
+"Nepali": "जम्मा गर्नु",
+"English": "collect, gather",
+"Lesson": "L-18"
+},
+{
+"ID": 777,
+"Pronunciation": "sutemasu",
+"Japanese": "捨てます",
+"Nepali": "फाल्नु",
+"English": "throw away",
+"Lesson": "L-18"
+},
+{
+"ID": 778,
+"Pronunciation": "kaemasu",
+"Japanese": "換えます",
+"Nepali": "परिवर्तन गर्नु, बदल्नु",
+"English": "exchange, change",
+"Lesson": "L-18"
+},
+{
+"ID": 779,
+"Pronunciation": "unten shimasu",
+"Japanese": "運転します",
+"Nepali": "गाडी चलाउनु",
+"English": "drive",
+"Lesson": "L-18"
+},
+{
+"ID": 780,
+"Pronunciation": "yoyaku shimasu",
+"Japanese": "予約します",
+"Nepali": "बुक गर्नु",
+"English": "reserve, book",
+"Lesson": "L-18"
+},
+{
+"ID": 781,
+"Pronunciation": "kengaku shimasu",
+"Japanese": "見学します",
+"Nepali": "पठनको लागि कुनै स्थानमा जानु",
+"English": "visit some place for study",
+"Lesson": "L-18"
+},
+{
+"ID": 782,
+"Pronunciation": "piano",
+"Japanese": "ピアノ",
+"Nepali": "पियानो",
+"English": "piano",
+"Lesson": "L-18"
+},
+{
+"ID": 783,
+"Pronunciation": "~ meetoru",
+"Japanese": "～メートル",
+"Nepali": "~ मिटर",
+"English": "~ meter",
+"Lesson": "L-18"
+},
+{
+"ID": 784,
+"Pronunciation": "kokusai ~",
+"Japanese": "国際～",
+"Nepali": "अन्तर्राष्ट्रिय ~",
+"English": "international ~",
+"Lesson": "L-18"
+},
+{
+"ID": 785,
+"Pronunciation": "genkin",
+"Japanese": "現金",
+"Nepali": "नगद",
+"English": "cash",
+"Lesson": "L-18"
+},
+{
+"ID": 786,
+"Pronunciation": "shumi",
+"Japanese": "趣味",
+"Nepali": "रुचि",
+"English": "hobby",
+"Lesson": "L-18"
+},
+{
+"ID": 787,
+"Pronunciation": "nikki",
+"Japanese": "日記",
+"Nepali": "दैनिकी",
+"English": "diary",
+"Lesson": "L-18"
+},
+{
+"ID": 788,
+"Pronunciation": "[o] inori",
+"Japanese": "[お]祈り",
+"Nepali": "प्रार्थना (～ गर्नुहोस्: प्रार्थना गर्नु)",
+"English": "prayer ( ～をします: pray)",
+"Lesson": "L-18"
+},
+{
+"ID": 789,
+"Pronunciation": "kachou",
+"Japanese": "課長",
+"Nepali": "खण्ड अधिकृत",
+"English": "section chief",
+"Lesson": "L-18"
+},
+{
+"ID": 790,
+"Pronunciation": "buchou",
+"Japanese": "部長",
+"Nepali": "विभाग अध्यक्ष",
+"English": "department chief",
+"Lesson": "L-18"
+},
+{
+"ID": 791,
+"Pronunciation": "shachou",
+"Japanese": "社長",
+"Nepali": "कम्पनीका मालिक",
+"English": "president of a company",
+"Lesson": "L-18"
+},
+{
+"ID": 792,
+"Pronunciation": "doubutsu",
+"Japanese": "動物",
+"Nepali": "पशु",
+"English": "animal",
+"Lesson": "L-18"
+},
+{
+"ID": 793,
+"Pronunciation": "uma",
+"Japanese": "馬",
+"Nepali": "घोडा",
+"English": "horse",
+"Lesson": "L-18"
+},
+{
+"ID": 794,
+"Pronunciation": "hee",
+"Japanese": "へえ",
+"Nepali": "हो रे! (आश्चर्य व्यक्त गर्दा प्रयोग हुन्छ)",
+"English": "Really! (used when expressing surprise)",
+"Lesson": "L-18"
+},
+{
+"ID": 795,
+"Pronunciation": "sore wa omoshiroi desu ne.",
+"Japanese": "それは面白いですね。",
+"Nepali": "यो राम्रो हुनुपर्छ",
+"English": "That must be interesting.",
+"Lesson": "L-18"
+},
+{
+"ID": 796,
+"Pronunciation": "nakanaka",
+"Japanese": "中々",
+"Nepali": "धेरैै गर्छैन (नकारात्मकसँग प्रयोग हुन्छ)",
+"English": "not easily (used with negatives)",
+"Lesson": "L-18"
+},
+{
+"ID": 797,
+"Pronunciation": "bokujou",
+"Japanese": "牧場",
+"Nepali": "गोठ, पशुशाला",
+"English": "ranch, stock farm",
+"Lesson": "L-18"
+},
+{
+"ID": 798,
+"Pronunciation": "hontou desu ka?",
+"Japanese": "本当ですか。",
+"Nepali": "साँच्चै?",
+"English": "Really?",
+"Lesson": "L-18"
+},
+{
+"ID": 799,
+"Pronunciation": "zehi",
+"Japanese": "是非",
+"Nepali": "पक्कै",
+"English": "by all means",
+"Lesson": "L-18"
+},
+{
+"ID": 800,
+"Pronunciation": "noborimasu",
+"Japanese": "のぼります",
+"Nepali": "चढ्नु",
+"English": "climb [a mountain]",
+"Lesson": "L-19"
+},
+{
+"ID": 801,
+"Pronunciation": "tomarimasu",
+"Japanese": "泊まります",
+"Nepali": "बस्नु",
+"English": "stay [at a hotel]",
+"Lesson": "L-19"
+},
+{
+"ID": 802,
+"Pronunciation": "soujishimasu",
+"Japanese": "掃除します",
+"Nepali": "सफाइ गर्नु",
+"English": "clean (a room)",
+"Lesson": "L-19"
+},
+{
+"ID": 803,
+"Pronunciation": "sentakushimasu",
+"Japanese": "洗濯します",
+"Nepali": "कपडा धुनु",
+"English": "wash (clothes)",
+"Lesson": "L-19"
+},
+{
+"ID": 804,
+"Pronunciation": "renshuushimasu",
+"Japanese": "練習します",
+"Nepali": "अभ्यास गर्नु",
+"English": "practice",
+"Lesson": "L-19"
+},
+{
+"ID": 805,
+"Pronunciation": "narimasu",
+"Japanese": "なります",
+"Nepali": "बन्नु",
+"English": "become",
+"Lesson": "L-19"
+},
+{
+"ID": 806,
+"Pronunciation": "nemui",
+"Japanese": "眠い",
+"Nepali": "निद्रालु",
+"English": "sleepy",
+"Lesson": "L-19"
+},
+{
+"ID": 807,
+"Pronunciation": "tsuyoi",
+"Japanese": "強い",
+"Nepali": "शक्तिशाली",
+"English": "strong",
+"Lesson": "L-19"
+},
+{
+"ID": 808,
+"Pronunciation": "yowai",
+"Japanese": "弱い",
+"Nepali": "कमजोर",
+"English": "weak",
+"Lesson": "L-19"
+},
+{
+"ID": 809,
+"Pronunciation": "choushiga ii",
+"Japanese": "調子がいい",
+"Nepali": "सुख्खा सम्म",
+"English": "be in good condition",
+"Lesson": "L-19"
+},
+{
+"ID": 810,
+"Pronunciation": "choushiga warui",
+"Japanese": "調子が悪い",
+"Nepali": "अस्वस्थ",
+"English": "be in bad condition",
+"Lesson": "L-19"
+},
+{
+"ID": 811,
+"Pronunciation": "choushi",
+"Japanese": "調子",
+"Nepali": "अवस्था",
+"English": "condition",
+"Lesson": "L-19"
+},
+{
+"ID": 812,
+"Pronunciation": "gorufu",
+"Japanese": "ゴルフ",
+"Nepali": "गोल्फ",
+"English": "golf",
+"Lesson": "L-19"
+},
+{
+"ID": 813,
+"Pronunciation": "sumou",
+"Japanese": "相撲",
+"Nepali": "सुमो",
+"English": "sumo wrestling",
+"Lesson": "L-19"
+},
+{
+"ID": 814,
+"Pronunciation": "pachinko",
+"Japanese": "パチンコ",
+"Nepali": "पिनबल खेल (～ गर्नुहोस्: पिनबल खेल्नु)",
+"English": "pinball game (～をします: play pachinko)",
+"Lesson": "L-19"
+},
+{
+"ID": 815,
+"Pronunciation": "ocha",
+"Japanese": "お茶",
+"Nepali": "चिया",
+"English": "tea ceremony",
+"Lesson": "L-19"
+},
+{
+"ID": 816,
+"Pronunciation": "hi",
+"Japanese": "日",
+"Nepali": "दिन, मिति",
+"English": "day, date",
+"Lesson": "L-19"
+},
+{
+"ID": 817,
+"Pronunciation": "ichido",
+"Japanese": "一度",
+"Nepali": "एकदम",
+"English": "once",
+"Lesson": "L-19"
+},
+{
+"ID": 818,
+"Pronunciation": "ichidomo",
+"Japanese": "一度も",
+"Nepali": "कहिल्यै होइन, कहिल्यै हुन्न (नकारात्मकसँग प्रयोग हुन्छ)",
+"English": "not once, never (used with negatives)",
+"Lesson": "L-19"
+},
+{
+"ID": 819,
+"Pronunciation": "dandan",
+"Japanese": "段々",
+"Nepali": "धेरैधेरै",
+"English": "gradually",
+"Lesson": "L-19"
+},
+{
+"ID": 820,
+"Pronunciation": "mou sugu",
+"Japanese": "もうすぐ",
+"Nepali": "थोडै पछि",
+"English": "soon",
+"Lesson": "L-19"
+},
+{
+"ID": 821,
+"Pronunciation": "okagesamade",
+"Japanese": "お蔭様で",
+"Nepali": "धन्यवाद (मद्दत प्राप्त गर्दा प्रयोग हुन्छ)",
+"English": "Thank you. (used when expressing gratitude for help received.)",
+"Lesson": "L-19"
+},
+{
+"ID": 822,
+"Pronunciation": "kanpai",
+"Japanese": "乾杯",
+"Nepali": "चियर्स, अगाडी उठाउनु",
+"English": "Bottoms up./Cheers!",
+"Lesson": "L-19"
+},
+{
+"ID": 823,
+"Pronunciation": "jitsu wa",
+"Japanese": "実は",
+"Nepali": "वास्तवमा",
+"English": "actually, to tell the truth",
+"Lesson": "L-19"
+},
+{
+"ID": 824,
+"Pronunciation": "daietto",
+"Japanese": "ダイエット",
+"Nepali": "आहारको नियमिती (～をします: आहारको नियमितीमा जानु)",
+"English": "diet (～をします: go on a diet)",
+"Lesson": "L-19"
+},
+{
+"ID": 825,
+"Pronunciation": "nankaimo",
+"Japanese": "何回も",
+"Nepali": "केहि पटक",
+"English": "many times",
+"Lesson": "L-19"
+},
+{
+"ID": 826,
+"Pronunciation": "shikashi",
+"Japanese": "しかし",
+"Nepali": "तर, यो तो कुरा हो",
+"English": "but, however",
+"Lesson": "L-19"
+},
+{
+"ID": 827,
+"Pronunciation": "muri [na]",
+"Japanese": "無理 [な]",
+"Nepali": "अत्यधिक, असंभव",
+"English": "excessive, impossible",
+"Lesson": "L-19"
+},
+{
+"ID": 828,
+"Pronunciation": "karadani ii",
+"Japanese": "体にいい",
+"Nepali": "शरीरको लागि राम्रो",
+"English": "good for one's health",
+"Lesson": "L-19"
+},
+{
+"ID": 829,
+"Pronunciation": "keeki",
+"Japanese": "ケーキ",
+"Nepali": "केक",
+"English": "cake",
+"Lesson": "L-19"
+},
+{
+"ID": 830,
+"Pronunciation": "irimasu",
+"Japanese": "要ります",
+"Nepali": "चाहिन्छ (विजा)",
+"English": "need, require [a visa]",
+"Lesson": "L-20"
+},
+{
+"ID": 831,
+"Pronunciation": "shirabemasu",
+"Japanese": "調べます",
+"Nepali": "जाँच्नु, अनुसन्धान गर्नु",
+"English": "check, investigate",
+"Lesson": "L-20"
+},
+{
+"ID": 832,
+"Pronunciation": "naoshimasu",
+"Japanese": "直します",
+"Nepali": "मिलाउनु, सच्याउनु",
+"English": "repair, correct",
+"Lesson": "L-20"
+},
+{
+"ID": 833,
+"Pronunciation": "shuuri shimasu",
+"Japanese": "修理します",
+"Nepali": "मर्मत गर्नु",
+"English": "repair",
+"Lesson": "L-20"
+},
+{
+"ID": 834,
+"Pronunciation": "denwa shimasu",
+"Japanese": "電話します",
+"Nepali": "फोन गर्नु",
+"English": "phone",
+"Lesson": "L-20"
+},
+{
+"ID": 835,
+"Pronunciation": "boku",
+"Japanese": "僕",
+"Nepali": "म (पुरुषहरूको लागि आफ्नोबाट आपत्तिहीन ढंगले प्रयोग हुने वाक्यांश)",
+"English": "I (an informal equivalent of わたし used by men)",
+"Lesson": "L-20"
+},
+{
+"ID": 836,
+"Pronunciation": "kimi",
+"Japanese": "君",
+"Nepali": "तपाईं (पुरुषहरूको लागि आफ्नोबाट आपत्तिहीन ढंगले प्रयोग हुने वाक्यांश)",
+"English": "you (an informal equivalent of あなた used by men)",
+"Lesson": "L-20"
+},
+{
+"ID": 837,
+"Pronunciation": "～kun",
+"Japanese": "～君",
+"Nepali": "श्री (पुरुषहरूको लागि आफ्नोबाट आपत्तिहीन ढंगले प्रयोग हुने वाक्यांश)",
+"English": "Mr. (an informal equivalent of ～さん used by men)",
+"Lesson": "L-20"
+},
+{
+"ID": 838,
+"Pronunciation": "un",
+"Japanese": "うん",
+"Nepali": "हो (हालती ढंगले प्रयोग गरिएको अनौपचारिक रूपमा हामीले व्यक्त गर्ने)",
+"English": "yes (an informal equivalent of はい)",
+"Lesson": "L-20"
+},
+{
+"ID": 839,
+"Pronunciation": "uun",
+"Japanese": "ううん",
+"Nepali": "होइन (हालती ढंगले प्रयोग गरिएको अनौपचारिक रूपमा हामीले व्यक्त गर्ने)",
+"English": "no (an informal equivalent of いいえ)",
+"Lesson": "L-20"
+},
+{
+"ID": 840,
+"Pronunciation": "sarareman",
+"Japanese": "サラレーマン",
+"Nepali": "संवृद्धि कर्मचारी, कार्यालय कर्मचारी",
+"English": "salaried worker, office worker",
+"Lesson": "L-20"
+},
+{
+"ID": 841,
+"Pronunciation": "kotoba",
+"Japanese": "言葉",
+"Nepali": "शब्द, भाषा",
+"English": "word, language",
+"Lesson": "L-20"
+},
+{
+"ID": 842,
+"Pronunciation": "bukka",
+"Japanese": "物価",
+"Nepali": "मुल्य",
+"English": "commodity prices",
+"Lesson": "L-20"
+},
+{
+"ID": 843,
+"Pronunciation": "kimono",
+"Japanese": "着物",
+"Nepali": "किमोनो (पारंपरिक जापानी पोशाक)",
+"English": "kimono (traditional Japanese attire)",
+"Lesson": "L-20"
+},
+{
+"ID": 844,
+"Pronunciation": "biza",
+"Japanese": "ビザ",
+"Nepali": "भिजा",
+"English": "visa",
+"Lesson": "L-20"
+},
+{
+"ID": 845,
+"Pronunciation": "hajime",
+"Japanese": "初め",
+"Nepali": "शुरुवात",
+"English": "the beginning",
+"Lesson": "L-20"
+},
+{
+"ID": 846,
+"Pronunciation": "owari",
+"Japanese": "終わり",
+"Nepali": "अन्तिम, समाप्ति",
+"English": "the end",
+"Lesson": "L-20"
+},
+{
+"ID": 847,
+"Pronunciation": "kotchi",
+"Japanese": "こっち",
+"Nepali": "यहाँ, यहाँको तर्फ (अनौपचारिक ढंगले प्रयोग गरिएको)",
+"English": "this way, this place (an informal equivalent of こちら)",
+"Lesson": "L-20"
+},
+{
+"ID": 848,
+"Pronunciation": "socchi",
+"Japanese": "そっち",
+"Nepali": "यहाँ, त्यहाँको तर्फ (अनौपचारिक ढंगले प्रयोग गरिएको)",
+"English": "this way, that place (an informal equivalent of そちら)",
+"Lesson": "L-20"
+},
+{
+"ID": 849,
+"Pronunciation": "acchi",
+"Japanese": "あっち",
+"Nepali": "यहाँ, त्यहाँको तर्फ (अनौपचारिक ढंगले प्रयोग गरिएको)",
+"English": "this way, that place over there (an informal equivalent of あちら)",
+"Lesson": "L-20"
+},
+{
+"ID": 850,
+"Pronunciation": "docchi",
+"Japanese": "どっち",
+"Nepali": "कुनै (दुई वस्तुहरूको मध्ये), कुनै तर्फ, कुन ठाउँ (अनौपचारिक ढंगले प्रयोग गरिएको)",
+"English": "which one (between two things), which way, where (an informal equivalent of どちら)",
+"Lesson": "L-20"
+},
+{
+"ID": 851,
+"Pronunciation": "konoaida",
+"Japanese": "この間",
+"Nepali": "हाल, हालसम्मको क्षण",
+"English": "the other day",
+"Lesson": "L-20"
+},
+{
+"ID": 852,
+"Pronunciation": "minna de",
+"Japanese": "皆で",
+"Nepali": "सबै साथै",
+"English": "all together",
+"Lesson": "L-20"
+},
+{
+"ID": 853,
+"Pronunciation": "~kedo",
+"Japanese": "～けど",
+"Nepali": "तर, तरिका (अनौपचारिक ढंगले प्रयोग गरिएको)",
+"English": "~, but (an informal equivalent of が)",
+"Lesson": "L-20"
+},
+{
+"ID": 854,
+"Pronunciation": "kuni e kaeru no?",
+"Japanese": "国へ帰るの？",
+"Nepali": "तपाईं आफ्नो देशमा फर्किरहेका हुनुहुन्छ?",
+"English": "Are you going back to your country?",
+"Lesson": "L-20"
+},
+{
+"ID": 855,
+"Pronunciation": "dou suru no?",
+"Japanese": "どうするの？",
+"Nepali": "के गर्नुहुन्छ?",
+"English": "What will you do?",
+"Lesson": "L-20"
+},
+{
+"ID": 856,
+"Pronunciation": "dou shiyou ka na.",
+"Japanese": "どうしようかな。",
+"Nepali": "के गर्ने?",
+"English": "What shall I do?",
+"Lesson": "L-20"
+},
+{
+"ID": 857,
+"Pronunciation": "yokattara",
+"Japanese": "よかったら",
+"Nepali": "यदि तपाईंलाई मन पर्यो भने",
+"English": "if you like",
+"Lesson": "L-20"
+},
+{
+"ID": 858,
+"Pronunciation": "iroiro",
+"Japanese": "色々",
+"Nepali": "विविध, बिविध",
+"English": "various",
+"Lesson": "L-20"
+},
+{
+"ID": 859,
+"Pronunciation": "omoimasu",
+"Japanese": "思います",
+"Nepali": "सोच्छु",
+"English": "think",
+"Lesson": "L-21"
+},
+{
+"ID": 860,
+"Pronunciation": "iimasu",
+"Japanese": "言います",
+"Nepali": "भन्छु",
+"English": "say",
+"Lesson": "L-21"
+},
+{
+"ID": 861,
+"Pronunciation": "tarimasu",
+"Japanese": "足ります",
+"Nepali": "पुर्याउन्छु",
+"English": "be enough, be sufficient",
+"Lesson": "L-21"
+},
+{
+"ID": 862,
+"Pronunciation": "kachimasu",
+"Japanese": "勝ちます",
+"Nepali": "जित्छु",
+"English": "win",
+"Lesson": "L-21"
+},
+{
+"ID": 863,
+"Pronunciation": "makemasu",
+"Japanese": "負けます",
+"Nepali": "हराउँछु",
+"English": "lose, be beaten",
+"Lesson": "L-21"
+},
+{
+"ID": 864,
+"Pronunciation": "arimasu",
+"Japanese": "あります",
+"Nepali": "छ, रहेछु",
+"English": "[a festival] be held, take place",
+"Lesson": "L-21"
+},
+{
+"ID": 865,
+"Pronunciation": "yaku ni tachimasu",
+"Japanese": "役に立ちます",
+"Nepali": "मद्दत गर्छु",
+"English": "be useful",
+"Lesson": "L-21"
+},
+{
+"ID": 866,
+"Pronunciation": "muda [na]",
+"Japanese": "無駄[な]",
+"Nepali": "बेकार[ी]",
+"English": "wasteful",
+"Lesson": "L-21"
+},
+{
+"ID": 867,
+"Pronunciation": "fuben [na]",
+"Japanese": "不便[な]",
+"Nepali": "असुविधाजनक[ी]",
+"English": "inconvenient",
+"Lesson": "L-21"
+},
+{
+"ID": 868,
+"Pronunciation": "onaji",
+"Japanese": "同じ",
+"Nepali": "एउटै",
+"English": "the same",
+"Lesson": "L-21"
+},
+{
+"ID": 869,
+"Pronunciation": "sugoi",
+"Japanese": "凄い",
+"Nepali": "अद्भुत, भयंकर",
+"English": "awful, great (expresses astonishment or admiration)",
+"Lesson": "L-21"
+},
+{
+"ID": 870,
+"Pronunciation": "shusho",
+"Japanese": "首相",
+"Nepali": "प्रधानमन्त्री",
+"English": "prime minister",
+"Lesson": "L-21"
+},
+{
+"ID": 871,
+"Pronunciation": "daitoryo",
+"Japanese": "大統領",
+"Nepali": "राष्ट्रपति",
+"English": "president",
+"Lesson": "L-21"
+},
+{
+"ID": 872,
+"Pronunciation": "seiji",
+"Japanese": "政治",
+"Nepali": "राजनीति",
+"English": "politics",
+"Lesson": "L-21"
+},
+{
+"ID": 873,
+"Pronunciation": "nyusu",
+"Japanese": "ニュース",
+"Nepali": "समाचार",
+"English": "news",
+"Lesson": "L-21"
+},
+{
+"ID": 874,
+"Pronunciation": "supichi",
+"Japanese": "スピーチ",
+"Nepali": "भाषण",
+"English": "speech (～を します:make a speech)",
+"Lesson": "L-21"
+},
+{
+"ID": 875,
+"Pronunciation": "shiai",
+"Japanese": "試合",
+"Nepali": "खेली",
+"English": "game, match",
+"Lesson": "L-21"
+},
+{
+"ID": 876,
+"Pronunciation": "arubaito",
+"Japanese": "アルバイト",
+"Nepali": "पार्ट टाइम जस्तो",
+"English": "side job (～を します:work part time)",
+"Lesson": "L-21"
+},
+{
+"ID": 877,
+"Pronunciation": "iken",
+"Japanese": "意見",
+"Nepali": "मत",
+"English": "opinion",
+"Lesson": "L-21"
+},
+{
+"ID": 878,
+"Pronunciation": "[o] hanashi",
+"Japanese": "[お]話",
+"Nepali": "कुरा",
+"English": "talk, speech, what one says, story (～を します:talk, tell a story)",
+"Lesson": "L-21"
+},
+{
+"ID": 879,
+"Pronunciation": "yūmōa",
+"Japanese": "ユーモア",
+"Nepali": "हास्य",
+"English": "humor",
+"Lesson": "L-21"
+},
+{
+"ID": 880,
+"Pronunciation": "dezain",
+"Japanese": "デザイン",
+"Nepali": "डिजाइन",
+"English": "design",
+"Lesson": "L-21"
+},
+{
+"ID": 881,
+"Pronunciation": "kōtsū",
+"Japanese": "交通",
+"Nepali": "यातायात",
+"English": "transportation, traffic",
+"Lesson": "L-21"
+},
+{
+"ID": 882,
+"Pronunciation": "rasshu",
+"Japanese": "ラッシュ",
+"Nepali": "रश, भिड, घोसो",
+"English": "rush hour",
+"Lesson": "L-21"
+},
+{
+"ID": 883,
+"Pronunciation": "saikin",
+"Japanese": "最近",
+"Nepali": "हालहाल",
+"English": "recently, these days",
+"Lesson": "L-21"
+},
+{
+"ID": 884,
+"Pronunciation": "tabun",
+"Japanese": "多分",
+"Nepali": "शायद",
+"English": "probably, perhaps, maybe",
+"Lesson": "L-21"
+},
+{
+"ID": 885,
+"Pronunciation": "kitto",
+"Japanese": "きっと",
+"Nepali": "निश्चित",
+"English": "surely",
+"Lesson": "L-21"
+},
+{
+"ID": 886,
+"Pronunciation": "hontoni",
+"Japanese": "本当に",
+"Nepali": "वास्तवमा",
+"English": "really",
+"Lesson": "L-21"
+},
+{
+"ID": 887,
+"Pronunciation": "sonna ni",
+"Japanese": "そんなに",
+"Nepali": "त्यसै",
+"English": "not so much (used with negatives)",
+"Lesson": "L-21"
+},
+{
+"ID": 888,
+"Pronunciation": "~ ni tsuite",
+"Japanese": "～について",
+"Nepali": "~को बारेमा",
+"English": "about ~, concerning ~",
+"Lesson": "L-21"
+},
+{
+"ID": 889,
+"Pronunciation": "shikata ga arimasen.",
+"Japanese": "仕方がありません。",
+"Nepali": "के गर्ने ?",
+"English": "There is no other choice. / It can't be helped.",
+"Lesson": "L-21"
+},
+{
+"ID": 890,
+"Pronunciation": "shibaraku desu ne.",
+"Japanese": "暫くですね。",
+"Nepali": "केहिरो छौ",
+"English": "It's been a long time (since I last saw you). / Long time no see.",
+"Lesson": "L-21"
+},
+{
+"ID": 891,
+"Pronunciation": "~ de mo nomimasen ka.",
+"Japanese": "～でものみませんか。",
+"Nepali": "~पनि पिउन छौ कि ?",
+"English": "How about drinking ~ or something?",
+"Lesson": "L-21"
+},
+{
+"ID": 892,
+"Pronunciation": "minai to...",
+"Japanese": "見ないと...",
+"Nepali": "हेर्नुपर्छ ...",
+"English": "I've got to watch it.",
+"Lesson": "L-21"
+},
+{
+"ID": 893,
+"Pronunciation": "mochiron",
+"Japanese": "もちろん",
+"Nepali": "बिना कुरा",
+"English": "of course",
+"Lesson": "L-21"
+},
+{
+"ID": 894,
+"Pronunciation": "kimasu",
+"Japanese": "来ます",
+"Nepali": "आउँछु",
+"English": "come",
+"Lesson": "L-22"
+},
+{
+"ID": 895,
+"Pronunciation": "hakimasu",
+"Japanese": "履きます",
+"Nepali": "पाउँछु",
+"English": "wear",
+"Lesson": "L-22"
+},
+{
+"ID": 896,
+"Pronunciation": "kaburimasu",
+"Japanese": "被ります",
+"Nepali": "मल्लाउँछु",
+"English": "put on [a hat, etc]",
+"Lesson": "L-22"
+},
+{
+"ID": 897,
+"Pronunciation": "kakemasu",
+"Japanese": "掛けます",
+"Nepali": "लगाउँछु",
+"English": "put on [glasses]",
+"Lesson": "L-22"
+},
+{
+"ID": 898,
+"Pronunciation": "umaremasu",
+"Japanese": "生まれます",
+"Nepali": "जन्म लिन्छु",
+"English": "be born",
+"Lesson": "L-22"
+},
+{
+"ID": 899,
+"Pronunciation": "kōto",
+"Japanese": "コート",
+"Nepali": "कोट",
+"English": "coat",
+"Lesson": "L-22"
+},
+{
+"ID": 900,
+"Pronunciation": "sūtsu",
+"Japanese": "スーツ",
+"Nepali": "सूट",
+"English": "suit",
+"Lesson": "L-22"
+},
+{
+"ID": 901,
+"Pronunciation": "sētā",
+"Japanese": "セーター",
+"Nepali": "स्वेटर",
+"English": "sweater",
+"Lesson": "L-22"
+},
+{
+"ID": 902,
+"Pronunciation": "bōshi",
+"Japanese": "帽子",
+"Nepali": "टोपी",
+"English": "hat, cap",
+"Lesson": "L-22"
+},
+{
+"ID": 903,
+"Pronunciation": "megane",
+"Japanese": "眼鏡",
+"Nepali": "चश्मा",
+"English": "glasses",
+"Lesson": "L-22"
+},
+{
+"ID": 904,
+"Pronunciation": "yoku",
+"Japanese": "よく",
+"Nepali": "धेरै",
+"English": "often",
+"Lesson": "L-22"
+},
+{
+"ID": 905,
+"Pronunciation": "omedetō gozaimasu.",
+"Japanese": "おめでとうございます。",
+"Nepali": "बधाई छ",
+"English": "Congratulations. (used on birthdays, at weddings, New Year's Day, etc.)",
+"Lesson": "L-22"
+},
+{
+"ID": 906,
+"Pronunciation": "kochira",
+"Japanese": "こちら",
+"Nepali": "यहाँ, यो",
+"English": "this (polite equivalent of これ)",
+"Lesson": "L-22"
+},
+{
+"ID": 907,
+"Pronunciation": "yachin",
+"Japanese": "家賃",
+"Nepali": "घर भाडा",
+"English": "house rent",
+"Lesson": "L-22"
+},
+{
+"ID": 908,
+"Pronunciation": "ūn",
+"Japanese": "うーん",
+"Nepali": "हामीलाई हेर्नुहोस्",
+"English": "Let me see.",
+"Lesson": "L-22"
+},
+{
+"ID": 909,
+"Pronunciation": "dāningu kichin",
+"Japanese": "ダイニングキチン",
+"Nepali": "खाना र खानेपसल",
+"English": "kitchen with a dining area",
+"Lesson": "L-22"
+},
+{
+"ID": 910,
+"Pronunciation": "washitsu",
+"Japanese": "和室",
+"Nepali": "जापानी कोठा",
+"English": "Japanese-style room",
+"Lesson": "L-22"
+},
+{
+"ID": 911,
+"Pronunciation": "oshiire",
+"Japanese": "押し入れ",
+"Nepali": "देउराहरु",
+"English": "Japanese-style closet",
+"Lesson": "L-22"
+},
+{
+"ID": 912,
+"Pronunciation": "futon",
+"Japanese": "布団",
+"Nepali": "बिस्तारबारे",
+"English": "Japanese-style mattress and quilt",
+"Lesson": "L-22"
+},
+{
+"ID": 913,
+"Pronunciation": "apāto",
+"Japanese": "アパート",
+"Nepali": "आवास",
+"English": "apartment",
+"Lesson": "L-22"
+},
+{
+"ID": 914,
+"Pronunciation": "kikimasu",
+"Japanese": "聞きます",
+"Nepali": "सोध्नु",
+"English": "ask [the teacher]",
+"Lesson": "L-23"
+},
+{
+"ID": 915,
+"Pronunciation": "mawashimasu",
+"Japanese": "回します",
+"Nepali": "घुमाउँछु",
+"English": "turn",
+"Lesson": "L-23"
+},
+{
+"ID": 916,
+"Pronunciation": "hikimasu",
+"Japanese": "引きます",
+"Nepali": "खिचाउँछु",
+"English": "pull",
+"Lesson": "L-23"
+},
+{
+"ID": 917,
+"Pronunciation": "kaemasu",
+"Japanese": "変えます",
+"Nepali": "बदलाउँछु",
+"English": "change",
+"Lesson": "L-23"
+},
+{
+"ID": 918,
+"Pronunciation": "sawarimasu",
+"Japanese": "触ります",
+"Nepali": "छुएँछु",
+"English": "touch [a door]",
+"Lesson": "L-23"
+},
+{
+"ID": 919,
+"Pronunciation": "demasu",
+"Japanese": "出ます",
+"Nepali": "निस्किन्छु",
+"English": "[change] come out",
+"Lesson": "L-23"
+},
+{
+"ID": 920,
+"Pronunciation": "ugokimasu",
+"Japanese": "動きます",
+"Nepali": "हल्लिन्छु",
+"English": "[a watch] move, work",
+"Lesson": "L-23"
+},
+{
+"ID": 921,
+"Pronunciation": "arukimasu",
+"Japanese": "歩きます",
+"Nepali": "हिँड्न्छु",
+"English": "walk [along a road]",
+"Lesson": "L-23"
+},
+{
+"ID": 922,
+"Pronunciation": "watarimasu",
+"Japanese": "渡ります",
+"Nepali": "लिन्छु",
+"English": "cross [a bridge]",
+"Lesson": "L-23"
+},
+{
+"ID": 923,
+"Pronunciation": "kiwotsukemasu",
+"Japanese": "気をつけます",
+"Nepali": "सतर्क रहन्छु",
+"English": "pay attention [to cars], take care",
+"Lesson": "L-23"
+},
+{
+"ID": 924,
+"Pronunciation": "hikkoshishimasu",
+"Japanese": "引っ越しします",
+"Nepali": "बसाईन्छु",
+"English": "move (house)",
+"Lesson": "L-23"
+},
+{
+"ID": 925,
+"Pronunciation": "denkiya",
+"Japanese": "電気屋",
+"Nepali": "बिजुलीको दुकान",
+"English": "electrician",
+"Lesson": "L-23"
+},
+{
+"ID": 926,
+"Pronunciation": "~ya",
+"Japanese": "～屋",
+"Nepali": "~को दुकान",
+"English": "person of ~ shop",
+"Lesson": "L-23"
+},
+{
+"ID": 927,
+"Pronunciation": "saizu",
+"Japanese": "サイズ",
+"Nepali": "माप",
+"English": "size",
+"Lesson": "L-23"
+},
+{
+"ID": 928,
+"Pronunciation": "oto",
+"Japanese": "音",
+"Nepali": "आवाज",
+"English": "sound",
+"Lesson": "L-23"
+},
+{
+"ID": 929,
+"Pronunciation": "kikai",
+"Japanese": "機械",
+"Nepali": "मेसिनरी",
+"English": "machine",
+"Lesson": "L-23"
+},
+{
+"ID": 930,
+"Pronunciation": "tsumami",
+"Japanese": "抓み",
+"Nepali": "ग्रिप",
+"English": "knob",
+"Lesson": "L-23"
+},
+{
+"ID": 931,
+"Pronunciation": "koshō",
+"Japanese": "故障",
+"Nepali": "खराबी",
+"English": "breakdown (～します: breakdown)",
+"Lesson": "L-23"
+},
+{
+"ID": 932,
+"Pronunciation": "michi",
+"Japanese": "道",
+"Nepali": "बाटो",
+"English": "road, way",
+"Lesson": "L-23"
+},
+{
+"ID": 933,
+"Pronunciation": "kōsaten",
+"Japanese": "交差点",
+"Nepali": "चौराहा",
+"English": "crossroad",
+"Lesson": "L-23"
+},
+{
+"ID": 934,
+"Pronunciation": "shingō",
+"Japanese": "信号",
+"Nepali": "ट्राफिक लाइट",
+"English": "traffic light",
+"Lesson": "L-23"
+},
+{
+"ID": 935,
+"Pronunciation": "kado",
+"Japanese": "角",
+"Nepali": "कोना",
+"English": "corner",
+"Lesson": "L-23"
+},
+{
+"ID": 936,
+"Pronunciation": "hashi",
+"Japanese": "橋",
+"Nepali": "पुल",
+"English": "bridge",
+"Lesson": "L-23"
+},
+{
+"ID": 937,
+"Pronunciation": "chūshajō",
+"Japanese": "駐車場",
+"Nepali": "पार्किङ गाडीस्थल",
+"English": "parking lot, car park",
+"Lesson": "L-23"
+},
+{
+"ID": 938,
+"Pronunciation": "-me",
+"Japanese": "-目",
+"Nepali": "-औं",
+"English": "the -th (indicating order)",
+"Lesson": "L-23"
+},
+{
+"ID": 939,
+"Pronunciation": "[o] shōgatsu",
+"Japanese": "[お]正月",
+"Nepali": "नयाँ वर्ष",
+"English": "New Year's Day",
+"Lesson": "L-23"
+},
+{
+"ID": 940,
+"Pronunciation": "gochisōsama[-deshita]",
+"Japanese": "ご馳走さま",
+"Nepali": "खानेपछि धन्यवाद",
+"English": "That was delicious. (Said after eating or drinking)",
+"Lesson": "L-23"
+},
+{
+"ID": 941,
+"Pronunciation": "tatemono",
+"Japanese": "建物",
+"Nepali": "भवन",
+"English": "building",
+"Lesson": "L-23"
+},
+{
+"ID": 942,
+"Pronunciation": "gaikokujin tōrokushō",
+"Japanese": "外国人登録証",
+"Nepali": "पर्यटक दर्ता",
+"English": "alien registration card",
+"Lesson": "L-23"
+},
+{
+"ID": 943,
+"Pronunciation": "kuremasu",
+"Japanese": "呉れます",
+"Nepali": "दिनु",
+"English": "give (me)",
+"Lesson": "L-24"
+},
+{
+"ID": 944,
+"Pronunciation": "tsureteikimasu",
+"Japanese": "連れて行きます",
+"Nepali": "लिनु",
+"English": "take (someone)",
+"Lesson": "L-24"
+},
+{
+"ID": 945,
+"Pronunciation": "tsuretekimasu",
+"Japanese": "連れて来ます",
+"Nepali": "ल्याउनु",
+"English": "bring (someone)",
+"Lesson": "L-24"
+},
+{
+"ID": 946,
+"Pronunciation": "okurimasu",
+"Japanese": "送ります",
+"Nepali": "पठाउनु",
+"English": "escort [someone], go with",
+"Lesson": "L-24"
+},
+{
+"ID": 947,
+"Pronunciation": "shōkai shimasu",
+"Japanese": "紹介します",
+"Nepali": "परिचय गर्नु",
+"English": "introduce",
+"Lesson": "L-24"
+},
+{
+"ID": 948,
+"Pronunciation": "annai shimasu",
+"Japanese": "案内します",
+"Nepali": "देखाउनु",
+"English": "show around, show the way",
+"Lesson": "L-24"
+},
+{
+"ID": 949,
+"Pronunciation": "setsumei shimasu",
+"Japanese": "説明します",
+"Nepali": "व्याख्यान गर्नु",
+"English": "explain",
+"Lesson": "L-24"
+},
+{
+"ID": 950,
+"Pronunciation": "iremasu",
+"Japanese": "入れます",
+"Nepali": "राख्नु",
+"English": "make [coffee]",
+"Lesson": "L-24"
+},
+{
+"ID": 951,
+"Pronunciation": "ojiisan/ojiichan",
+"Japanese": "おじいさん/おじいちゃん",
+"Nepali": "हजुरबा/हजुरबुवा",
+"English": "grandfather, old man",
+"Lesson": "L-24"
+},
+{
+"ID": 952,
+"Pronunciation": "obaasan/obaachan",
+"Japanese": "おばあさん/おばあちゃん",
+"Nepali": "हजुरआमा/हजुरआमी",
+"English": "grandmother, old woman",
+"Lesson": "L-24"
+},
+{
+"ID": 953,
+"Pronunciation": "junbi",
+"Japanese": "準備",
+"Nepali": "तयारी",
+"English": "preparation (～します: prepare)",
+"Lesson": "L-24"
+},
+{
+"ID": 954,
+"Pronunciation": "imi",
+"Japanese": "意味",
+"Nepali": "अर्थ",
+"English": "meaning",
+"Lesson": "L-24"
+},
+{
+"ID": 955,
+"Pronunciation": "[o] kashi",
+"Japanese": "[お]菓子",
+"Nepali": "मिठाई",
+"English": "sweets, snacks",
+"Lesson": "L-24"
+},
+{
+"ID": 956,
+"Pronunciation": "zenbu",
+"Japanese": "全部",
+"Nepali": "सबै",
+"English": "all",
+"Lesson": "L-24"
+},
+{
+"ID": 957,
+"Pronunciation": "jibunde",
+"Japanese": "自分で",
+"Nepali": "आफ्नै",
+"English": "by oneself",
+"Lesson": "L-24"
+},
+{
+"ID": 958,
+"Pronunciation": "hokani",
+"Japanese": "外に",
+"Nepali": "बाहिर",
+"English": "besides",
+"Lesson": "L-24"
+},
+{
+"ID": 959,
+"Pronunciation": "wagonsya",
+"Japanese": "ワゴン車",
+"Nepali": "व्यान",
+"English": "station wagon",
+"Lesson": "L-24"
+},
+{
+"ID": 960,
+"Pronunciation": "[o] bentō",
+"Japanese": "[お]弁当",
+"Nepali": "खाजा",
+"English": "box lunch",
+"Lesson": "L-24"
+},
+{
+"ID": 961,
+"Pronunciation": "kangaemasu",
+"Japanese": "考えます",
+"Nepali": "सोच्नु",
+"English": "think, consider",
+"Lesson": "L-25"
+},
+{
+"ID": 962,
+"Pronunciation": "tsukimasu",
+"Japanese": "着きます",
+"Nepali": "पुग्नु",
+"English": "arrive [at the station]",
+"Lesson": "L-25"
+},
+{
+"ID": 963,
+"Pronunciation": "ryūgakushimasu",
+"Japanese": "留学します",
+"Nepali": "बिदेश पढ्नु",
+"English": "study abroad",
+"Lesson": "L-25"
+},
+{
+"ID": 964,
+"Pronunciation": "torimasu",
+"Japanese": "取ります",
+"Nepali": "बढ्नु",
+"English": "grow old",
+"Lesson": "L-25"
+},
+{
+"ID": 965,
+"Pronunciation": "inaka",
+"Japanese": "田舎",
+"Nepali": "गाउँ",
+"English": "countryside, hometown",
+"Lesson": "L-25"
+},
+{
+"ID": 966,
+"Pronunciation": "taishikan",
+"Japanese": "大使館",
+"Nepali": "राष्ट्रपति भवन",
+"English": "embassy",
+"Lesson": "L-25"
+},
+{
+"ID": 967,
+"Pronunciation": "gurūpu",
+"Japanese": "グループ",
+"Nepali": "समूह",
+"English": "group",
+"Lesson": "L-25"
+},
+{
+"ID": 968,
+"Pronunciation": "chansu",
+"Japanese": "チャンス",
+"Nepali": "मौका",
+"English": "chance",
+"Lesson": "L-25"
+},
+{
+"ID": 969,
+"Pronunciation": "oku",
+"Japanese": "億",
+"Nepali": "अर्ब",
+"English": "hundred million",
+"Lesson": "L-25"
+},
+{
+"ID": 970,
+"Pronunciation": "moshi [tara]",
+"Japanese": "もし[たら]",
+"Nepali": "यदि",
+"English": "if ~",
+"Lesson": "L-25"
+},
+{
+"ID": 971,
+"Pronunciation": "ikura [demo]",
+"Japanese": "いくら[でも]",
+"Nepali": "जतिमा",
+"English": "however ~, even if ~",
+"Lesson": "L-25"
+},
+{
+"ID": 972,
+"Pronunciation": "tenkin",
+"Japanese": "転勤",
+"Nepali": "स्थानान्तर",
+"English": "transfer (～します: be transferred to another office)",
+"Lesson": "L-25"
+},
+{
+"ID": 973,
+"Pronunciation": "koto",
+"Japanese": "事",
+"Nepali": "कुरा",
+"English": "thing, matter (～のこと: thing about ~)",
+"Lesson": "L-25"
+},
+{
+"ID": 974,
+"Pronunciation": "ippai nomimashō",
+"Japanese": "一杯飲みましょう",
+"Nepali": "एक प्याला पिउनु",
+"English": "Let's have a drink together.",
+"Lesson": "L-25"
+},
+{
+"ID": 975,
+"Pronunciation": "[iroiro] osewa ni narimashita",
+"Japanese": "[いろいろ]お世話になりました",
+"Nepali": "[अनेक] सहयोगका लागि धन्यवाद",
+"English": "Thank you for everything you have done for me.",
+"Lesson": "L-25"
+},
+{
+"ID": 976,
+"Pronunciation": "ganbarimasu",
+"Japanese": "頑張ります",
+"Nepali": "प्रयास गर्नु",
+"English": "do one's best",
+"Lesson": "L-25"
+},
+{
+"ID": 977,
+"Pronunciation": "dōzo ogenki de",
+"Japanese": "どうぞお元気で",
+"Nepali": "सबै ठिक छ?",
+"English": "Best of luck. (said when expecting a long separation)",
+"Lesson": "L-25"
+}
 ]
